@@ -1,0 +1,145 @@
+{
+  "instance": {
+    "m": 2,
+    "n": 12,
+    "seed": 2732041,
+    "generation_seed": 2424062888444698706,
+    "buffer_capacity_MB": [
+      40,
+      40
+    ],
+    "edges_zero_based": [
+      [
+        0,
+        1
+      ]
+    ],
+    "unreliable_edge_zero_based": [
+      0,
+      1
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          10,
+          18,
+          15
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          14,
+          28,
+          32
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          33,
+          21
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          31,
+          35,
+          14
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          18,
+          32,
+          28
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          33,
+          17,
+          12
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          29,
+          16
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          33,
+          10,
+          16
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          31,
+          22
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          25,
+          20
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          25,
+          10
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          31,
+          22,
+          21
+        ],
+        "access_satellite_zero_based": 0
+      }
+    ]
+  },
+  "method": "mba_current",
+  "scenario": "S0",
+  "selection_seed": 18045655268500559294,
+  "config": {
+    "schema": "D027-v2",
+    "slots_per_app": 64,
+    "worker_wall_seconds": 30,
+    "rss_limit_bytes": 536870912,
+    "cache_limit": 100000,
+    "methods": [
+      "uncontrolled",
+      "mba_current",
+      "peak_remaining",
+      "rmba"
+    ],
+    "scenarios": [
+      "S0",
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S5",
+      "S6"
+    ]
+  }
+}

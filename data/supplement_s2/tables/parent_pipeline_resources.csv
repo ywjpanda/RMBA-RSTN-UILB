@@ -1,0 +1,5 @@
+phase,wall_s,parent_RSS_sample_peak_bytes,parent_ru_maxrss_cumulative_bytes,sampling_seconds,minimum_free_disk_sample_bytes,postprocessing_bytes_above_baseline,RSS_scope
+serial instances,7230.250599541236,435781632,435781632,0.5,211964162048,,parent current RSS includes retained objects; cumulative high-water mark separately labeled
+semantic completeness,238.68500204198062,457572352,459784192,0.5,211964162048,0,parent current RSS includes retained objects; cumulative high-water mark separately labeled
+instance-equal summary,0.06296791601926088,452919296,459784192,0.5,211964162048,0,parent current RSS includes retained objects; cumulative high-water mark separately labeled
+archive/member checks,27.400156625080854,673611776,1304117248,0.5,211340890112,851448027,parent current RSS includes retained objects; cumulative high-water mark separately labeled

@@ -1,0 +1,220 @@
+{
+  "instance": {
+    "schema": "D032_INSTANCE_V1",
+    "namespace": "RMBA_SCALE_017_v1",
+    "split": "formal",
+    "config_id": "K4",
+    "seed_label": 1702074,
+    "derived_seeds": {
+      "data": 1668825403698095315,
+      "access": 15537927721508719998,
+      "capacity": 16746356376438646355,
+      "selector": 13119981823576546071
+    },
+    "m": 4,
+    "n": 16,
+    "K": 4,
+    "buffer_capacity_MB": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "edges_zero_based": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unreliable_edge_zero_based": [
+      1,
+      2
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          35,
+          12,
+          12,
+          31,
+          32
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          27,
+          28,
+          20,
+          28,
+          24
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          28,
+          30,
+          31,
+          33,
+          10
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          25,
+          35,
+          17,
+          12,
+          32
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          34,
+          19,
+          18,
+          31,
+          16
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          33,
+          32,
+          15,
+          10,
+          31
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          21,
+          23,
+          24,
+          21,
+          14
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          21,
+          18,
+          30,
+          29,
+          13
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          27,
+          29,
+          15,
+          26,
+          14
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          24,
+          17,
+          28,
+          17,
+          18
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          14,
+          17,
+          31,
+          19
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          33,
+          30,
+          11,
+          29,
+          19
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          12,
+          24,
+          19,
+          30,
+          33
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          33,
+          29,
+          21,
+          11,
+          14
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          22,
+          33,
+          15,
+          18,
+          26
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          11,
+          14,
+          11,
+          13,
+          32
+        ],
+        "access_satellite_zero_based": 1
+      }
+    ]
+  },
+  "scenario": "N",
+  "limits": {
+    "science_concurrency": 1,
+    "cache_entries": 100000,
+    "worker_wall_s": 120,
+    "worker_rss_bytes": 2147483648,
+    "parent_rss_bytes": 4294967296,
+    "watchdog_interval_s": 0.5,
+    "term_grace_s": 3,
+    "trajectory_disk_bytes": 536870912,
+    "aggregate_new_disk_bytes": 17179869184,
+    "preflight_min_free_bytes": 10737418240,
+    "runtime_min_free_bytes": 2147483648,
+    "main_plus_supplement_cumulative_formal_pipeline_s": 43200,
+    "cleanup_s": 300
+  }
+}

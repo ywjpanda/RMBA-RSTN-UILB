@@ -1,0 +1,112 @@
+{
+  "instance": {
+    "n": 8,
+    "seed": 2632087,
+    "generation_seed": 13619327392238584953,
+    "buffer_capacity_MB": [
+      40,
+      40
+    ],
+    "edges_zero_based": [
+      [
+        0,
+        1
+      ]
+    ],
+    "unreliable_edge_zero_based": [
+      0,
+      1
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          29,
+          29,
+          28
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          12,
+          27
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          20,
+          21,
+          34
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          35,
+          10,
+          24
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          21,
+          19
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          21,
+          19,
+          31
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          27,
+          17,
+          27
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          20,
+          21,
+          26
+        ],
+        "access_satellite_zero_based": 1
+      }
+    ]
+  },
+  "method": "mba_current",
+  "scenario": "S0",
+  "selection_seed": 5014979442355280262,
+  "config": {
+    "schema": "D026-v3",
+    "slots_per_app": 64,
+    "worker_wall_seconds": 30,
+    "rss_limit_bytes": 536870912,
+    "cache_limit": 100000,
+    "methods": [
+      "uncontrolled",
+      "mba_current",
+      "peak_remaining",
+      "rmba"
+    ],
+    "scenarios": [
+      "S0",
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "S5",
+      "S6"
+    ]
+  }
+}

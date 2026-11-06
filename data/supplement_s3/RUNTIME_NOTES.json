@@ -1,0 +1,13 @@
+{
+  "formal_mean60_worker_s": 1086.1530296530027,
+  "formal_mean60_pipeline_s": 1523.8728987079999,
+  "timing_scope": "Worker and complete pipeline accounting have distinct scopes; neither is a single-state certification or complete-decision latency.",
+  "historical_environments": {
+    "decision_scale_mean60": "macOS15.7.9 arm64, CLT Python3.9.6",
+    "paired_certification_tristar": "macOS arm64, Anaconda Python3.10.18"
+  },
+  "load_boundary": "Timing observations include concurrent author-run scientific jobs. Dynamic host load was not measured or eliminated; exclusive resource use or absence of interference is not inferred.",
+  "reference_environment": "Author-specified reproduction environment: Intel Core i9-10900K CPU @ 3.70 GHz and 128 GB RAM, running CentOS 7.4, with Python 3.10.9.",
+  "environment_label": "Specified reproduction environment",
+  "caveat": "The supplied timing results use the recorded measurement environments listed in historical_environments. The reference_environment is specified by the authors for reproduction."
+}

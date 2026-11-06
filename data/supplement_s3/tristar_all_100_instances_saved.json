@@ -1,0 +1,3802 @@
+[
+  {
+    "R_RMBA": 9720,
+    "Rstar": 9720,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63274.817,
+      "RMBA": 38546.79125
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 527,
+      "has_done": 507,
+      "has_ready": 520,
+      "initial_safe": 0,
+      "up": 473
+    },
+    "ratio": 0.6091964082646023,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342001,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 253099268,
+      "RMBA": 154187165
+    },
+    "worker_elapsed_s": 0.4446382918395102,
+    "worker_peak_rss_bytes": 44285952,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8124,
+    "Rstar": 8124,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 73410.01325,
+      "RMBA": 43482.7935
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 513,
+      "has_done": 507,
+      "has_ready": 539,
+      "initial_safe": 6,
+      "up": 487
+    },
+    "ratio": 0.592327825250733,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342002,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 293640053,
+      "RMBA": 173931174
+    },
+    "worker_elapsed_s": 0.5166524173691869,
+    "worker_peak_rss_bytes": 44204032,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 18440,
+    "Rstar": 18440,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 75719.8505,
+      "RMBA": 43674.8425
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 476,
+      "has_done": 392,
+      "has_ready": 398,
+      "initial_safe": 0,
+      "up": 524
+    },
+    "ratio": 0.5767951496417706,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342003,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 302879402,
+      "RMBA": 174699370
+    },
+    "worker_elapsed_s": 0.5155083332210779,
+    "worker_peak_rss_bytes": 46186496,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 14156,
+    "Rstar": 14156,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 79146.6565,
+      "RMBA": 42876.564
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 528,
+      "has_done": 430,
+      "has_ready": 423,
+      "initial_safe": 1,
+      "up": 472
+    },
+    "ratio": 0.5417356322563038,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342004,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 316586626,
+      "RMBA": 171506256
+    },
+    "worker_elapsed_s": 0.5302678332664073,
+    "worker_peak_rss_bytes": 46661632,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 7946,
+    "Rstar": 7946,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 66165.8095,
+      "RMBA": 39569.78075
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 493,
+      "has_done": 585,
+      "has_ready": 568,
+      "initial_safe": 5,
+      "up": 507
+    },
+    "ratio": 0.5980396982825397,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342005,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 264663238,
+      "RMBA": 158279123
+    },
+    "worker_elapsed_s": 0.45870020892471075,
+    "worker_peak_rss_bytes": 45252608,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 4676,
+    "Rstar": 4676,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 61010.35725,
+      "RMBA": 36886.47075
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 499,
+      "has_done": 653,
+      "has_ready": 646,
+      "initial_safe": 11,
+      "up": 501
+    },
+    "ratio": 0.604593587263415,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342006,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 244041429,
+      "RMBA": 147545883
+    },
+    "worker_elapsed_s": 0.4243016252294183,
+    "worker_peak_rss_bytes": 43958272,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 14204,
+    "Rstar": 14204,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 71479.47125,
+      "RMBA": 43022.382
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 502,
+      "has_done": 439,
+      "has_ready": 450,
+      "initial_safe": 3,
+      "up": 498
+    },
+    "ratio": 0.6018844466480296,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342007,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 285917885,
+      "RMBA": 172089528
+    },
+    "worker_elapsed_s": 0.4959717090241611,
+    "worker_peak_rss_bytes": 47104000,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9784,
+    "Rstar": 9784,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 61304.442,
+      "RMBA": 35608.0225
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 526,
+      "has_ready": 514,
+      "initial_safe": 3,
+      "up": 505
+    },
+    "ratio": 0.5808391910654696,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342008,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 245217768,
+      "RMBA": 142432090
+    },
+    "worker_elapsed_s": 0.42228091694414616,
+    "worker_peak_rss_bytes": 44023808,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 20704,
+    "Rstar": 20704,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 81250.266,
+      "RMBA": 44351.0745
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 497,
+      "has_done": 378,
+      "has_ready": 379,
+      "initial_safe": 1,
+      "up": 503
+    },
+    "ratio": 0.5458575914077622,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342009,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 325001064,
+      "RMBA": 177404298
+    },
+    "worker_elapsed_s": 0.5463422918692231,
+    "worker_peak_rss_bytes": 47874048,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11380,
+    "Rstar": 11380,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 67236.04575,
+      "RMBA": 40526.4835
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 483,
+      "has_done": 472,
+      "has_ready": 483,
+      "initial_safe": 3,
+      "up": 517
+    },
+    "ratio": 0.6027493593345352,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342010,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 268944183,
+      "RMBA": 162105934
+    },
+    "worker_elapsed_s": 0.4647518331184983,
+    "worker_peak_rss_bytes": 45907968,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10178,
+    "Rstar": 10178,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 88148.22775,
+      "RMBA": 48133.1835
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 2,
+      "down": 512,
+      "has_done": 541,
+      "has_ready": 499,
+      "initial_safe": 2,
+      "up": 488
+    },
+    "ratio": 0.5460482272713645,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342011,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 352592911,
+      "RMBA": 192532734
+    },
+    "worker_elapsed_s": 0.5910140001215041,
+    "worker_peak_rss_bytes": 45875200,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 7750,
+    "Rstar": 7750,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63997.13525,
+      "RMBA": 37861.6215
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 515,
+      "has_done": 579,
+      "has_ready": 563,
+      "initial_safe": 4,
+      "up": 485
+    },
+    "ratio": 0.5916143176111934,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342012,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 255988541,
+      "RMBA": 151446486
+    },
+    "worker_elapsed_s": 0.44219399988651276,
+    "worker_peak_rss_bytes": 44744704,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8784,
+    "Rstar": 8784,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 56855.11925,
+      "RMBA": 34621.89525
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 482,
+      "has_done": 541,
+      "has_ready": 538,
+      "initial_safe": 3,
+      "up": 518
+    },
+    "ratio": 0.6089494790743931,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342013,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 227420477,
+      "RMBA": 138487581
+    },
+    "worker_elapsed_s": 0.400070249568671,
+    "worker_peak_rss_bytes": 45072384,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10700,
+    "Rstar": 10700,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63917.26925,
+      "RMBA": 37806.0975
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 512,
+      "has_done": 503,
+      "has_ready": 502,
+      "initial_safe": 5,
+      "up": 488
+    },
+    "ratio": 0.5914848669790442,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342014,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 255669077,
+      "RMBA": 151224390
+    },
+    "worker_elapsed_s": 0.43707854207605124,
+    "worker_peak_rss_bytes": 43171840,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 12872,
+    "Rstar": 12872,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 72684.64375,
+      "RMBA": 42127.99575
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 2,
+      "down": 484,
+      "has_done": 467,
+      "has_ready": 451,
+      "initial_safe": 7,
+      "up": 516
+    },
+    "ratio": 0.5795996730052075,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342015,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 290738575,
+      "RMBA": 168511983
+    },
+    "worker_elapsed_s": 0.49026091722771525,
+    "worker_peak_rss_bytes": 45891584,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11156,
+    "Rstar": 11156,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 80072.83225,
+      "RMBA": 44911.38975
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 528,
+      "has_done": 483,
+      "has_ready": 494,
+      "initial_safe": 3,
+      "up": 472
+    },
+    "ratio": 0.5608817433830686,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342016,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 320291329,
+      "RMBA": 179645559
+    },
+    "worker_elapsed_s": 0.5382118332199752,
+    "worker_peak_rss_bytes": 45203456,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9316,
+    "Rstar": 9316,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 61648.6605,
+      "RMBA": 36424.99625
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 511,
+      "has_ready": 532,
+      "initial_safe": 2,
+      "up": 505
+    },
+    "ratio": 0.5908481377304216,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342017,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 246594642,
+      "RMBA": 145699985
+    },
+    "worker_elapsed_s": 0.4206572091206908,
+    "worker_peak_rss_bytes": 45383680,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6716,
+    "Rstar": 6716,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63904.9125,
+      "RMBA": 37847.12125
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 502,
+      "has_done": 573,
+      "has_ready": 621,
+      "initial_safe": 4,
+      "up": 498
+    },
+    "ratio": 0.5922411872483199,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342018,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 255619650,
+      "RMBA": 151388485
+    },
+    "worker_elapsed_s": 0.43725879210978746,
+    "worker_peak_rss_bytes": 43417600,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 7292,
+    "Rstar": 7292,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 66041.47775,
+      "RMBA": 39282.9655
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 504,
+      "has_done": 585,
+      "has_ready": 565,
+      "initial_safe": 8,
+      "up": 496
+    },
+    "ratio": 0.5948226302371011,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342019,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 264165911,
+      "RMBA": 157131862
+    },
+    "worker_elapsed_s": 0.4519930421374738,
+    "worker_peak_rss_bytes": 43728896,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8310,
+    "Rstar": 8310,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 69312.38325,
+      "RMBA": 39419.86225
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 488,
+      "has_done": 539,
+      "has_ready": 553,
+      "initial_safe": 4,
+      "up": 512
+    },
+    "ratio": 0.5687275548990736,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342020,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 277249533,
+      "RMBA": 157679449
+    },
+    "worker_elapsed_s": 0.4650159580633044,
+    "worker_peak_rss_bytes": 43892736,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9376,
+    "Rstar": 9376,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 64971.90275,
+      "RMBA": 37269.662
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 513,
+      "has_done": 518,
+      "has_ready": 538,
+      "initial_safe": 2,
+      "up": 487
+    },
+    "ratio": 0.573627374642341,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342021,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 259887611,
+      "RMBA": 149078648
+    },
+    "worker_elapsed_s": 0.4397101253271103,
+    "worker_peak_rss_bytes": 45072384,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 19660,
+    "Rstar": 19660,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 83867.13325,
+      "RMBA": 45463.40275
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 506,
+      "has_done": 375,
+      "has_ready": 372,
+      "initial_safe": 1,
+      "up": 494
+    },
+    "ratio": 0.5420884318828199,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342022,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 335468533,
+      "RMBA": 181853611
+    },
+    "worker_elapsed_s": 0.5545762907713652,
+    "worker_peak_rss_bytes": 46366720,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8966,
+    "Rstar": 8966,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 91646.254,
+      "RMBA": 53163.52275
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 506,
+      "has_done": 509,
+      "has_ready": 521,
+      "initial_safe": 4,
+      "up": 494
+    },
+    "ratio": 0.5800948803646682,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342023,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 366585016,
+      "RMBA": 212654091
+    },
+    "worker_elapsed_s": 0.6208638339303434,
+    "worker_peak_rss_bytes": 44646400,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 5514,
+    "Rstar": 5514,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 57583.3385,
+      "RMBA": 35026.078
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 500,
+      "has_done": 619,
+      "has_ready": 641,
+      "initial_safe": 4,
+      "up": 500
+    },
+    "ratio": 0.6082675807343126,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342024,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 230333354,
+      "RMBA": 140104312
+    },
+    "worker_elapsed_s": 0.39735616696998477,
+    "worker_peak_rss_bytes": 43237376,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 7424,
+    "Rstar": 7424,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63391.24575,
+      "RMBA": 38931.0705
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 527,
+      "has_done": 578,
+      "has_ready": 570,
+      "initial_safe": 5,
+      "up": 473
+    },
+    "ratio": 0.6141395399221982,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342025,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 253564983,
+      "RMBA": 155724282
+    },
+    "worker_elapsed_s": 0.44025304168462753,
+    "worker_peak_rss_bytes": 43155456,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9800,
+    "Rstar": 9800,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 74424.85425,
+      "RMBA": 46570.124
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 503,
+      "has_ready": 501,
+      "initial_safe": 6,
+      "up": 505
+    },
+    "ratio": 0.6257334927867864,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342026,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 297699417,
+      "RMBA": 186280496
+    },
+    "worker_elapsed_s": 0.5307156662456691,
+    "worker_peak_rss_bytes": 45662208,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 7782,
+    "Rstar": 7782,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 64504.4855,
+      "RMBA": 37476.78175
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 516,
+      "has_done": 574,
+      "has_ready": 520,
+      "initial_safe": 5,
+      "up": 484
+    },
+    "ratio": 0.5809949720473315,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342027,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 258017942,
+      "RMBA": 149907127
+    },
+    "worker_elapsed_s": 0.43938174983486533,
+    "worker_peak_rss_bytes": 44138496,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10896,
+    "Rstar": 10896,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 65414.00775,
+      "RMBA": 38074.0635
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 479,
+      "has_done": 477,
+      "has_ready": 489,
+      "initial_safe": 2,
+      "up": 521
+    },
+    "ratio": 0.582047558460443,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342028,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 261656031,
+      "RMBA": 152296254
+    },
+    "worker_elapsed_s": 0.44439729070290923,
+    "worker_peak_rss_bytes": 46546944,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6522,
+    "Rstar": 6522,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63788.3935,
+      "RMBA": 37004.52275
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 487,
+      "has_done": 579,
+      "has_ready": 589,
+      "initial_safe": 2,
+      "up": 513
+    },
+    "ratio": 0.580113727899418,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342029,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 255153574,
+      "RMBA": 148018091
+    },
+    "worker_elapsed_s": 0.4335835827514529,
+    "worker_peak_rss_bytes": 42680320,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9584,
+    "Rstar": 9584,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 66938.6435,
+      "RMBA": 39121.446
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 503,
+      "has_done": 495,
+      "has_ready": 542,
+      "initial_safe": 3,
+      "up": 497
+    },
+    "ratio": 0.5844373885467219,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342030,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 267754574,
+      "RMBA": 156485784
+    },
+    "worker_elapsed_s": 0.45399054093286395,
+    "worker_peak_rss_bytes": 43384832,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8266,
+    "Rstar": 8266,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 59196.8275,
+      "RMBA": 34443.21025
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 514,
+      "has_done": 559,
+      "has_ready": 548,
+      "initial_safe": 5,
+      "up": 486
+    },
+    "ratio": 0.5818421645991079,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342031,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 236787310,
+      "RMBA": 137772841
+    },
+    "worker_elapsed_s": 0.4049661667086184,
+    "worker_peak_rss_bytes": 44138496,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9976,
+    "Rstar": 9976,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 71959.3325,
+      "RMBA": 41303.6225
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 498,
+      "has_done": 494,
+      "has_ready": 503,
+      "initial_safe": 2,
+      "up": 502
+    },
+    "ratio": 0.573985625839428,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342032,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 287837330,
+      "RMBA": 165214490
+    },
+    "worker_elapsed_s": 0.4902822501026094,
+    "worker_peak_rss_bytes": 44531712,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6350,
+    "Rstar": 6350,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 70361.279,
+      "RMBA": 42252.85225
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 512,
+      "has_done": 618,
+      "has_ready": 601,
+      "initial_safe": 5,
+      "up": 488
+    },
+    "ratio": 0.6005128509673624,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342033,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 281445116,
+      "RMBA": 169011409
+    },
+    "worker_elapsed_s": 0.4905785000883043,
+    "worker_peak_rss_bytes": 43778048,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 15096,
+    "Rstar": 15096,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 71174.98125,
+      "RMBA": 39909.29475
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 511,
+      "has_done": 409,
+      "has_ready": 437,
+      "initial_safe": 4,
+      "up": 489
+    },
+    "ratio": 0.5607208326451087,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342034,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 284699925,
+      "RMBA": 159637179
+    },
+    "worker_elapsed_s": 0.4758021659217775,
+    "worker_peak_rss_bytes": 44548096,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 14212,
+    "Rstar": 14212,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 59403.03,
+      "RMBA": 35544.8785
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 476,
+      "has_done": 444,
+      "has_ready": 459,
+      "initial_safe": 2,
+      "up": 524
+    },
+    "ratio": 0.5983681051286441,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342035,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 237612120,
+      "RMBA": 142179514
+    },
+    "worker_elapsed_s": 0.4212604584172368,
+    "worker_peak_rss_bytes": 44597248,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 5886,
+    "Rstar": 5886,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 60479.9025,
+      "RMBA": 35149.4535
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 504,
+      "has_done": 607,
+      "has_ready": 589,
+      "initial_safe": 3,
+      "up": 496
+    },
+    "ratio": 0.581175763304182,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342036,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 241919610,
+      "RMBA": 140597814
+    },
+    "worker_elapsed_s": 0.4152739169076085,
+    "worker_peak_rss_bytes": 45596672,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6644,
+    "Rstar": 6644,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 61225.048,
+      "RMBA": 37202.67175
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 473,
+      "has_done": 570,
+      "has_ready": 571,
+      "initial_safe": 6,
+      "up": 527
+    },
+    "ratio": 0.6076380985442429,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342037,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 244900192,
+      "RMBA": 148810687
+    },
+    "worker_elapsed_s": 0.4245374579913914,
+    "worker_peak_rss_bytes": 43286528,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8672,
+    "Rstar": 8672,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 83191.967,
+      "RMBA": 46334.2935
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 498,
+      "has_done": 549,
+      "has_ready": 558,
+      "initial_safe": 8,
+      "up": 502
+    },
+    "ratio": 0.5569563405082127,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342038,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 332767868,
+      "RMBA": 185337174
+    },
+    "worker_elapsed_s": 0.5593657502904534,
+    "worker_peak_rss_bytes": 45350912,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8448,
+    "Rstar": 8448,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 65693.8295,
+      "RMBA": 36333.97625
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 493,
+      "has_done": 590,
+      "has_ready": 531,
+      "initial_safe": 4,
+      "up": 507
+    },
+    "ratio": 0.5530805027890785,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342039,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 262775318,
+      "RMBA": 145335905
+    },
+    "worker_elapsed_s": 0.43800520803779364,
+    "worker_peak_rss_bytes": 44449792,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11176,
+    "Rstar": 11176,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 58935.30075,
+      "RMBA": 35961.254
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 484,
+      "has_done": 486,
+      "has_ready": 467,
+      "initial_safe": 3,
+      "up": 516
+    },
+    "ratio": 0.6101819035851785,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342040,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 235741203,
+      "RMBA": 143845016
+    },
+    "worker_elapsed_s": 0.4123782501555979,
+    "worker_peak_rss_bytes": 45236224,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10020,
+    "Rstar": 10020,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 70666.99325,
+      "RMBA": 41650.902
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 486,
+      "has_done": 470,
+      "has_ready": 518,
+      "initial_safe": 3,
+      "up": 514
+    },
+    "ratio": 0.5893968327285526,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342041,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 282667973,
+      "RMBA": 166603608
+    },
+    "worker_elapsed_s": 0.482573582790792,
+    "worker_peak_rss_bytes": 43532288,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 7686,
+    "Rstar": 7718,
+    "crossing": {
+      "lambda": 0.9899337399334941,
+      "type": "interior"
+    },
+    "eta_reach": 0.9958538481471884,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63998.79475,
+      "RMBA": 37903.93425
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 477,
+      "has_done": 579,
+      "has_ready": 575,
+      "initial_safe": 5,
+      "up": 523
+    },
+    "ratio": 0.5922601261174532,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342042,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 255995179,
+      "RMBA": 151615737
+    },
+    "worker_elapsed_s": 0.4398757079616189,
+    "worker_peak_rss_bytes": 44941312,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 5346,
+    "Rstar": 5346,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 64529.50975,
+      "RMBA": 36230.36975
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 493,
+      "has_done": 650,
+      "has_ready": 616,
+      "initial_safe": 7,
+      "up": 507
+    },
+    "ratio": 0.561454284874681,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342043,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 258118039,
+      "RMBA": 144921479
+    },
+    "worker_elapsed_s": 0.4334276672452688,
+    "worker_peak_rss_bytes": 44367872,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 14588,
+    "Rstar": 14588,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 65365.146,
+      "RMBA": 37543.2675
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 513,
+      "has_done": 425,
+      "has_ready": 445,
+      "initial_safe": 1,
+      "up": 487
+    },
+    "ratio": 0.5743621761358875,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342044,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 261460584,
+      "RMBA": 150173070
+    },
+    "worker_elapsed_s": 0.4437491656281054,
+    "worker_peak_rss_bytes": 45301760,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10572,
+    "Rstar": 10572,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 76417.32825,
+      "RMBA": 42193.54075
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 479,
+      "has_done": 494,
+      "has_ready": 504,
+      "initial_safe": 3,
+      "up": 521
+    },
+    "ratio": 0.5521462437415168,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342045,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 305669313,
+      "RMBA": 168774163
+    },
+    "worker_elapsed_s": 0.5067839161492884,
+    "worker_peak_rss_bytes": 44089344,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 12676,
+    "Rstar": 12676,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 73883.299,
+      "RMBA": 42085.74925
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 484,
+      "has_done": 479,
+      "has_ready": 452,
+      "initial_safe": 2,
+      "up": 516
+    },
+    "ratio": 0.5696246624017155,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342046,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 295533196,
+      "RMBA": 168342997
+    },
+    "worker_elapsed_s": 0.4980042497627437,
+    "worker_peak_rss_bytes": 46006272,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8530,
+    "Rstar": 8530,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 91576.51575,
+      "RMBA": 55216.72725
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 484,
+      "has_done": 559,
+      "has_ready": 541,
+      "initial_safe": 5,
+      "up": 516
+    },
+    "ratio": 0.6029572843843428,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342047,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 366306063,
+      "RMBA": 220866909
+    },
+    "worker_elapsed_s": 0.6421529580838978,
+    "worker_peak_rss_bytes": 44597248,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 12268,
+    "Rstar": 12268,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 76764.232,
+      "RMBA": 43563.33975
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 458,
+      "has_ready": 482,
+      "initial_safe": 2,
+      "up": 492
+    },
+    "ratio": 0.5674952854344977,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342048,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 307056928,
+      "RMBA": 174253359
+    },
+    "worker_elapsed_s": 0.5143167497590184,
+    "worker_peak_rss_bytes": 46120960,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 5732,
+    "Rstar": 5732,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 57533.69575,
+      "RMBA": 35239.1245
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 507,
+      "has_done": 626,
+      "has_ready": 645,
+      "initial_safe": 4,
+      "up": 493
+    },
+    "ratio": 0.6124954088317888,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342049,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 230134783,
+      "RMBA": 140956498
+    },
+    "worker_elapsed_s": 0.39957087486982346,
+    "worker_peak_rss_bytes": 44515328,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11794,
+    "Rstar": 11794,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63049.8555,
+      "RMBA": 35862.403
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 508,
+      "has_ready": 467,
+      "initial_safe": 1,
+      "up": 505
+    },
+    "ratio": 0.5687943725739387,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342050,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 252199422,
+      "RMBA": 143449612
+    },
+    "worker_elapsed_s": 0.4337506666779518,
+    "worker_peak_rss_bytes": 44711936,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11360,
+    "Rstar": 11696,
+    "crossing": {
+      "lambda": 0.9387352238818311,
+      "type": "interior"
+    },
+    "eta_reach": 0.9712722298221614,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 78763.69475,
+      "RMBA": 44093.18225
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 492,
+      "has_done": 459,
+      "has_ready": 500,
+      "initial_safe": 2,
+      "up": 508
+    },
+    "ratio": 0.5598160724932219,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342051,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 315054779,
+      "RMBA": 176372729
+    },
+    "worker_elapsed_s": 0.5219863341189921,
+    "worker_peak_rss_bytes": 44695552,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 4856,
+    "Rstar": 4856,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 58757.60725,
+      "RMBA": 34767.60675
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 507,
+      "has_done": 666,
+      "has_ready": 643,
+      "initial_safe": 5,
+      "up": 493
+    },
+    "ratio": 0.5917124331164796,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342052,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 235030429,
+      "RMBA": 139070427
+    },
+    "worker_elapsed_s": 0.40463249990716577,
+    "worker_peak_rss_bytes": 43368448,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 18124,
+    "Rstar": 18124,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 71235.32925,
+      "RMBA": 39344.5435
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 502,
+      "has_done": 405,
+      "has_ready": 395,
+      "initial_safe": 3,
+      "up": 498
+    },
+    "ratio": 0.5523178444493538,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342053,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 284941317,
+      "RMBA": 157378174
+    },
+    "worker_elapsed_s": 0.477185333147645,
+    "worker_peak_rss_bytes": 46628864,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6010,
+    "Rstar": 6010,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 57809.5135,
+      "RMBA": 36293.581
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 507,
+      "has_done": 624,
+      "has_ready": 633,
+      "initial_safe": 5,
+      "up": 493
+    },
+    "ratio": 0.6278132923571481,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342054,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 231238054,
+      "RMBA": 145174324
+    },
+    "worker_elapsed_s": 0.4078589170239866,
+    "worker_peak_rss_bytes": 43925504,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11916,
+    "Rstar": 12254,
+    "crossing": {
+      "lambda": 0.9454257178353174,
+      "type": "interior"
+    },
+    "eta_reach": 0.9724171699037049,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 75636.89025,
+      "RMBA": 39494.91625
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 519,
+      "has_done": 477,
+      "has_ready": 475,
+      "initial_safe": 3,
+      "up": 481
+    },
+    "ratio": 0.5221647283416706,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342055,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 302547561,
+      "RMBA": 157979665
+    },
+    "worker_elapsed_s": 0.49209587508812547,
+    "worker_peak_rss_bytes": 44924928,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6292,
+    "Rstar": 6292,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 59404.88825,
+      "RMBA": 35358.55325
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 493,
+      "has_done": 639,
+      "has_ready": 607,
+      "initial_safe": 2,
+      "up": 507
+    },
+    "ratio": 0.5952128569150199,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342056,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 237619553,
+      "RMBA": 141434213
+    },
+    "worker_elapsed_s": 0.41019516717642546,
+    "worker_peak_rss_bytes": 43745280,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10976,
+    "Rstar": 10976,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 75824.4035,
+      "RMBA": 44110.35825
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 2,
+      "down": 489,
+      "has_done": 493,
+      "has_ready": 496,
+      "initial_safe": 7,
+      "up": 511
+    },
+    "ratio": 0.5817435576661015,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342057,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 303297614,
+      "RMBA": 176441433
+    },
+    "worker_elapsed_s": 0.5195954577066004,
+    "worker_peak_rss_bytes": 44711936,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9660,
+    "Rstar": 9660,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 82510.284,
+      "RMBA": 45277.689
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 502,
+      "has_ready": 496,
+      "initial_safe": 1,
+      "up": 505
+    },
+    "ratio": 0.5487520682876331,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342058,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 330041136,
+      "RMBA": 181110756
+    },
+    "worker_elapsed_s": 0.5471647498197854,
+    "worker_peak_rss_bytes": 45334528,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10040,
+    "Rstar": 10040,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 77385.25375,
+      "RMBA": 46423.788
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 504,
+      "has_done": 502,
+      "has_ready": 539,
+      "initial_safe": 3,
+      "up": 496
+    },
+    "ratio": 0.5999048365206142,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342059,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 309541015,
+      "RMBA": 185695152
+    },
+    "worker_elapsed_s": 0.5420208750292659,
+    "worker_peak_rss_bytes": 45826048,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9668,
+    "Rstar": 9740,
+    "crossing": {
+      "lambda": 0.9875615733649469,
+      "type": "interior"
+    },
+    "eta_reach": 0.9926078028747434,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 125739.42875,
+      "RMBA": 51941.57075
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 540,
+      "has_done": 524,
+      "has_ready": 519,
+      "initial_safe": 3,
+      "up": 460
+    },
+    "ratio": 0.4130889671311633,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342060,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 502957715,
+      "RMBA": 207766283
+    },
+    "worker_elapsed_s": 0.7574930409900844,
+    "worker_peak_rss_bytes": 44974080,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 15220,
+    "Rstar": 15220,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 70439.38625,
+      "RMBA": 40543.285
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 419,
+      "has_ready": 405,
+      "initial_safe": 0,
+      "up": 505
+    },
+    "ratio": 0.5755769202205393,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342061,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 281757545,
+      "RMBA": 162173140
+    },
+    "worker_elapsed_s": 0.4856769172474742,
+    "worker_peak_rss_bytes": 45498368,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 5034,
+    "Rstar": 5034,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 61106.0105,
+      "RMBA": 37657.07725
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 505,
+      "has_done": 610,
+      "has_ready": 655,
+      "initial_safe": 7,
+      "up": 495
+    },
+    "ratio": 0.6162581543430986,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342062,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 244424042,
+      "RMBA": 150628309
+    },
+    "worker_elapsed_s": 0.4251239998266101,
+    "worker_peak_rss_bytes": 44089344,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 17312,
+    "Rstar": 17312,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 70725.12325,
+      "RMBA": 40327.317
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 516,
+      "has_done": 416,
+      "has_ready": 399,
+      "initial_safe": 0,
+      "up": 484
+    },
+    "ratio": 0.5701979034727239,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342063,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 282900493,
+      "RMBA": 161309268
+    },
+    "worker_elapsed_s": 0.47814400028437376,
+    "worker_peak_rss_bytes": 44728320,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6498,
+    "Rstar": 6498,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 62068.045,
+      "RMBA": 35755.649
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 478,
+      "has_done": 563,
+      "has_ready": 590,
+      "initial_safe": 4,
+      "up": 522
+    },
+    "ratio": 0.5760717773533869,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342064,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 248272180,
+      "RMBA": 143022596
+    },
+    "worker_elapsed_s": 0.4206146663054824,
+    "worker_peak_rss_bytes": 44154880,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10222,
+    "Rstar": 10222,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 68919.03625,
+      "RMBA": 39170.06975
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 502,
+      "has_done": 466,
+      "has_ready": 501,
+      "initial_safe": 3,
+      "up": 498
+    },
+    "ratio": 0.5683490640802453,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342065,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 275676145,
+      "RMBA": 156680279
+    },
+    "worker_elapsed_s": 0.4627577504143119,
+    "worker_peak_rss_bytes": 44433408,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 13166,
+    "Rstar": 13166,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 67491.463,
+      "RMBA": 39005.544
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 478,
+      "has_done": 440,
+      "has_ready": 440,
+      "initial_safe": 2,
+      "up": 522
+    },
+    "ratio": 0.5779330046527514,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342066,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 269965852,
+      "RMBA": 156022176
+    },
+    "worker_elapsed_s": 0.45731366612017155,
+    "worker_peak_rss_bytes": 45367296,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 13158,
+    "Rstar": 13158,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63341.978,
+      "RMBA": 38006.15575
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 501,
+      "has_done": 451,
+      "has_ready": 484,
+      "initial_safe": 1,
+      "up": 499
+    },
+    "ratio": 0.6000152971225495,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342067,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 253367912,
+      "RMBA": 152024623
+    },
+    "worker_elapsed_s": 0.4359261253848672,
+    "worker_peak_rss_bytes": 44924928,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 5780,
+    "Rstar": 5780,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 60174.53525,
+      "RMBA": 36228.52125
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 488,
+      "has_done": 609,
+      "has_ready": 602,
+      "initial_safe": 4,
+      "up": 512
+    },
+    "ratio": 0.6020573503307614,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342068,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 240698141,
+      "RMBA": 144914085
+    },
+    "worker_elapsed_s": 0.41534087527543306,
+    "worker_peak_rss_bytes": 44974080,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 15642,
+    "Rstar": 15642,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 66930.1455,
+      "RMBA": 39467.16925
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 485,
+      "has_done": 423,
+      "has_ready": 420,
+      "initial_safe": 1,
+      "up": 515
+    },
+    "ratio": 0.5896770275211788,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342069,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 267720582,
+      "RMBA": 157868677
+    },
+    "worker_elapsed_s": 0.45817899983376265,
+    "worker_peak_rss_bytes": 44515328,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 14420,
+    "Rstar": 14532,
+    "crossing": {
+      "lambda": 0.9825898970888298,
+      "type": "interior"
+    },
+    "eta_reach": 0.9922928709055877,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 80827.81825,
+      "RMBA": 45669.79525
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 485,
+      "has_done": 417,
+      "has_ready": 459,
+      "initial_safe": 3,
+      "up": 515
+    },
+    "ratio": 0.5650257082127786,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342070,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 323311273,
+      "RMBA": 182679181
+    },
+    "worker_elapsed_s": 0.5406804168596864,
+    "worker_peak_rss_bytes": 45826048,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10588,
+    "Rstar": 10588,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 56294.4045,
+      "RMBA": 34096.86425
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 490,
+      "has_done": 492,
+      "has_ready": 451,
+      "initial_safe": 2,
+      "up": 510
+    },
+    "ratio": 0.6056883371063992,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342071,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 225177618,
+      "RMBA": 136387457
+    },
+    "worker_elapsed_s": 0.3923790003173053,
+    "worker_peak_rss_bytes": 44580864,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11588,
+    "Rstar": 11588,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 70502.538,
+      "RMBA": 42037.78575
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 507,
+      "has_done": 476,
+      "has_ready": 491,
+      "initial_safe": 2,
+      "up": 493
+    },
+    "ratio": 0.5962591836055604,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342072,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 282010152,
+      "RMBA": 168151143
+    },
+    "worker_elapsed_s": 0.48508616629987955,
+    "worker_peak_rss_bytes": 45170688,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 12392,
+    "Rstar": 12392,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 62928.00225,
+      "RMBA": 36822.5365
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 428,
+      "has_ready": 448,
+      "initial_safe": 1,
+      "up": 492
+    },
+    "ratio": 0.5851534322305616,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342073,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 251712009,
+      "RMBA": 147290146
+    },
+    "worker_elapsed_s": 0.43085250025615096,
+    "worker_peak_rss_bytes": 45563904,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8066,
+    "Rstar": 8066,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 66183.31125,
+      "RMBA": 39507.73275
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 561,
+      "has_ready": 587,
+      "initial_safe": 5,
+      "up": 492
+    },
+    "ratio": 0.5969440332286186,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342074,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 264733245,
+      "RMBA": 158030931
+    },
+    "worker_elapsed_s": 0.45302512496709824,
+    "worker_peak_rss_bytes": 44351488,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 12826,
+    "Rstar": 12826,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 64148.00675,
+      "RMBA": 36301.7565
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 510,
+      "has_done": 472,
+      "has_ready": 463,
+      "initial_safe": 1,
+      "up": 490
+    },
+    "ratio": 0.5659062274760392,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342075,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 256592027,
+      "RMBA": 145207026
+    },
+    "worker_elapsed_s": 0.43411845806986094,
+    "worker_peak_rss_bytes": 44285952,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9028,
+    "Rstar": 9028,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 69916.75075,
+      "RMBA": 40674.341
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 486,
+      "has_done": 537,
+      "has_ready": 576,
+      "initial_safe": 4,
+      "up": 514
+    },
+    "ratio": 0.5817538796309123,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342076,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 279667003,
+      "RMBA": 162697364
+    },
+    "worker_elapsed_s": 0.475228083319962,
+    "worker_peak_rss_bytes": 44908544,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10388,
+    "Rstar": 10472,
+    "crossing": {
+      "lambda": 0.9777161735841128,
+      "type": "interior"
+    },
+    "eta_reach": 0.9919786096256684,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 65031.097,
+      "RMBA": 42143.839
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 485,
+      "has_done": 501,
+      "has_ready": 511,
+      "initial_safe": 2,
+      "up": 515
+    },
+    "ratio": 0.648056713544291,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342077,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 260124388,
+      "RMBA": 168575356
+    },
+    "worker_elapsed_s": 0.47577416663989425,
+    "worker_peak_rss_bytes": 44285952,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 7792,
+    "Rstar": 7792,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 61161.459,
+      "RMBA": 35815.36125
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 516,
+      "has_done": 560,
+      "has_ready": 579,
+      "initial_safe": 3,
+      "up": 484
+    },
+    "ratio": 0.5855870974235589,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342078,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 244645836,
+      "RMBA": 143261445
+    },
+    "worker_elapsed_s": 0.41679812502115965,
+    "worker_peak_rss_bytes": 42549248,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8300,
+    "Rstar": 8300,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 58869.22225,
+      "RMBA": 35260.7535
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 492,
+      "has_done": 518,
+      "has_ready": 515,
+      "initial_safe": 1,
+      "up": 508
+    },
+    "ratio": 0.5989675445389462,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342079,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 235476889,
+      "RMBA": 141043014
+    },
+    "worker_elapsed_s": 0.4069463750347495,
+    "worker_peak_rss_bytes": 44662784,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8548,
+    "Rstar": 8548,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 72300.1965,
+      "RMBA": 43907.87675
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 469,
+      "has_done": 540,
+      "has_ready": 555,
+      "initial_safe": 5,
+      "up": 531
+    },
+    "ratio": 0.6072995493172691,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342080,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 289200786,
+      "RMBA": 175631507
+    },
+    "worker_elapsed_s": 0.49511066684499383,
+    "worker_peak_rss_bytes": 43237376,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9286,
+    "Rstar": 9380,
+    "crossing": {
+      "lambda": 0.9784157114211327,
+      "type": "interior"
+    },
+    "eta_reach": 0.9899786780383796,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 75561.5785,
+      "RMBA": 41236.486
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 486,
+      "has_done": 524,
+      "has_ready": 519,
+      "initial_safe": 5,
+      "up": 514
+    },
+    "ratio": 0.5457335172001468,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342081,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 302246314,
+      "RMBA": 164945944
+    },
+    "worker_elapsed_s": 0.4984999159350991,
+    "worker_peak_rss_bytes": 44449792,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 14812,
+    "Rstar": 14924,
+    "crossing": {
+      "lambda": 0.9836089792864309,
+      "type": "interior"
+    },
+    "eta_reach": 0.9924953095684803,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 82518.546,
+      "RMBA": 45356.39575
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 511,
+      "has_done": 439,
+      "has_ready": 438,
+      "initial_safe": 1,
+      "up": 489
+    },
+    "ratio": 0.5496509324097882,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342082,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 330074184,
+      "RMBA": 181425583
+    },
+    "worker_elapsed_s": 0.5489551667124033,
+    "worker_peak_rss_bytes": 46333952,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11006,
+    "Rstar": 11108,
+    "crossing": {
+      "lambda": 0.9759292271218868,
+      "type": "interior"
+    },
+    "eta_reach": 0.9908174288800864,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 74679.884,
+      "RMBA": 46876.59175
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 525,
+      "has_done": 497,
+      "has_ready": 494,
+      "initial_safe": 4,
+      "up": 475
+    },
+    "ratio": 0.6277003824751521,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342083,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 298719536,
+      "RMBA": 187506367
+    },
+    "worker_elapsed_s": 0.5302212503738701,
+    "worker_peak_rss_bytes": 45187072,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 7158,
+    "Rstar": 7158,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63734.27725,
+      "RMBA": 38234.8015
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 484,
+      "has_done": 581,
+      "has_ready": 617,
+      "initial_safe": 1,
+      "up": 516
+    },
+    "ratio": 0.5999095486722571,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342084,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 254937109,
+      "RMBA": 152939206
+    },
+    "worker_elapsed_s": 0.4385465830564499,
+    "worker_peak_rss_bytes": 44105728,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 8416,
+    "Rstar": 8416,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 71046.35725,
+      "RMBA": 40801.11125
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 494,
+      "has_done": 550,
+      "has_ready": 556,
+      "initial_safe": 2,
+      "up": 506
+    },
+    "ratio": 0.5742885748023344,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342085,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 284185429,
+      "RMBA": 163204445
+    },
+    "worker_elapsed_s": 0.4777461658231914,
+    "worker_peak_rss_bytes": 44351488,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9392,
+    "Rstar": 9392,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 62791.97625,
+      "RMBA": 36067.804
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 521,
+      "has_done": 509,
+      "has_ready": 553,
+      "initial_safe": 3,
+      "up": 479
+    },
+    "ratio": 0.5744014785647075,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342086,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 251167905,
+      "RMBA": 144271216
+    },
+    "worker_elapsed_s": 0.42571079218760133,
+    "worker_peak_rss_bytes": 44187648,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10772,
+    "Rstar": 10772,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 74924.57875,
+      "RMBA": 42021.8545
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 483,
+      "has_done": 495,
+      "has_ready": 450,
+      "initial_safe": 1,
+      "up": 517
+    },
+    "ratio": 0.560855398870027,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342087,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 299698315,
+      "RMBA": 168087418
+    },
+    "worker_elapsed_s": 0.4994770842604339,
+    "worker_peak_rss_bytes": 44531712,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 10032,
+    "Rstar": 10032,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 74295.654,
+      "RMBA": 43292.55025
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 518,
+      "has_done": 526,
+      "has_ready": 496,
+      "initial_safe": 1,
+      "up": 482
+    },
+    "ratio": 0.5827063619360562,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342088,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 297182616,
+      "RMBA": 173170201
+    },
+    "worker_elapsed_s": 0.5112061249092221,
+    "worker_peak_rss_bytes": 44728320,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9046,
+    "Rstar": 9046,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 61663.367,
+      "RMBA": 36356.21025
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 515,
+      "has_done": 548,
+      "has_ready": 528,
+      "initial_safe": 4,
+      "up": 485
+    },
+    "ratio": 0.5895917141533967,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342089,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 246653468,
+      "RMBA": 145424841
+    },
+    "worker_elapsed_s": 0.4240477909334004,
+    "worker_peak_rss_bytes": 45088768,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6890,
+    "Rstar": 6890,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 64420.203,
+      "RMBA": 36393.13425
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 510,
+      "has_done": 595,
+      "has_ready": 603,
+      "initial_safe": 2,
+      "up": 490
+    },
+    "ratio": 0.5649335543074896,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342090,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 257680812,
+      "RMBA": 145572537
+    },
+    "worker_elapsed_s": 0.43110216688364744,
+    "worker_peak_rss_bytes": 43810816,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11532,
+    "Rstar": 11532,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 76298.04975,
+      "RMBA": 42397.597
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 494,
+      "has_done": 475,
+      "has_ready": 479,
+      "initial_safe": 4,
+      "up": 506
+    },
+    "ratio": 0.555683888892586,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342091,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 305192199,
+      "RMBA": 169590388
+    },
+    "worker_elapsed_s": 0.5074250409379601,
+    "worker_peak_rss_bytes": 45121536,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 11206,
+    "Rstar": 11314,
+    "crossing": {
+      "lambda": 0.9751028964984113,
+      "type": "interior"
+    },
+    "eta_reach": 0.9904543044016263,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63575.03675,
+      "RMBA": 39806.8625
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 488,
+      "has_done": 492,
+      "has_ready": 457,
+      "initial_safe": 4,
+      "up": 512
+    },
+    "ratio": 0.6261398268086728,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342092,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 254300147,
+      "RMBA": 159227450
+    },
+    "worker_elapsed_s": 0.4464548327960074,
+    "worker_peak_rss_bytes": 44974080,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9126,
+    "Rstar": 9126,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 69104.91275,
+      "RMBA": 41219.09375
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 479,
+      "has_done": 509,
+      "has_ready": 525,
+      "initial_safe": 1,
+      "up": 521
+    },
+    "ratio": 0.5964712508807849,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342093,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 276419651,
+      "RMBA": 164876375
+    },
+    "worker_elapsed_s": 0.47987083345651627,
+    "worker_peak_rss_bytes": 43499520,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9686,
+    "Rstar": 9686,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 63369.25775,
+      "RMBA": 37522.38875
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 512,
+      "has_done": 537,
+      "has_ready": 506,
+      "initial_safe": 5,
+      "up": 488
+    },
+    "ratio": 0.5921229012659533,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342094,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 253477031,
+      "RMBA": 150089555
+    },
+    "worker_elapsed_s": 0.43533070804551244,
+    "worker_peak_rss_bytes": 44072960,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 14706,
+    "Rstar": 14706,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 82515.57175,
+      "RMBA": 59829.27575
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 448,
+      "has_ready": 444,
+      "initial_safe": 0,
+      "up": 492
+    },
+    "ratio": 0.7250664872233645,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342095,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 330062287,
+      "RMBA": 239317103
+    },
+    "worker_elapsed_s": 0.6184117919765413,
+    "worker_peak_rss_bytes": 45662208,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 9680,
+    "Rstar": 9680,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 62253.5605,
+      "RMBA": 37659.44625
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 504,
+      "has_done": 534,
+      "has_ready": 519,
+      "initial_safe": 4,
+      "up": 496
+    },
+    "ratio": 0.6049364236765221,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342096,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 249014242,
+      "RMBA": 150637785
+    },
+    "worker_elapsed_s": 0.4307188750244677,
+    "worker_peak_rss_bytes": 44466176,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 6528,
+    "Rstar": 6528,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 69696.93975,
+      "RMBA": 40703.28625
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 480,
+      "has_done": 624,
+      "has_ready": 598,
+      "initial_safe": 3,
+      "up": 520
+    },
+    "ratio": 0.5840039232138595,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342097,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 278787759,
+      "RMBA": 162813145
+    },
+    "worker_elapsed_s": 0.47503983322530985,
+    "worker_peak_rss_bytes": 43466752,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 12584,
+    "Rstar": 12584,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 74122.297,
+      "RMBA": 39202.43775
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 510,
+      "has_done": 476,
+      "has_ready": 470,
+      "initial_safe": 2,
+      "up": 490
+    },
+    "ratio": 0.52888859812318,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342098,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 296489188,
+      "RMBA": 156809751
+    },
+    "worker_elapsed_s": 0.4956908328458667,
+    "worker_peak_rss_bytes": 46530560,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 15272,
+    "Rstar": 15272,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 74780.224,
+      "RMBA": 41542.5285
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 472,
+      "has_done": 409,
+      "has_ready": 407,
+      "initial_safe": 1,
+      "up": 528
+    },
+    "ratio": 0.555528270415451,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342099,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 299120896,
+      "RMBA": 166170114
+    },
+    "worker_elapsed_s": 0.4966796669177711,
+    "worker_peak_rss_bytes": 44449792,
+    "zero_ns": 0
+  },
+  {
+    "R_RMBA": 5618,
+    "Rstar": 5618,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "m": 3,
+    "mean_ns": {
+      "Exact": 66020.4915,
+      "RMBA": 40257.986
+    },
+    "n": 4,
+    "observations": 8000,
+    "observations_per_method": 4000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 503,
+      "has_done": 602,
+      "has_ready": 604,
+      "initial_safe": 1,
+      "up": 497
+    },
+    "ratio": 0.6097801619668342,
+    "schema": "D035_TRISTAR_TIMING_V1",
+    "seed": 5342100,
+    "split": "formal",
+    "status": "PASS",
+    "sum_ns": {
+      "Exact": 264081966,
+      "RMBA": 161031944
+    },
+    "worker_elapsed_s": 0.47652775002643466,
+    "worker_peak_rss_bytes": 44122112,
+    "zero_ns": 0
+  }
+]

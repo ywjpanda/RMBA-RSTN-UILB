@@ -1,0 +1,3785 @@
+{
+  "ratio_rule": "per-base ratio then equal-base summary, not ratio of group means",
+  "groups": [
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -25.25,
+        "median": -10.0,
+        "p95": 218,
+        "max": 394
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9853292995396347,
+        "median": 0.9890274917960875,
+        "p95": 1.2263906856403621,
+        "max": 1.388943731490622
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -400226.98,
+        "median": -60104.5,
+        "p95": 9728251,
+        "max": 25934458
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.014910118274683,
+        "median": 0.9972004808190671,
+        "p95": 1.41136698464843,
+        "max": 2.0545592992409536
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -158518.0762225379,
+        "median": -274864.1292521069,
+        "p95": 1713431.3517338336,
+        "max": 2753878.8837209307
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.989918656220889,
+        "median": 0.9687132985732074,
+        "p95": 1.258183863083983,
+        "max": 1.3850666497472521
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -252208.54,
+        "median": -68770.5,
+        "p95": 2671500.0,
+        "max": 4825104.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0138684094684876,
+        "median": 0.9875012430204528,
+        "p95": 1.646982927229018,
+        "max": 1.95727675456843
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -350762.43,
+        "median": -219542.5,
+        "p95": 3443208,
+        "max": 9322126
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9892041437993512,
+        "median": 0.9869683782250263,
+        "p95": 1.190857253717279,
+        "max": 1.4696571191666032
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -430953.18,
+        "median": -64249.5,
+        "p95": 9659209,
+        "max": 25926708
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0144243310763088,
+        "median": 0.9968515577803088,
+        "p95": 1.4044089878289816,
+        "max": 2.070399710902695
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -160003.43861964796,
+        "median": -276593.3109622523,
+        "p95": 1728984.4858481716,
+        "max": 2813774.1976744197
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9899234099125964,
+        "median": 0.969472994665909,
+        "p95": 1.2553784001565595,
+        "max": 1.37932328348743
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -258383.145,
+        "median": -76593.25,
+        "p95": 2687729.0,
+        "max": 4865813.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.012000915064888,
+        "median": 0.98625023720467,
+        "p95": 1.6238805696503291,
+        "max": 1.9362883802069573
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -347140.73,
+        "median": -267395.5,
+        "p95": 3484999,
+        "max": 9270167
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9894432211572968,
+        "median": 0.9861334834167778,
+        "p95": 1.1909837033586563,
+        "max": 1.4604826108605575
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -3304.92,
+        "median": -682.0,
+        "p95": 23674,
+        "max": 64321
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9842763657960165,
+        "median": 0.9930232739210179,
+        "p95": 1.208478394429654,
+        "max": 1.503648892020985
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -6.04,
+        "median": -5.0,
+        "p95": 56,
+        "max": 90
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.050144414124517,
+        "median": 0.9490140114167098,
+        "p95": 1.875,
+        "max": 2.7142857142857144
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -49.66,
+        "median": -19.0,
+        "p95": 436,
+        "max": 788
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.985841098419642,
+        "median": 0.9896129718897644,
+        "p95": 1.2263906856403621,
+        "max": 1.388943731490622
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -24.83,
+        "median": -9.5,
+        "p95": 218,
+        "max": 394
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.985841098419642,
+        "median": 0.9896129718897644,
+        "p95": 1.2263906856403621,
+        "max": 1.388943731490622
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.42,
+        "median": 0.0,
+        "p95": 6,
+        "max": 13
+      },
+      "ratio": {
+        "count": 11,
+        "mean": 1.2045454545454546,
+        "median": 0.0,
+        "p95": 7.5,
+        "max": 7.5
+      },
+      "undefined_ratios": 89
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -42313.31,
+        "median": -7249.0,
+        "p95": 134125,
+        "max": 592708
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9976497170614288,
+        "median": 0.975053133144999,
+        "p95": 1.3936170212765957,
+        "max": 2.4243508561129468
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1485.3623971101733,
+        "median": -1326.975486818781,
+        "p95": 21624.592725104347,
+        "max": 59895.31395348837
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9945220207789884,
+        "median": 0.9901185839827646,
+        "p95": 1.166735131882507,
+        "max": 1.4282310952820976
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1535.885,
+        "median": -93.25,
+        "p95": 26646.0,
+        "max": 35270.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9983405825823857,
+        "median": 0.9994091316238551,
+        "p95": 1.2121292108094273,
+        "max": 1.3733137876470558
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1295.83,
+        "median": -3771.5,
+        "p95": 39125,
+        "max": 289917
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9980303742054536,
+        "median": 0.9847204457879336,
+        "p95": 1.1741266375545851,
+        "max": 2.0136958041958044
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1.2,
+        "median": -1.0,
+        "p95": 15,
+        "max": 22
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9920076298032696,
+        "median": 0.9876524390243903,
+        "p95": 1.180722891566265,
+        "max": 1.2682926829268293
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1.2,
+        "median": -1.0,
+        "p95": 15,
+        "max": 22
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0413439008769205,
+        "median": 0.9409722222222222,
+        "p95": 1.8421052631578947,
+        "max": 2.7142857142857144
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -27.9,
+        "median": -35.0,
+        "p95": 150,
+        "max": 280
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9767109419540576,
+        "median": 0.9542641130613461,
+        "p95": 1.1901140684410647,
+        "max": 1.3548795944233207
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -556094.14,
+        "median": -328000.0,
+        "p95": 7966666,
+        "max": 33681291
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0143294896910215,
+        "median": 0.9842726200832352,
+        "p95": 1.4001324032810178,
+        "max": 2.9525904513870573
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -212818.06712067014,
+        "median": -177974.30467280047,
+        "p95": 1126721.3116883114,
+        "max": 2056819.05116959
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9725130907417928,
+        "median": 0.9710022004299181,
+        "p95": 1.2176497409259481,
+        "max": 1.3703763834806706
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -188625.375,
+        "median": -133083.0,
+        "p95": 940375.5,
+        "max": 2134250.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.966982119341939,
+        "median": 0.9508679443217991,
+        "p95": 1.451843912922222,
+        "max": 1.838852314041466
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -491983.31,
+        "median": -670729.0,
+        "p95": 3127500,
+        "max": 9187249
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.980606428503006,
+        "median": 0.9634599354685557,
+        "p95": 1.2007944009277742,
+        "max": 1.4680615613421688
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -562604.5,
+        "median": -369770.5,
+        "p95": 7902458,
+        "max": 33720874
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0139268862963737,
+        "median": 0.9836804838606841,
+        "p95": 1.39446132722935,
+        "max": 2.9261595156896822
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -216677.93368217637,
+        "median": -169017.03713530628,
+        "p95": 1141613.6493506487,
+        "max": 2064471.1538011692
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9725017767096169,
+        "median": 0.9730409285910693,
+        "p95": 1.213555363078141,
+        "max": 1.363133631414445
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -192738.27,
+        "median": -116677.75,
+        "p95": 946083.5,
+        "max": 2137667.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9665524840808509,
+        "median": 0.9562692840960065,
+        "p95": 1.450138665269041,
+        "max": 1.7932341945359247
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -497252.98,
+        "median": -648499.5,
+        "p95": 3061208,
+        "max": 9040457
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9805444425456931,
+        "median": 0.9646051380701793,
+        "p95": 1.2057303812682345,
+        "max": 1.4523517323269883
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2736.29,
+        "median": -3135.0,
+        "p95": 15853,
+        "max": 31201
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9789325485162514,
+        "median": 0.9709166741165836,
+        "p95": 1.2018617778493,
+        "max": 1.325291658413003
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.78,
+        "median": -1.0,
+        "p95": 28,
+        "max": 44
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.115226522312706,
+        "median": 0.9722007722007722,
+        "p95": 2.0555555555555554,
+        "max": 2.7058823529411766
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -36,
+        "median": -41.0,
+        "p95": 215,
+        "max": 315
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.978930276969553,
+        "median": 0.9621516106756953,
+        "p95": 1.1852570320077596,
+        "max": 1.2603305785123966
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -27.32,
+        "median": -35.0,
+        "p95": 150,
+        "max": 281
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9774829213251433,
+        "median": 0.9555874732454659,
+        "p95": 1.1901140684410647,
+        "max": 1.356147021546261
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.58,
+        "median": 0.0,
+        "p95": 6,
+        "max": 14
+      },
+      "ratio": {
+        "count": 9,
+        "mean": 1.5277777777777777,
+        "median": 0.0,
+        "p95": 8.0,
+        "max": 8.0
+      },
+      "undefined_ratios": 91
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -14934.97,
+        "median": -3104.0,
+        "p95": 128626,
+        "max": 770874
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0280613934795573,
+        "median": 0.9890350728159136,
+        "p95": 1.4113929703211183,
+        "max": 3.3233652408738004
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -3859.8665615062,
+        "median": -2722.849818301547,
+        "p95": 19040.396031746015,
+        "max": 26190.790697674413
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9759956791565861,
+        "median": 0.9797127997885475,
+        "p95": 1.142011541057066,
+        "max": 1.2273131228154595
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -3003.53,
+        "median": -2281.25,
+        "p95": 23230.0,
+        "max": 37916.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9853656056857086,
+        "median": 0.9846484381877914,
+        "p95": 1.1957553514469084,
+        "max": 1.3880553480232118
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -6755.81,
+        "median": -6937.5,
+        "p95": 29333,
+        "max": 67958
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9813983071899108,
+        "median": 0.9752429442891118,
+        "p95": 1.1289112432612682,
+        "max": 1.3370514569125853
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.13,
+        "median": -0.5,
+        "p95": 14,
+        "max": 17
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.003781214399498,
+        "median": 0.9941176470588236,
+        "p95": 1.1830985915492958,
+        "max": 1.2285714285714286
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.13,
+        "median": -0.5,
+        "p95": 14,
+        "max": 17
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.1428581544901828,
+        "median": 0.9761904761904762,
+        "p95": 2.2142857142857144,
+        "max": 3.6666666666666665
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -26.2,
+        "median": -18.0,
+        "p95": 187,
+        "max": 218
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9818032052984476,
+        "median": 0.9785486824297429,
+        "p95": 1.2383354350567466,
+        "max": 1.3089080459770115
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -643821.19,
+        "median": -138875.0,
+        "p95": 8702542,
+        "max": 39974542
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0122240823620747,
+        "median": 0.9941719277110972,
+        "p95": 1.364810263297347,
+        "max": 3.0336767501050934
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -201878.4468834123,
+        "median": -295364.0645358497,
+        "p95": 1131322.583567595,
+        "max": 2545386.8739304813
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9767873599949725,
+        "median": 0.9549602957843785,
+        "p95": 1.2076960508688024,
+        "max": 1.555814994933605
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -157627.18,
+        "median": -121958.25,
+        "p95": 1074104.0,
+        "max": 1760375.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.98516273773173,
+        "median": 0.9461466296441667,
+        "p95": 1.6403101518868848,
+        "max": 1.8707725221047424
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -522396.24,
+        "median": -406875.0,
+        "p95": 3350917,
+        "max": 6543084
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9824372562995062,
+        "median": 0.9800284254945023,
+        "p95": 1.181861782164784,
+        "max": 1.362337135895448
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -648169.95,
+        "median": -143937.5,
+        "p95": 8647417,
+        "max": 39965167
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0117466522338978,
+        "median": 0.993995303218397,
+        "p95": 1.362792404599063,
+        "max": 3.0069342263136427
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -203568.8432731853,
+        "median": -296919.5536680911,
+        "p95": 1153206.4046767186,
+        "max": 2569460.501737968
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.977035047136651,
+        "median": 0.9561513337763325,
+        "p95": 1.2055773189652916,
+        "max": 1.5460542343264174
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -160279.89,
+        "median": -154457.75,
+        "p95": 1105916.5,
+        "max": 1799062.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9846015580468277,
+        "median": 0.9366349808262766,
+        "p95": 1.6118508546446366,
+        "max": 1.8337008259343575
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -526733.31,
+        "median": -396313.0,
+        "p95": 3267334,
+        "max": 6628168
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9824928266872857,
+        "median": 0.9818169484061874,
+        "p95": 1.1747186792767825,
+        "max": 1.363455328507747
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2954.88,
+        "median": -1477.5,
+        "p95": 18847,
+        "max": 32780
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9793523106106438,
+        "median": 0.9829025972733709,
+        "p95": 1.1989331227735136,
+        "max": 1.3344079001060964
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.8,
+        "median": 0.5,
+        "p95": 53,
+        "max": 64
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.1676008012114871,
+        "median": 1.01,
+        "p95": 2.4571428571428573,
+        "max": 4.625
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -41.4,
+        "median": -20.5,
+        "p95": 343,
+        "max": 404
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9858559984097659,
+        "median": 0.9831998792783107,
+        "p95": 1.2542624166048926,
+        "max": 1.3594306049822065
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -25.62,
+        "median": -17.0,
+        "p95": 189,
+        "max": 219
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9825108942454756,
+        "median": 0.9785486824297429,
+        "p95": 1.2383354350567466,
+        "max": 1.3051575931232091
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.58,
+        "median": 0.0,
+        "p95": 6,
+        "max": 14
+      },
+      "ratio": {
+        "count": 9,
+        "mean": 1.5277777777777777,
+        "median": 0.0,
+        "p95": 8.0,
+        "max": 8.0
+      },
+      "undefined_ratios": 91
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -732.07,
+        "median": 708.0,
+        "p95": 259000,
+        "max": 805917
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.048330379810721,
+        "median": 1.0024259694870448,
+        "p95": 1.8885077186963979,
+        "max": 3.0717660668380464
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1690.3963897730146,
+        "median": -1547.859530906484,
+        "p95": 21093.12883116884,
+        "max": 36377.603864734294
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9921419404962576,
+        "median": 0.9882921929216189,
+        "p95": 1.1646659768037813,
+        "max": 1.2760842868803772
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2730.46,
+        "median": -4073.0,
+        "p95": 21979.0,
+        "max": 42584
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9888669944732456,
+        "median": 0.9693893957525668,
+        "p95": 1.2096659630448483,
+        "max": 1.4562587723527585
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2455.01,
+        "median": -3666.5,
+        "p95": 41750,
+        "max": 100500
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9976502719240126,
+        "median": 0.9854453450592999,
+        "p95": 1.1799568965517242,
+        "max": 1.3672910004568295
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.21,
+        "median": 0.0,
+        "p95": 15,
+        "max": 20
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0037541127184968,
+        "median": 1.0,
+        "p95": 1.1898734177215189,
+        "max": 1.2666666666666666
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.21,
+        "median": 0.0,
+        "p95": 15,
+        "max": 20
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.1308566923406658,
+        "median": 1.0,
+        "p95": 2.3333333333333335,
+        "max": 4.0
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -62.83,
+        "median": -84.0,
+        "p95": 231,
+        "max": 721
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9474015139096962,
+        "median": 0.9078513194450608,
+        "p95": 1.3244005641748942,
+        "max": 1.8249427917620138
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -639164.56,
+        "median": -1271020.5,
+        "p95": 6361458,
+        "max": 57212750
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0050367995373053,
+        "median": 0.9409854189541674,
+        "p95": 1.3119502218016763,
+        "max": 3.2665134866124266
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -346997.6731854061,
+        "median": -308887.8055950119,
+        "p95": 1737147.8714942522,
+        "max": 4350993.493844049
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9658538889716926,
+        "median": 0.9555279789596722,
+        "p95": 1.2570310314622246,
+        "max": 1.5841668799077206
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -432292.125,
+        "median": -377105.0,
+        "p95": 3027438.0,
+        "max": 4118084.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9897615923142368,
+        "median": 0.9305357880485078,
+        "p95": 1.6218340404582698,
+        "max": 2.4039715070864998
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1304099.93,
+        "median": -1177229.0,
+        "p95": 4008458,
+        "max": 10060417
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9432997409612655,
+        "median": 0.9338214293509903,
+        "p95": 1.2287444803423824,
+        "max": 1.5262515676389625
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -691274.07,
+        "median": -1261062.0,
+        "p95": 6406083,
+        "max": 57171875
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.00384160706816,
+        "median": 0.9420763145619382,
+        "p95": 1.3109598077763216,
+        "max": 3.240156535453125
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -354055.3846435085,
+        "median": -317844.7322527352,
+        "p95": 1740063.2439080458,
+        "max": 4356105.011823335
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.965546390126992,
+        "median": 0.9560836401388718,
+        "p95": 1.2529385672114721,
+        "max": 1.5730006946944473
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -441845.32,
+        "median": -422834.0,
+        "p95": 3030855.0,
+        "max": 4121792.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.987911264350168,
+        "median": 0.929228203502803,
+        "p95": 1.600538373103777,
+        "max": 2.3309393530130555
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1317114.9,
+        "median": -1192125.0,
+        "p95": 4069875,
+        "max": 10019833
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9432406512107988,
+        "median": 0.933743407924343,
+        "p95": 1.227466570043902,
+        "max": 1.517396347957425
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -3568.21,
+        "median": -6288.0,
+        "p95": 41845,
+        "max": 134490
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9864266598161081,
+        "median": 0.9460255897155299,
+        "p95": 1.343202788599549,
+        "max": 2.1890615882446554
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -7.96,
+        "median": -9.0,
+        "p95": 78,
+        "max": 138
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0885233826811844,
+        "median": 0.9041053921568627,
+        "p95": 2.515151515151515,
+        "max": 6.25
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -125.46,
+        "median": -164.0,
+        "p95": 462,
+        "max": 1446
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9475396016825118,
+        "median": 0.9089877064410421,
+        "p95": 1.3244005641748942,
+        "max": 1.8234624145785876
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -62.73,
+        "median": -82.0,
+        "p95": 231,
+        "max": 723
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9475396016825118,
+        "median": 0.9089877064410421,
+        "p95": 1.3244005641748942,
+        "max": 1.8234624145785876
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.1,
+        "median": 0.0,
+        "p95": 2,
+        "max": 5
+      },
+      "ratio": {
+        "count": 11,
+        "mean": 1.3727272727272728,
+        "median": 1.5,
+        "p95": 4.0,
+        "max": 4.0
+      },
+      "undefined_ratios": 89
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -49812.1,
+        "median": -12729.5,
+        "p95": 113000,
+        "max": 1217501
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0024274468916683,
+        "median": 0.9574564645540593,
+        "p95": 1.3942433493240296,
+        "max": 4.3144340421361544
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -7057.711458102578,
+        "median": -7728.058496732025,
+        "p95": 18386.541527813388,
+        "max": 38686.06857483601
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9542230674837214,
+        "median": 0.9433753369144388,
+        "p95": 1.1524564777094093,
+        "max": 1.2703249267807646
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -6065.195,
+        "median": -6635.5,
+        "p95": 22834.5,
+        "max": 52749.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9656859462715933,
+        "median": 0.9537918349636678,
+        "p95": 1.1905122081807133,
+        "max": 1.5059879808729935
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -15885.85,
+        "median": -13458.0,
+        "p95": 27125,
+        "max": 59958
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9412724462379453,
+        "median": 0.9471448732971381,
+        "p95": 1.112785862785863,
+        "max": 1.2483586491423553
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1.23,
+        "median": -1.5,
+        "p95": 22,
+        "max": 33
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9934294646970541,
+        "median": 0.9830328738069989,
+        "p95": 1.3068181818181819,
+        "max": 1.3837209302325582
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1.23,
+        "median": -1.5,
+        "p95": 22,
+        "max": 33
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0944630756089149,
+        "median": 0.9365079365079365,
+        "p95": 2.5,
+        "max": 5.4
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -50.97,
+        "median": -58.0,
+        "p95": 122,
+        "max": 376
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9483082534447316,
+        "median": 0.9224156120616492,
+        "p95": 1.1622874806800618,
+        "max": 1.6358792184724689
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1388089.56,
+        "median": -961938.0,
+        "p95": 5211792,
+        "max": 19138708
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9770503586533139,
+        "median": 0.9491649939218634,
+        "p95": 1.2200313520409563,
+        "max": 1.8233989466837714
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -256696.92330727985,
+        "median": -439395.6917776414,
+        "p95": 1367863.209842789,
+        "max": 3524544.7345345337
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.968347744734443,
+        "median": 0.9349452693080647,
+        "p95": 1.2366071654754893,
+        "max": 1.5849114652828067
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -222778.5,
+        "median": -221698.25,
+        "p95": 970812.5,
+        "max": 1389979.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9614951957487591,
+        "median": 0.9260207702034083,
+        "p95": 1.4933577244288416,
+        "max": 1.8295286833271167
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1360297.49,
+        "median": -1307062.5,
+        "p95": 3102959,
+        "max": 6390417
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9406210858011215,
+        "median": 0.9299607239503747,
+        "p95": 1.1783613774482604,
+        "max": 1.3486623519870964
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1408820.83,
+        "median": -1009251.0,
+        "p95": 5234625,
+        "max": 19092667
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9765764162357558,
+        "median": 0.9469474390281156,
+        "p95": 1.215625127521752,
+        "max": 1.8118234562520596
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -265215.3264135757,
+        "median": -455735.2907206798,
+        "p95": 1367954.512987013,
+        "max": 3532522.627927928
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9676434095698352,
+        "median": 0.9332742427902114,
+        "p95": 1.230668229244621,
+        "max": 1.572105324690725
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -229891.805,
+        "median": -221239.75,
+        "p95": 993791,
+        "max": 1356354.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9599300844825082,
+        "median": 0.9268192095208707,
+        "p95": 1.4740104421306774,
+        "max": 1.741447292537772
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1374139.96,
+        "median": -1338438.0,
+        "p95": 3168042,
+        "max": 6316500
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9406210739280461,
+        "median": 0.9297933588930516,
+        "p95": 1.1766358680787905,
+        "max": 1.336711011163124
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2207.29,
+        "median": -4124.5,
+        "p95": 22094,
+        "max": 74580
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9883259842086931,
+        "median": 0.9527222652281788,
+        "p95": 1.2888973155327745,
+        "max": 1.9178173226020823
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.88,
+        "median": -2.5,
+        "p95": 30,
+        "max": 75
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.1277201491362154,
+        "median": 0.945906432748538,
+        "p95": 2.4642857142857144,
+        "max": 3.6470588235294117
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -62.96,
+        "median": -66.0,
+        "p95": 162,
+        "max": 598
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9569139043345921,
+        "median": 0.9357603092783505,
+        "p95": 1.1551312649164678,
+        "max": 1.6042128603104213
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -50.71,
+        "median": -58.0,
+        "p95": 122,
+        "max": 380
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9486396493790994,
+        "median": 0.9224156120616492,
+        "p95": 1.1622874806800618,
+        "max": 1.6376554174067495
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.26,
+        "median": 0.0,
+        "p95": 4,
+        "max": 5
+      },
+      "ratio": {
+        "count": 9,
+        "mean": 1.8888888888888888,
+        "median": 3.0,
+        "p95": 4.0,
+        "max": 4.0
+      },
+      "undefined_ratios": 91
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -43453.44,
+        "median": -11270.5,
+        "p95": 50250,
+        "max": 162083
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9476662703969041,
+        "median": 0.9640436106078344,
+        "p95": 1.1749603075123256,
+        "max": 1.5061139734582358
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -8518.403106295786,
+        "median": -8083.440941424255,
+        "p95": 14401.32432432432,
+        "max": 19812.493150684924
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9428263669467498,
+        "median": 0.9432897180850547,
+        "p95": 1.111483305608049,
+        "max": 1.1719550868405813
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -5371.5,
+        "median": -5302.5,
+        "p95": 20312.0,
+        "max": 35501.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9671691616798604,
+        "median": 0.9589033450909235,
+        "p95": 1.160473271273241,
+        "max": 1.3301159557750066
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -18681.68,
+        "median": -16958.5,
+        "p95": 30250,
+        "max": 50750
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9349591504221021,
+        "median": 0.9367184538305675,
+        "p95": 1.1292735042735043,
+        "max": 1.2357892126472412
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.16,
+        "median": 0.0,
+        "p95": 14,
+        "max": 28
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.003265741569822,
+        "median": 1.0,
+        "p95": 1.1948051948051948,
+        "max": 1.358974358974359
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -0.16,
+        "median": 0.0,
+        "p95": 14,
+        "max": 28
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.1537436209737126,
+        "median": 1.0,
+        "p95": 2.6923076923076925,
+        "max": 3.5714285714285716
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -62.66,
+        "median": -71.5,
+        "p95": 139,
+        "max": 617
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9409895741322872,
+        "median": 0.9198686354675145,
+        "p95": 1.2035139092240117,
+        "max": 1.8864942528735633
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1401262.93,
+        "median": -1527000.0,
+        "p95": 5346624,
+        "max": 35675458
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.973694887211839,
+        "median": 0.9321913730992425,
+        "p95": 1.2591806276971496,
+        "max": 2.5604725544504983
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -200299.19940529918,
+        "median": -236440.2530104355,
+        "p95": 1511290.9173883162,
+        "max": 2787561.317407408
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.979223009472204,
+        "median": 0.9613584110341452,
+        "p95": 1.2764482912474537,
+        "max": 1.4740905933625181
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -167169.77,
+        "median": -182448.25,
+        "p95": 1034167,
+        "max": 2099625.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9853158785510228,
+        "median": 0.9396035872872,
+        "p95": 1.6459591043050932,
+        "max": 1.9211347999623243
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1192051.67,
+        "median": -1195541.5,
+        "p95": 4281167,
+        "max": 6946667
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9493481061340281,
+        "median": 0.9392143553284036,
+        "p95": 1.2682743575750273,
+        "max": 1.341278089275824
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1413992.53,
+        "median": -1583126.0,
+        "p95": 5367165,
+        "max": 35625958
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9733997996475969,
+        "median": 0.9305435865327807,
+        "p95": 1.25461131385627,
+        "max": 2.544215766025505
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -206300.20305017536,
+        "median": -242224.8288661982,
+        "p95": 1523558.4031615118,
+        "max": 2790715.1970370375
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9786848260426229,
+        "median": 0.9613549440705854,
+        "p95": 1.271629366658661,
+        "max": 1.4630605795817653
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -169372.68,
+        "median": -178572.25,
+        "p95": 1025792,
+        "max": 2161229.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9853563952714242,
+        "median": 0.9394744764853735,
+        "p95": 1.6140014736629142,
+        "max": 1.8928546009588592
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1212208.73,
+        "median": -1132041.5,
+        "p95": 4257668,
+        "max": 6904418
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.948966218423325,
+        "median": 0.9374663116296733,
+        "p95": 1.2629901507511863,
+        "max": 1.3386184480805852
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2905.23,
+        "median": -4959.0,
+        "p95": 21592,
+        "max": 88740
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9839373309678536,
+        "median": 0.9472687105372171,
+        "p95": 1.265793490570683,
+        "max": 2.085252357250303
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -5.02,
+        "median": -8.5,
+        "p95": 46,
+        "max": 203
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.1385760922656005,
+        "median": 0.8665334221630024,
+        "p95": 3.0,
+        "max": 5.511111111111111
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -101.34,
+        "median": -120.5,
+        "p95": 257,
+        "max": 1202
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9456326976922949,
+        "median": 0.9178843002321485,
+        "p95": 1.2313231323132314,
+        "max": 2.0693950177935942
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -62.4,
+        "median": -71.5,
+        "p95": 139,
+        "max": 621
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9413003971945993,
+        "median": 0.9198686354675145,
+        "p95": 1.2035139092240117,
+        "max": 1.8896848137535818
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.26,
+        "median": 0.0,
+        "p95": 4,
+        "max": 5
+      },
+      "ratio": {
+        "count": 9,
+        "mean": 1.8888888888888888,
+        "median": 3.0,
+        "p95": 4.0,
+        "max": 4.0
+      },
+      "undefined_ratios": 91
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -4771.33,
+        "median": -2979.5,
+        "p95": 50083,
+        "max": 1175417
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0045806351109097,
+        "median": 0.989156423787716,
+        "p95": 1.1655458935214178,
+        "max": 3.724212795250451
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -6001.003644876228,
+        "median": -5712.46951393885,
+        "p95": 12267.485773195876,
+        "max": 37896.607516339864
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.959935905625772,
+        "median": 0.9604596424464289,
+        "p95": 1.1117358712429277,
+        "max": 1.267147741977688
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -5765.67,
+        "median": -4812.5,
+        "p95": 21374.5,
+        "max": 29979.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9653553260315784,
+        "median": 0.9629769178773749,
+        "p95": 1.1721041860863788,
+        "max": 1.2648931626054218
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -14415.89,
+        "median": -16062.5,
+        "p95": 33792,
+        "max": 142125
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9505887511925135,
+        "median": 0.9375176899665716,
+        "p95": 1.148237833285079,
+        "max": 1.6684303350970018
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1.36,
+        "median": -2.0,
+        "p95": 15,
+        "max": 33
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9913668571502209,
+        "median": 0.97560612821657,
+        "p95": 1.1866666666666668,
+        "max": 1.44
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1.36,
+        "median": -2.0,
+        "p95": 15,
+        "max": 33
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.1038172732950677,
+        "median": 0.893796992481203,
+        "p95": 2.888888888888889,
+        "max": 4.2
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -103.97,
+        "median": -107.5,
+        "p95": 212,
+        "max": 772
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9021485646975191,
+        "median": 0.8816570047084695,
+        "p95": 1.2273972602739727,
+        "max": 1.8832951945080092
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1921847.44,
+        "median": -2036374.5,
+        "p95": 7586250,
+        "max": 26587084
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9502639947650504,
+        "median": 0.9068541995387369,
+        "p95": 1.341918083653807,
+        "max": 2.165814704232731
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -703197.2408351575,
+        "median": -735082.8751313668,
+        "p95": 1086846.06741573,
+        "max": 2956756.999062266
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9203333045657992,
+        "median": 0.8934620123871666,
+        "p95": 1.1739914071994404,
+        "max": 1.3969758891230897
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -693251.525,
+        "median": -551999.75,
+        "p95": 1939186.5,
+        "max": 3544563.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.938666729371777,
+        "median": 0.9070641362145248,
+        "p95": 1.4637517471163757,
+        "max": 1.8837819795472797
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2154817.83,
+        "median": -2335687.5,
+        "p95": 3236875,
+        "max": 7161250
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.8999164960921809,
+        "median": 0.8708146897251963,
+        "p95": 1.2056815862480819,
+        "max": 1.4201830563533175
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1926700.7,
+        "median": -2026625.5,
+        "p95": 9007543,
+        "max": 28623251
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9512463238473753,
+        "median": 0.905814083105843,
+        "p95": 1.3895900984958687,
+        "max": 2.2398084657172337
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -711886.2456597432,
+        "median": -747811.974098606,
+        "p95": 1099224.8426966285,
+        "max": 2956881.8947861968
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.920613797800355,
+        "median": 0.8944630135405458,
+        "p95": 1.1721060036935687,
+        "max": 1.3902793804640485
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -701776.975,
+        "median": -564728.75,
+        "p95": 1963165.5,
+        "max": 3575896.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9384362996397626,
+        "median": 0.9074167194970724,
+        "p95": 1.4568739264857438,
+        "max": 1.8517090488134285
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2166004.89,
+        "median": -2374999.5,
+        "p95": 3308959,
+        "max": 7220042
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9004630265495295,
+        "median": 0.8691100822861793,
+        "p95": 1.2018771937213855,
+        "max": 1.4182955136329072
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -10338.25,
+        "median": -10409.0,
+        "p95": 29086,
+        "max": 119446
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9297615837323081,
+        "median": 0.9039931862321201,
+        "p95": 1.2783603431839847,
+        "max": 2.056053613424575
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -14.3,
+        "median": -14.0,
+        "p95": 52,
+        "max": 178
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9968344658824014,
+        "median": 0.8375235700817096,
+        "p95": 2.5217391304347827,
+        "max": 5.125
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -207.28,
+        "median": -215.0,
+        "p95": 424,
+        "max": 1558
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9025731525513203,
+        "median": 0.8816570047084695,
+        "p95": 1.2273972602739727,
+        "max": 1.887243735763098
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -103.64,
+        "median": -107.5,
+        "p95": 212,
+        "max": 779
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9025731525513203,
+        "median": 0.8816570047084695,
+        "p95": 1.2273972602739727,
+        "max": 1.887243735763098
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.33,
+        "median": 0.0,
+        "p95": 3,
+        "max": 11
+      },
+      "ratio": {
+        "count": 11,
+        "mean": 1.4318181818181819,
+        "median": 1.0,
+        "p95": 5.0,
+        "max": 5.0
+      },
+      "undefined_ratios": 89
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -27074.54,
+        "median": -11833.5,
+        "p95": 130625,
+        "max": 2202750
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0734212683916635,
+        "median": 0.9602295529905416,
+        "p95": 1.4444917056571671,
+        "max": 8.05240242953244
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -8689.004824585742,
+        "median": -7873.413555194806,
+        "p95": 12624.956521739135,
+        "max": 35576.25761867
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9420187774031435,
+        "median": 0.9442787888211939,
+        "p95": 1.108221351662051,
+        "max": 1.22378546630844
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -9101.87,
+        "median": -10145.75,
+        "p95": 19521.0,
+        "max": 36041.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9420829906764777,
+        "median": 0.9334417726595531,
+        "p95": 1.1657538782892223,
+        "max": 1.3457201644116814
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -15979.59,
+        "median": -18458.5,
+        "p95": 39542,
+        "max": 181875
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9406223443261843,
+        "median": 0.9274937849019307,
+        "p95": 1.1696131453106673,
+        "max": 1.6466666666666667
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2.9,
+        "median": -3.5,
+        "p95": 14,
+        "max": 44
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9746388543327866,
+        "median": 0.9592592592592593,
+        "p95": 1.1690140845070423,
+        "max": 1.55
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2.9,
+        "median": -3.5,
+        "p95": 14,
+        "max": 44
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.0034619970294811,
+        "median": 0.8333333333333334,
+        "p95": 2.3076923076923075,
+        "max": 4.0
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -100.39,
+        "median": -96.5,
+        "p95": 71,
+        "max": 260
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.8855348634778103,
+        "median": 0.8639155413844277,
+        "p95": 1.100126742712294,
+        "max": 1.3784570596797672
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1467433.79,
+        "median": -2159855.0,
+        "p95": 6453167,
+        "max": 55457209
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9811089664015338,
+        "median": 0.89667455855275,
+        "p95": 1.296570196619524,
+        "max": 3.5552736595760934
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -374903.4376288647,
+        "median": -503534.6484398437,
+        "p95": 1404937.4186307527,
+        "max": 3865787.166588529
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9506967862814415,
+        "median": 0.9203213505138468,
+        "p95": 1.2333502642679555,
+        "max": 1.6712876229417104
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -301787.945,
+        "median": -373645.5,
+        "p95": 925250.5,
+        "max": 1659124.5
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9222704179143407,
+        "median": 0.8684239273970304,
+        "p95": 1.4623022350915036,
+        "max": 1.9356461022006715
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1957572.9,
+        "median": -2470771.0,
+        "p95": 3318916,
+        "max": 34359791
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9107613776479927,
+        "median": 0.8758704424928183,
+        "p95": 1.1650676945482885,
+        "max": 2.712040210269314
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1464816.63,
+        "median": -2151895.5,
+        "p95": 6446208,
+        "max": 55462751
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9814726208536546,
+        "median": 0.8972004021542213,
+        "p95": 1.2970092029864715,
+        "max": 3.5299754144750386
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -383425.45243920793,
+        "median": -512438.65055392124,
+        "p95": 1410378.0215189876,
+        "max": 3933156.6288482565
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9503482239746401,
+        "median": 0.9224287430142006,
+        "p95": 1.2309592206733437,
+        "max": 1.6678808393351694
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -310117.76,
+        "median": -384895.75,
+        "p95": 949125.0,
+        "max": 1654874.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9229717395776599,
+        "median": 0.8729810659550783,
+        "p95": 1.4332407694642308,
+        "max": 1.8532486977493983
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1927957.15,
+        "median": -2467207.5,
+        "p95": 3289249,
+        "max": 38258541
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9133558082029527,
+        "median": 0.8749902489040438,
+        "p95": 1.1673732317846037,
+        "max": 2.8895866862922497
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -6773.35,
+        "median": -6447.5,
+        "p95": 16821,
+        "max": 50839
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9390013305470416,
+        "median": 0.9270694530471955,
+        "p95": 1.2091149815388058,
+        "max": 1.6256491668512638
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -7.72,
+        "median": -6.0,
+        "p95": 21,
+        "max": 33
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9214144411538161,
+        "median": 0.8386046511627907,
+        "p95": 1.8461538461538463,
+        "max": 2.764705882352941
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -122.88,
+        "median": -127.5,
+        "p95": 97,
+        "max": 405
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.906517155185589,
+        "median": 0.8897109378459143,
+        "p95": 1.0938104448742747,
+        "max": 1.380997177798683
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -99.93,
+        "median": -96.5,
+        "p95": 71,
+        "max": 269
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.8862256804403089,
+        "median": 0.8649896632710943,
+        "p95": 1.100126742712294,
+        "max": 1.3904208998548622
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.46,
+        "median": 0.0,
+        "p95": 3,
+        "max": 11
+      },
+      "ratio": {
+        "count": 9,
+        "mean": 2.388888888888889,
+        "median": 2.0,
+        "p95": 6.0,
+        "max": 6.0
+      },
+      "undefined_ratios": 91
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 57651.7,
+        "median": -2646.5,
+        "p95": 390541,
+        "max": 3805709
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 1.2844210507044738,
+        "median": 0.9910820272572871,
+        "p95": 2.2216462508667085,
+        "max": 15.064848863380183
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -8522.0148103432,
+        "median": -10778.181535288488,
+        "p95": 18004.62563543937,
+        "max": 67369.46225972807
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9431905536891761,
+        "median": 0.9200320331369035,
+        "p95": 1.1420669995201636,
+        "max": 1.517250706094112
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -8063.155,
+        "median": -8166.25,
+        "p95": 23291.0,
+        "max": 40292
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9487405847005599,
+        "median": 0.9407420822287091,
+        "p95": 1.2106561319837477,
+        "max": 1.3746664063008527
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -15527.1,
+        "median": -15521.0,
+        "p95": 39708,
+        "max": 113500
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9466583667386745,
+        "median": 0.9366532371653657,
+        "p95": 1.1788246823067186,
+        "max": 1.5054195102368526
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2.98,
+        "median": -2.0,
+        "p95": 8,
+        "max": 17
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9686972085532105,
+        "median": 0.9763106251752173,
+        "p95": 1.103896103896104,
+        "max": 1.2297297297297298
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2.98,
+        "median": -2.0,
+        "p95": 8,
+        "max": 17
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9542187086781706,
+        "median": 0.8944444444444444,
+        "p95": 1.8333333333333333,
+        "max": 3.5
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "allowed_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -116.72,
+        "median": -119.0,
+        "p95": 111,
+        "max": 361
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.8741473354153547,
+        "median": 0.8576938590299485,
+        "p95": 1.1450189155107189,
+        "max": 1.5186781609195403
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "decision_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1557765.45,
+        "median": -2331000.0,
+        "p95": 6341458,
+        "max": 151228250
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9821745907414938,
+        "median": 0.8845630703966226,
+        "p95": 1.2952360771122027,
+        "max": 8.173420138271254
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "decision_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -427140.7296662845,
+        "median": -471536.63132783305,
+        "p95": 1648156.7181878742,
+        "max": 4250681.576224545
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.943941337978306,
+        "median": 0.9184824728351855,
+        "p95": 1.2773426221136492,
+        "max": 1.846779836466644
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "decision_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -351498.34,
+        "median": -336937.0,
+        "p95": 778708.5,
+        "max": 1331083.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9009231412571737,
+        "median": 0.8802583729142566,
+        "p95": 1.3691094378640294,
+        "max": 1.7899886790289223
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "decision_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2211782.52,
+        "median": -2491334.0,
+        "p95": 3252249,
+        "max": 20692167
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9020723698919381,
+        "median": 0.8661641141509712,
+        "p95": 1.1736949274559751,
+        "max": 2.262564341936665
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -1568810.05,
+        "median": -2347542.5,
+        "p95": 6308082,
+        "max": 151111500
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9816152769362793,
+        "median": 0.8866762901231542,
+        "p95": 1.290990960451547,
+        "max": 8.07595773947145
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -436232.38824745227,
+        "median": -479221.90474084765,
+        "p95": 1643332.9105929388,
+        "max": 4270238.962025316
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9436336609290605,
+        "median": 0.9198547540562881,
+        "p95": 1.2699077925874789,
+        "max": 1.8288626293447383
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -360369.16,
+        "median": -346979.25,
+        "p95": 778312.5,
+        "max": 1375645.0
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9022302841667111,
+        "median": 0.8813709003604516,
+        "p95": 1.3602307385040173,
+        "max": 1.7455136890047094
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "decision_plus_selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -2226908.34,
+        "median": -2491438.0,
+        "p95": 3340415,
+        "max": 20569291
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9024947310465247,
+        "median": 0.86926588057213,
+        "p95": 1.1744162996699867,
+        "max": 2.2352104274810105
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "fs_expanded",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -8245.63,
+        "median": -7458.5,
+        "p95": 17941,
+        "max": 57806
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9275316620613633,
+        "median": 0.9181376491497912,
+        "p95": 1.187645772975913,
+        "max": 1.706942728907043
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "mba_hits",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -14.85,
+        "median": -14.5,
+        "p95": 35,
+        "max": 67
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.911179007895998,
+        "median": 0.771847955201086,
+        "p95": 2.4583333333333335,
+        "max": 3.0
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "mba_queries",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -190.42,
+        "median": -202.5,
+        "p95": 166,
+        "max": 696
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.877806316925735,
+        "median": 0.8636028425851434,
+        "p95": 1.1476868327402134,
+        "max": 1.6192170818505338
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "physical_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -116.26,
+        "median": -119.0,
+        "p95": 111,
+        "max": 370
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.8748169221396301,
+        "median": 0.8576938590299485,
+        "p95": 1.1450189155107189,
+        "max": 1.5300859598853869
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "rejected_candidates",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": 0.46,
+        "median": 0.0,
+        "p95": 3,
+        "max": 11
+      },
+      "ratio": {
+        "count": 9,
+        "mean": 2.388888888888889,
+        "median": 2.0,
+        "p95": 6.0,
+        "max": 6.0
+      },
+      "undefined_ratios": 91
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "selector_ns_max",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -29425.04,
+        "median": -6375.5,
+        "p95": 68291,
+        "max": 336542
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9644800443986264,
+        "median": 0.9781366577885136,
+        "p95": 1.2153720451524896,
+        "max": 1.865146529562982
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "selector_ns_mean",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -9091.658581167754,
+        "median": -7627.490081236334,
+        "p95": 12234.02814780493,
+        "max": 33286.66666666667
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9372340869392998,
+        "median": 0.9386194321626937,
+        "p95": 1.0855072369713465,
+        "max": 1.3031847576216082
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "selector_ns_median",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -8877.175,
+        "median": -8969.0,
+        "p95": 20791.0,
+        "max": 43000
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9412978152547156,
+        "median": 0.9267988083949554,
+        "p95": 1.1696870067238176,
+        "max": 1.4301763723126482
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "selector_ns_p95",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -21052.48,
+        "median": -18916.5,
+        "p95": 31001,
+        "max": 84375
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9263416135913338,
+        "median": 0.9227187469331368,
+        "p95": 1.1359943498363734,
+        "max": 1.4389775659701989
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "slots_executed",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -4.15,
+        "median": -4.0,
+        "p95": 9,
+        "max": 21
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9568472637741573,
+        "median": 0.9503086419753086,
+        "p95": 1.1126760563380282,
+        "max": 1.28
+      },
+      "undefined_ratios": 0
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "metric": "transfers",
+      "base_pairs": 100,
+      "difference": {
+        "count": 100,
+        "mean": -4.15,
+        "median": -4.0,
+        "p95": 9,
+        "max": 21
+      },
+      "ratio": {
+        "count": 100,
+        "mean": 0.9153282041910028,
+        "median": 0.7899159663865546,
+        "p95": 2.111111111111111,
+        "max": 3.6
+      },
+      "undefined_ratios": 0
+    }
+  ]
+}

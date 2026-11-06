@@ -1,0 +1,252 @@
+{
+  "instance": {
+    "schema": "D032_INSTANCE_V1",
+    "namespace": "RMBA_SCALE_017_v1",
+    "split": "formal",
+    "config_id": "K6",
+    "seed_label": 1702095,
+    "derived_seeds": {
+      "data": 15253420454875511318,
+      "access": 4167345273844003272,
+      "capacity": 6864673604825269467,
+      "selector": 8015844928095950037
+    },
+    "m": 4,
+    "n": 16,
+    "K": 6,
+    "buffer_capacity_MB": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "edges_zero_based": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unreliable_edge_zero_based": [
+      1,
+      2
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          30,
+          29,
+          17,
+          12,
+          17,
+          35,
+          13
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          30,
+          35,
+          20,
+          23,
+          32,
+          24,
+          12
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          13,
+          14,
+          29,
+          23,
+          16,
+          12,
+          14
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          35,
+          26,
+          34,
+          33,
+          22,
+          32,
+          15
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          14,
+          28,
+          26,
+          20,
+          16,
+          23,
+          16
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          15,
+          22,
+          35,
+          34,
+          23,
+          12,
+          21
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          14,
+          15,
+          24,
+          19,
+          33,
+          35,
+          19
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          19,
+          22,
+          26,
+          33,
+          32,
+          12,
+          10
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          26,
+          27,
+          13,
+          31,
+          24,
+          16,
+          34
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          26,
+          13,
+          31,
+          24,
+          21,
+          32,
+          23
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          32,
+          30,
+          10,
+          14,
+          22,
+          12,
+          19
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          20,
+          35,
+          15,
+          21,
+          27,
+          14,
+          21
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          33,
+          21,
+          28,
+          15,
+          16,
+          32,
+          13
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          15,
+          27,
+          19,
+          12,
+          21,
+          14,
+          23
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          35,
+          35,
+          23,
+          28,
+          19,
+          19,
+          10
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          30,
+          30,
+          26,
+          33,
+          28,
+          34,
+          11
+        ],
+        "access_satellite_zero_based": 2
+      }
+    ]
+  },
+  "scenario": "N",
+  "limits": {
+    "science_concurrency": 1,
+    "cache_entries": 100000,
+    "worker_wall_s": 120,
+    "worker_rss_bytes": 2147483648,
+    "parent_rss_bytes": 4294967296,
+    "watchdog_interval_s": 0.5,
+    "term_grace_s": 3,
+    "trajectory_disk_bytes": 536870912,
+    "aggregate_new_disk_bytes": 17179869184,
+    "preflight_min_free_bytes": 10737418240,
+    "runtime_min_free_bytes": 2147483648,
+    "main_plus_supplement_cumulative_formal_pipeline_s": 43200,
+    "cleanup_s": 300
+  }
+}

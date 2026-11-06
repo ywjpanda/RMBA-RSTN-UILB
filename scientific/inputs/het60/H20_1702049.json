@@ -1,0 +1,191 @@
+{
+  "instance": {
+    "schema": "D039_PAIRED_HET60_INSTANCE_V1",
+    "namespace": "D039_HET60_PAIRED_B60_V1",
+    "split": "formal",
+    "config_id": "H20",
+    "seed_label": 1702049,
+    "derived_seeds": {
+      "data": 6154364223619521251,
+      "access": 4020064236153273715,
+      "capacity": 11720002548011914904,
+      "selector": 5528846171337598277
+    },
+    "m": 4,
+    "n": 16,
+    "K": 2,
+    "buffer_capacity_MB": [
+      40,
+      80,
+      80,
+      40
+    ],
+    "edges_zero_based": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unreliable_edge_zero_based": [
+      1,
+      2
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          30,
+          19,
+          28
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          24,
+          25
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          35,
+          25,
+          30
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          18,
+          18,
+          32
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          19,
+          18,
+          24
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          11,
+          19,
+          27
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          14,
+          26,
+          16
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          18,
+          13,
+          19
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          27,
+          24,
+          28
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          28,
+          33,
+          26
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          31,
+          12,
+          27
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          31,
+          21,
+          12
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          16,
+          31,
+          28
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          12,
+          28,
+          29
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          23,
+          16,
+          27
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          18,
+          34
+        ],
+        "access_satellite_zero_based": 1
+      }
+    ],
+    "paired_provenance": {
+      "base_config_id": "B60",
+      "position_pattern": "A",
+      "derived_seeds": "exact copied B60 data/access/capacity/selector; no new seed derivation",
+      "capacity_scope": "only capacity and necessary identity/provenance metadata vary"
+    }
+  },
+  "scenario": "N",
+  "limits": {
+    "worker_wall_s": 120,
+    "worker_rss_bytes": 2147483648,
+    "parent_rss_bytes": 4294967296,
+    "trajectory_disk_bytes": 536870912,
+    "aggregate_new_disk_bytes": 17179869184,
+    "preflight_min_free_bytes": 10737418240,
+    "runtime_min_free_bytes": 2147483648,
+    "formal_pipeline_wall_s": 43200,
+    "watchdog_interval_s": 0.5,
+    "term_grace_s": 3
+  }
+}

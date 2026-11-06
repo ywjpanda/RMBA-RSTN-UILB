@@ -1,0 +1,15 @@
+n,seed,path_step,code,positions,link,A,RR,Rstar,parent_action
+3,2832070,0,1,"[0, 0, 0]",up,True,True,True,-2
+3,2832070,1,17,"[0, 1, 0]",up,True,True,True,65
+3,2832070,2,529,"[0, 1, 4]",up,True,True,True,132
+3,2832070,3,657,"[0, 1, 5]",up,True,True,True,165
+3,2832070,4,705,"[0, 4, 5]",up,False,False,True,76
+3,2832070,5,321,"[0, 4, 2]",up,True,False,True,170
+3,2832070,6,320,"[0, 4, 2]",down,True,False,True,-1
+6,2832002,0,1,"[0, 0, 0, 0, 0, 0]",up,True,True,True,-2
+6,2832002,1,1025,"[0, 0, 0, 1, 0, 0]",up,True,True,True,193
+6,2832002,2,33793,"[0, 0, 0, 1, 4, 0]",up,True,True,True,260
+6,2832002,3,41985,"[0, 0, 0, 1, 5, 0]",up,True,True,True,293
+6,2832002,4,45057,"[0, 0, 0, 4, 5, 0]",up,False,False,True,204
+6,2832002,5,20481,"[0, 0, 0, 4, 2, 0]",up,True,False,True,298
+6,2832002,6,20480,"[0, 0, 0, 4, 2, 0]",down,True,False,True,-1

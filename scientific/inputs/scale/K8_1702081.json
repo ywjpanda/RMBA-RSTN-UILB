@@ -1,0 +1,284 @@
+{
+  "instance": {
+    "schema": "D032_INSTANCE_V1",
+    "namespace": "RMBA_SCALE_017_v1",
+    "split": "formal",
+    "config_id": "K8",
+    "seed_label": 1702081,
+    "derived_seeds": {
+      "data": 4354932783318793129,
+      "access": 15536841924011062921,
+      "capacity": 10461498352326605045,
+      "selector": 14794761628174720593
+    },
+    "m": 4,
+    "n": 16,
+    "K": 8,
+    "buffer_capacity_MB": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "edges_zero_based": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unreliable_edge_zero_based": [
+      1,
+      2
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          34,
+          33,
+          10,
+          17,
+          32,
+          27,
+          19,
+          14,
+          25
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          25,
+          10,
+          29,
+          32,
+          20,
+          11,
+          22,
+          23,
+          12
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          35,
+          29,
+          28,
+          21,
+          17,
+          29,
+          17,
+          30
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          27,
+          14,
+          16,
+          17,
+          14,
+          19,
+          24,
+          15,
+          28
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          27,
+          11,
+          18,
+          14,
+          33,
+          14,
+          34,
+          14,
+          17
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          30,
+          17,
+          31,
+          20,
+          10,
+          15,
+          24,
+          14,
+          25
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          16,
+          17,
+          22,
+          15,
+          10,
+          31,
+          32,
+          32,
+          19
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          29,
+          22,
+          21,
+          14,
+          21,
+          34,
+          14,
+          33,
+          21
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          27,
+          24,
+          13,
+          14,
+          35,
+          24,
+          25,
+          19,
+          28
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          13,
+          33,
+          23,
+          22,
+          25,
+          20,
+          28,
+          12,
+          27
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          16,
+          20,
+          32,
+          31,
+          21,
+          25,
+          34,
+          12,
+          35
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          31,
+          17,
+          35,
+          19,
+          33,
+          21,
+          24,
+          25
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          12,
+          10,
+          15,
+          35,
+          34,
+          22,
+          30,
+          21
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          16,
+          35,
+          17,
+          34,
+          13,
+          22,
+          19,
+          33,
+          24
+        ],
+        "access_satellite_zero_based": 3
+      },
+      {
+        "data_sizes_MB": [
+          22,
+          30,
+          21,
+          18,
+          33,
+          24,
+          34,
+          34,
+          32
+        ],
+        "access_satellite_zero_based": 2
+      },
+      {
+        "data_sizes_MB": [
+          32,
+          11,
+          10,
+          17,
+          31,
+          10,
+          15,
+          24,
+          24
+        ],
+        "access_satellite_zero_based": 2
+      }
+    ]
+  },
+  "scenario": "N",
+  "limits": {
+    "science_concurrency": 1,
+    "cache_entries": 100000,
+    "worker_wall_s": 120,
+    "worker_rss_bytes": 2147483648,
+    "parent_rss_bytes": 4294967296,
+    "watchdog_interval_s": 0.5,
+    "term_grace_s": 3,
+    "trajectory_disk_bytes": 536870912,
+    "aggregate_new_disk_bytes": 17179869184,
+    "preflight_min_free_bytes": 10737418240,
+    "runtime_min_free_bytes": 2147483648,
+    "main_plus_supplement_cumulative_formal_pipeline_s": 43200,
+    "cleanup_s": 300
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "n": 6,
+  "seed": 2832067,
+  "m": 2,
+  "buffer_capacity_MB": [
+    40,
+    40
+  ],
+  "applications": [
+    {
+      "data_sizes_MB": [
+        10,
+        27,
+        27
+      ],
+      "access_satellite_zero_based": 1
+    },
+    {
+      "data_sizes_MB": [
+        12,
+        19,
+        12
+      ],
+      "access_satellite_zero_based": 0
+    },
+    {
+      "data_sizes_MB": [
+        23,
+        10,
+        16
+      ],
+      "access_satellite_zero_based": 1
+    },
+    {
+      "data_sizes_MB": [
+        30,
+        16,
+        22
+      ],
+      "access_satellite_zero_based": 0
+    },
+    {
+      "data_sizes_MB": [
+        31,
+        29,
+        35
+      ],
+      "access_satellite_zero_based": 0
+    },
+    {
+      "data_sizes_MB": [
+        24,
+        28,
+        30
+      ],
+      "access_satellite_zero_based": 0
+    }
+  ]
+}

@@ -1,0 +1,1889 @@
+{
+  "groups": [
+    {
+      "config_id": "B60",
+      "scenario": "N",
+      "display_scenario": "ND",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 7611200.033128323,
+          "median": 7458031.126303127,
+          "p95": 9693720.20952381,
+          "max": 13278892.448979592
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 6554612.545,
+          "median": 6299489.75,
+          "p95": 9787417,
+          "max": 13086375.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19465998.27,
+          "median": 19275916.0,
+          "p95": 24581833,
+          "max": 30724750
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 23634316.2,
+          "median": 22188916.5,
+          "p95": 32882958,
+          "max": 92467917
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 140099.23486447145,
+          "median": 140314.4846861472,
+          "p95": 161274.9195402299,
+          "max": 192952.8
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 138532.725,
+          "median": 138604.0,
+          "p95": 165791.5,
+          "max": 189625.0
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 252187.48,
+          "median": 253688.0,
+          "p95": 285458,
+          "max": 295959
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 377064.53,
+          "median": 301521.0,
+          "p95": 601500,
+          "max": 2319375
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 7751299.2679927945,
+          "median": 7615701.243049987,
+          "p95": 9851868.676190477,
+          "max": 13462540.81632653
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 6699556.32,
+          "median": 6443906.75,
+          "p95": 9943666,
+          "max": 13281604.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 19702414.09,
+          "median": 19501437.0,
+          "p95": 24758416,
+          "max": 30983042
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 23929093.25,
+          "median": 22412687.5,
+          "p95": 33168958,
+          "max": 94787292
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 87.04,
+          "median": 86.0,
+          "p95": 102,
+          "max": 105
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 23.04,
+          "median": 22.0,
+          "p95": 38,
+          "max": 41
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 933.02,
+          "median": 893.0,
+          "p95": 1228,
+          "max": 1542
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 932.7,
+          "median": 893.0,
+          "p95": 1226,
+          "max": 1542
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.32,
+          "median": 0.0,
+          "p95": 3,
+          "max": 5
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1866.04,
+          "median": 1786.0,
+          "p95": 2456,
+          "max": 3084
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 88.42,
+          "median": 84.0,
+          "p95": 152,
+          "max": 188
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 120524.69,
+          "median": 115155.5,
+          "p95": 156756,
+          "max": 227302
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 1.2252482379500063,
+          "median": 1.3331803749999835,
+          "p95": 1.633892625000044,
+          "max": 1.9826606660000152
+        }
+      }
+    },
+    {
+      "config_id": "B60",
+      "scenario": "F",
+      "display_scenario": "PD",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6260259.627648954,
+          "median": 6232691.642087821,
+          "p95": 7616570.478723404,
+          "max": 8734379.836538462
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2750429.375,
+          "median": 2659667.0,
+          "p95": 3736625.0,
+          "max": 4903104.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19761880.01,
+          "median": 19315666.5,
+          "p95": 26539750,
+          "max": 28890375
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 23754550.86,
+          "median": 22089896.0,
+          "p95": 33357500,
+          "max": 92646375
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 138806.05900420004,
+          "median": 138949.12878787878,
+          "p95": 157368.3404255319,
+          "max": 180342.2857142857
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 134008.56,
+          "median": 133448.25,
+          "p95": 155250,
+          "max": 172375.0
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 257974.12,
+          "median": 261312.0,
+          "p95": 289417,
+          "max": 403291
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 339402.5,
+          "median": 301041.5,
+          "p95": 444375,
+          "max": 2012000
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6399065.686653154,
+          "median": 6366129.503893952,
+          "p95": 7766565.957446809,
+          "max": 8898919.103448275
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2892020.82,
+          "median": 2785812.5,
+          "p95": 3880374,
+          "max": 5062687.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 20002180.89,
+          "median": 19588562.5,
+          "p95": 26844417,
+          "max": 29146750
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 24016792.47,
+          "median": 22335167.0,
+          "p95": 33561042,
+          "max": 93620458
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 80.53,
+          "median": 79.0,
+          "p95": 94,
+          "max": 104
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 16.53,
+          "median": 15.0,
+          "p95": 30,
+          "max": 40
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 797.75,
+          "median": 789.0,
+          "p95": 1043,
+          "max": 1416
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 797.56,
+          "median": 789.0,
+          "p95": 1043,
+          "max": 1416
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.19,
+          "median": 0.0,
+          "p95": 2,
+          "max": 4
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1201.19,
+          "median": 1188.0,
+          "p95": 1511,
+          "max": 2022
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 38.92,
+          "median": 36.5,
+          "p95": 68,
+          "max": 96
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 93351.9,
+          "median": 91845.5,
+          "p95": 115509,
+          "max": 162264
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 0.8309046316499996,
+          "median": 0.6890169374999573,
+          "p95": 1.481410708999988,
+          "max": 1.9108429579998756
+        }
+      }
+    },
+    {
+      "config_id": "B60",
+      "scenario": "R",
+      "display_scenario": "DR",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6223776.502943912,
+          "median": 6234116.319841269,
+          "p95": 7839611.909090909,
+          "max": 9424640.04
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2701471.01,
+          "median": 2637989.75,
+          "p95": 3950000,
+          "max": 4600750
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19706768.75,
+          "median": 19278729.0,
+          "p95": 24669000,
+          "max": 33226250
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 23972480.4,
+          "median": 22255271.0,
+          "p95": 34207958,
+          "max": 57854417
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 135746.78075522147,
+          "median": 135038.67696267695,
+          "p95": 155731.29487179487,
+          "max": 173546.10666666666
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 132056.08,
+          "median": 132500.0,
+          "p95": 155542,
+          "max": 171625.0
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 256830.82,
+          "median": 259396.0,
+          "p95": 286916,
+          "max": 415958
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 331511.26,
+          "median": 293771.0,
+          "p95": 477959,
+          "max": 1095750
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6359523.283699133,
+          "median": 6366551.498630136,
+          "p95": 7991724.343434343,
+          "max": 9591095.87
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2836625.18,
+          "median": 2757343.75,
+          "p95": 4130667,
+          "max": 4751500
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 19949296.69,
+          "median": 19475125.0,
+          "p95": 24882333,
+          "max": 33521542
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 24227289.97,
+          "median": 22509500.5,
+          "p95": 34454999,
+          "max": 58116167
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 83.84,
+          "median": 83.0,
+          "p95": 98,
+          "max": 104
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 19.84,
+          "median": 19.0,
+          "p95": 34,
+          "max": 40
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 839.72,
+          "median": 822.0,
+          "p95": 1117,
+          "max": 1361
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 839.53,
+          "median": 822.0,
+          "p95": 1117,
+          "max": 1361
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.19,
+          "median": 0.0,
+          "p95": 2,
+          "max": 4
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1378.17,
+          "median": 1336.0,
+          "p95": 1873,
+          "max": 2265
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 61.4,
+          "median": 58.0,
+          "p95": 110,
+          "max": 148
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 96302.33,
+          "median": 93790.5,
+          "p95": 121927,
+          "max": 167188
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 0.8887562724800115,
+          "median": 0.6981922920000443,
+          "p95": 1.5496199169999727,
+          "max": 1.8078315000000202
+        }
+      }
+    },
+    {
+      "config_id": "H10",
+      "scenario": "N",
+      "display_scenario": "ND",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 7452681.956905785,
+          "median": 7329310.219967533,
+          "p95": 9770470.418181818,
+          "max": 11520029.701923076
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 6302404.005,
+          "median": 6145864.75,
+          "p95": 9117667,
+          "max": 9886313.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19115235.84,
+          "median": 18742292.0,
+          "p95": 24148417,
+          "max": 29170917
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 23234089.22,
+          "median": 22006666.5,
+          "p95": 33115667,
+          "max": 58817416
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 138613.87246736127,
+          "median": 139535.42576499388,
+          "p95": 157530.80434782608,
+          "max": 199762.11627906977
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 136996.84,
+          "median": 135895.5,
+          "p95": 163375.0,
+          "max": 171417
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 250891.65,
+          "median": 247229.5,
+          "p95": 280375,
+          "max": 575917
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 334751.22,
+          "median": 294833.5,
+          "p95": 501959,
+          "max": 1139125
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 7591295.829373146,
+          "median": 7456826.591179654,
+          "p95": 9916205.272727273,
+          "max": 11687443.14423077
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 6441173.175,
+          "median": 6269625.25,
+          "p95": 9260333,
+          "max": 10062730.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 19355273.36,
+          "median": 19014437.5,
+          "p95": 24875542,
+          "max": 29401583
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 23498140.07,
+          "median": 22280958.0,
+          "p95": 33324000,
+          "max": 59095666
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 85.84,
+          "median": 85.0,
+          "p95": 104,
+          "max": 110
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 21.84,
+          "median": 21.0,
+          "p95": 40,
+          "max": 46
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 908.19,
+          "median": 889.0,
+          "p95": 1234,
+          "max": 1407
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 907.45,
+          "median": 889.0,
+          "p95": 1234,
+          "max": 1407
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.74,
+          "median": 0.0,
+          "p95": 7,
+          "max": 15
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1816.38,
+          "median": 1778.0,
+          "p95": 2468,
+          "max": 2814
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 82.38,
+          "median": 78.0,
+          "p95": 150,
+          "max": 180
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 117219.77,
+          "median": 112451.5,
+          "p95": 160092,
+          "max": 192031
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 1.1345847774500017,
+          "median": 1.2628758120000043,
+          "p95": 1.606433749999951,
+          "max": 1.8447282079999994
+        }
+      }
+    },
+    {
+      "config_id": "H10",
+      "scenario": "F",
+      "display_scenario": "PD",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6047441.560528284,
+          "median": 5956811.9446061645,
+          "p95": 7985904.386666667,
+          "max": 8601575.231707318
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2561804.0,
+          "median": 2527520.75,
+          "p95": 3512834,
+          "max": 4678500.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19269896.7,
+          "median": 19026812.0,
+          "p95": 24755209,
+          "max": 29953417
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 23198456.72,
+          "median": 22327875.0,
+          "p95": 32517375,
+          "max": 50930833
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 134946.19244269383,
+          "median": 137039.08376887342,
+          "p95": 151128.33720930232,
+          "max": 163087.67816091955
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 131005.03,
+          "median": 131583.5,
+          "p95": 154187.5,
+          "max": 160459
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 251218.31,
+          "median": 253583.5,
+          "p95": 281542,
+          "max": 303667
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 324467.53,
+          "median": 297416.5,
+          "p95": 458292,
+          "max": 1102666
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6182387.752970978,
+          "median": 6094682.019155844,
+          "p95": 8134717.16,
+          "max": 8757871.048780488
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2699282.55,
+          "median": 2683187.5,
+          "p95": 3680751,
+          "max": 4832542.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 19504927.91,
+          "median": 19230937.5,
+          "p95": 25016084,
+          "max": 30233292
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 23454187.97,
+          "median": 22595916.5,
+          "p95": 32730375,
+          "max": 51227666
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 80.4,
+          "median": 80.0,
+          "p95": 90,
+          "max": 101
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 16.4,
+          "median": 16.0,
+          "p95": 26,
+          "max": 37
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 770.43,
+          "median": 765.0,
+          "p95": 950,
+          "max": 1070
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 769.66,
+          "median": 765.0,
+          "p95": 950,
+          "max": 1069
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.77,
+          "median": 0.0,
+          "p95": 7,
+          "max": 16
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1165.19,
+          "median": 1162.5,
+          "p95": 1432,
+          "max": 1535
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 38.14,
+          "median": 37.0,
+          "p95": 66,
+          "max": 82
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 90615.61,
+          "median": 88806.5,
+          "p95": 117137,
+          "max": 127118
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 0.7916341041699984,
+          "median": 0.684131562999994,
+          "p95": 1.367636458999982,
+          "max": 1.7529138330000933
+        }
+      }
+    },
+    {
+      "config_id": "H10",
+      "scenario": "R",
+      "display_scenario": "DR",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6021898.0560604995,
+          "median": 5987700.488420598,
+          "p95": 7551136.868131869,
+          "max": 8239640.453488372
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2543843.83,
+          "median": 2519240.0,
+          "p95": 3626625,
+          "max": 4220958.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19184372.51,
+          "median": 18904750.5,
+          "p95": 24200459,
+          "max": 25912125
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 23328659.21,
+          "median": 22218729.0,
+          "p95": 31672750,
+          "max": 59630833
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 134056.38436544847,
+          "median": 134952.45676824945,
+          "p95": 153582.2875,
+          "max": 168140.27777777778
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 129325.62,
+          "median": 130864.5,
+          "p95": 149916,
+          "max": 159458.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 254375.81,
+          "median": 251709.0,
+          "p95": 289959,
+          "max": 374125
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 330779.19,
+          "median": 297250.0,
+          "p95": 550500,
+          "max": 1194917
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6155954.440425948,
+          "median": 6119095.143627733,
+          "p95": 7695822.307692308,
+          "max": 8388754.325581396
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2676345.29,
+          "median": 2672198.5,
+          "p95": 3776416,
+          "max": 4395750.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 19422563.38,
+          "median": 19175105.0,
+          "p95": 24419084,
+          "max": 26108125
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 23579120.02,
+          "median": 22485500.0,
+          "p95": 31863625,
+          "max": 59878708
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 83.63,
+          "median": 83.0,
+          "p95": 95,
+          "max": 101
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 19.63,
+          "median": 19.0,
+          "p95": 31,
+          "max": 37
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 814.1,
+          "median": 809.0,
+          "p95": 1022,
+          "max": 1123
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 813.33,
+          "median": 808.5,
+          "p95": 1022,
+          "max": 1122
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.77,
+          "median": 0.0,
+          "p95": 7,
+          "max": 16
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1336.77,
+          "median": 1315.5,
+          "p95": 1701,
+          "max": 1916
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 60.6,
+          "median": 57.0,
+          "p95": 103,
+          "max": 144
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 93347.45,
+          "median": 92021.5,
+          "p95": 121819,
+          "max": 130804
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 0.811486973720004,
+          "median": 0.685920249999981,
+          "p95": 1.3893698750000567,
+          "max": 1.7084310830000504
+        }
+      }
+    },
+    {
+      "config_id": "H20",
+      "scenario": "N",
+      "display_scenario": "ND",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 7264202.359942917,
+          "median": 6937505.751160234,
+          "p95": 9541145.860465117,
+          "max": 11799196.470588235
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 6122320.42,
+          "median": 5940125.0,
+          "p95": 9106375,
+          "max": 11171750
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 18161898.34,
+          "median": 17774645.5,
+          "p95": 22588542,
+          "max": 29177542
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 22995151.64,
+          "median": 21751041.5,
+          "p95": 30176875,
+          "max": 82455375
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 133041.52340636885,
+          "median": 132260.12441927992,
+          "p95": 159176.83193277312,
+          "max": 181795.58139534883
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 132467.53,
+          "median": 131792.0,
+          "p95": 157709.0,
+          "max": 177791
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 236301.63,
+          "median": 232667.0,
+          "p95": 278500,
+          "max": 301375
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 327252.43,
+          "median": 288333.0,
+          "p95": 399625,
+          "max": 1584834
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 7397243.883349285,
+          "median": 7071895.862664876,
+          "p95": 9722941.441860465,
+          "max": 11958373.302521009
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 6257711.0,
+          "median": 6079802.5,
+          "p95": 9284042,
+          "max": 11364083
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 18385299.19,
+          "median": 17975937.0,
+          "p95": 22782917,
+          "max": 29385708
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 23237819.18,
+          "median": 22012687.0,
+          "p95": 30486000,
+          "max": 82693250
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 85.81,
+          "median": 85.0,
+          "p95": 103,
+          "max": 119
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 21.81,
+          "median": 21.0,
+          "p95": 39,
+          "max": 55
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 870.29,
+          "median": 836.5,
+          "p95": 1293,
+          "max": 1601
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 869.87,
+          "median": 835.0,
+          "p95": 1293,
+          "max": 1595
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.42,
+          "median": 0.0,
+          "p95": 4,
+          "max": 6
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1740.58,
+          "median": 1673.0,
+          "p95": 2586,
+          "max": 3202
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 80.46,
+          "median": 77.0,
+          "p95": 146,
+          "max": 218
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 116956.48,
+          "median": 112909.0,
+          "p95": 168398,
+          "max": 247596
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 1.0701007832900076,
+          "median": 1.2287841670000006,
+          "p95": 1.624173583000129,
+          "max": 1.8642817500000035
+        }
+      }
+    },
+    {
+      "config_id": "H20",
+      "scenario": "F",
+      "display_scenario": "PD",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6003562.704341674,
+          "median": 5820299.877916667,
+          "p95": 7823087.714285715,
+          "max": 9550319.477777777
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2527650.875,
+          "median": 2459958.0,
+          "p95": 3416625.5,
+          "max": 4053791
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 18401582.52,
+          "median": 18239249.5,
+          "p95": 23234833,
+          "max": 28468584
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 22366461.3,
+          "median": 21974812.5,
+          "p95": 30339459,
+          "max": 42382250
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 130287.65589790425,
+          "median": 130454.9541482238,
+          "p95": 151950.59302325582,
+          "max": 162347.75
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 128637.06,
+          "median": 130718.75,
+          "p95": 160583.5,
+          "max": 177083
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 239292.44,
+          "median": 240125.0,
+          "p95": 279125,
+          "max": 294458
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 295949.06,
+          "median": 289208.0,
+          "p95": 345708,
+          "max": 482333
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6133850.360239578,
+          "median": 5934151.05875,
+          "p95": 7984221.726190476,
+          "max": 9707124.533333333
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2662129.015,
+          "median": 2593083.5,
+          "p95": 3591104.5,
+          "max": 4253916
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 18628040.93,
+          "median": 18455645.0,
+          "p95": 23448292,
+          "max": 28659501
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 22607971.64,
+          "median": 22198687.5,
+          "p95": 30631709,
+          "max": 42610917
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 80.37,
+          "median": 79.0,
+          "p95": 92,
+          "max": 106
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 16.37,
+          "median": 15.0,
+          "p95": 28,
+          "max": 42
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 747.04,
+          "median": 736.5,
+          "p95": 964,
+          "max": 1145
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 746.59,
+          "median": 735.0,
+          "p95": 964,
+          "max": 1145
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.45,
+          "median": 0.0,
+          "p95": 4,
+          "max": 6
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1138.23,
+          "median": 1126.0,
+          "p95": 1449,
+          "max": 1724
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 38.04,
+          "median": 35.5,
+          "p95": 68,
+          "max": 106
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 91144.61,
+          "median": 87442.5,
+          "p95": 120048,
+          "max": 155838
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 0.8028635695999966,
+          "median": 0.6851391250000347,
+          "p95": 1.3643670410000368,
+          "max": 1.607458166000015
+        }
+      }
+    },
+    {
+      "config_id": "H20",
+      "scenario": "R",
+      "display_scenario": "DR",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6023477.303538613,
+          "median": 5970962.245014739,
+          "p95": 7657667.158536585,
+          "max": 8716508.49074074
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2534301.24,
+          "median": 2408250.0,
+          "p95": 3677687.5,
+          "max": 5002625.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 18514717.08,
+          "median": 18099958.5,
+          "p95": 24202833,
+          "max": 28295125
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 22571217.47,
+          "median": 21314521.0,
+          "p95": 30361083,
+          "max": 58537416
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 129745.77711034525,
+          "median": 129424.351010101,
+          "p95": 152586.55128205128,
+          "max": 179752.97222222222
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 126290.41,
+          "median": 127999.75,
+          "p95": 152771.0,
+          "max": 169354.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 242414.93,
+          "median": 241208.0,
+          "p95": 285750,
+          "max": 430334
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 326739.93,
+          "median": 287208.5,
+          "p95": 369041,
+          "max": 1831917
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6153223.080648958,
+          "median": 6102036.233743714,
+          "p95": 7821654.951219512,
+          "max": 8865194.037037037
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2667252.5,
+          "median": 2543093.5,
+          "p95": 3848229.5,
+          "max": 5186521.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 18737087.96,
+          "median": 18317854.5,
+          "p95": 24505833,
+          "max": 28541584
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 22813297.44,
+          "median": 21535854.5,
+          "p95": 30589500,
+          "max": 58696541
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 82.48,
+          "median": 81.0,
+          "p95": 95,
+          "max": 114
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 18.48,
+          "median": 17.0,
+          "p95": 31,
+          "max": 50
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 777.32,
+          "median": 754.5,
+          "p95": 1013,
+          "max": 1319
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 776.87,
+          "median": 754.5,
+          "p95": 1012,
+          "max": 1313
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.45,
+          "median": 0.0,
+          "p95": 4,
+          "max": 6
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1276.83,
+          "median": 1226.5,
+          "p95": 1687,
+          "max": 2326
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 56.38,
+          "median": 51.0,
+          "p95": 99,
+          "max": 248
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 93397.1,
+          "median": 90321.5,
+          "p95": 125364,
+          "max": 170509
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 0.8096767158599961,
+          "median": 0.6850867289999201,
+          "p95": 1.4066888749999862,
+          "max": 1.650853374999997
+        }
+      }
+    },
+    {
+      "config_id": "H25",
+      "scenario": "N",
+      "display_scenario": "ND",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6908002.792293166,
+          "median": 6747466.231845237,
+          "p95": 8873632.333333334,
+          "max": 10939581.114583334
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 5861361.02,
+          "median": 5752229.25,
+          "p95": 8644020.5,
+          "max": 10052042.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 17311180.44,
+          "median": 16969000.0,
+          "p95": 22940125,
+          "max": 26994417
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 21712468.76,
+          "median": 20071166.5,
+          "p95": 30133458,
+          "max": 50790959
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 131410.2300398857,
+          "median": 129086.5085399449,
+          "p95": 155575.56,
+          "max": 194551.09278350516
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 129430.855,
+          "median": 131333.0,
+          "p95": 157895.5,
+          "max": 171771.0
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 236207.89,
+          "median": 232479.5,
+          "p95": 278917,
+          "max": 463125
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 349989.99,
+          "median": 290896.0,
+          "p95": 516042,
+          "max": 2635375
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 7039413.022333051,
+          "median": 6879388.488988095,
+          "p95": 9029207.893333333,
+          "max": 11097605.010416666
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 5997779.345,
+          "median": 5888198.0,
+          "p95": 8781166.0,
+          "max": 10230375.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 17536409.2,
+          "median": 17158167.0,
+          "p95": 23193250,
+          "max": 27204959
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 22002392.55,
+          "median": 20322354.5,
+          "p95": 30401833,
+          "max": 51710084
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 84.14,
+          "median": 82.5,
+          "p95": 97,
+          "max": 124
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 20.14,
+          "median": 18.5,
+          "p95": 33,
+          "max": 60
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 829.38,
+          "median": 782.0,
+          "p95": 1202,
+          "max": 1657
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 828.73,
+          "median": 782.0,
+          "p95": 1202,
+          "max": 1646
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.65,
+          "median": 0.0,
+          "p95": 4,
+          "max": 12
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1658.76,
+          "median": 1564.0,
+          "p95": 2404,
+          "max": 3314
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 74.12,
+          "median": 66.0,
+          "p95": 124,
+          "max": 238
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 110186.44,
+          "median": 104164.0,
+          "p95": 171797,
+          "max": 232552
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 1.033130733750002,
+          "median": 0.7378786045001107,
+          "p95": 1.613084666000077,
+          "max": 1.844342624999996
+        }
+      }
+    },
+    {
+      "config_id": "H25",
+      "scenario": "F",
+      "display_scenario": "PD",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 5885356.190020089,
+          "median": 5769774.655233002,
+          "p95": 8031016.516483516,
+          "max": 9624551.419753086
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2448641.43,
+          "median": 2410792.0,
+          "p95": 3599334,
+          "max": 4559125
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 17804307.11,
+          "median": 17204062.5,
+          "p95": 23967833,
+          "max": 54429291
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 22287117.07,
+          "median": 20095146.0,
+          "p95": 30501666,
+          "max": 77160250
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 130284.04419385683,
+          "median": 127610.37870771205,
+          "p95": 156258.98795180724,
+          "max": 197614.74074074073
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 125945.405,
+          "median": 124968.5,
+          "p95": 152437.5,
+          "max": 164709
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 242447.02,
+          "median": 240458.0,
+          "p95": 285709,
+          "max": 413916
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 397054.2,
+          "median": 292145.5,
+          "p95": 706083,
+          "max": 4076292
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6015640.234213946,
+          "median": 5899778.897173415,
+          "p95": 8171850.351648352,
+          "max": 9822166.160493826
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2581903.06,
+          "median": 2532041.5,
+          "p95": 3755709,
+          "max": 4720417
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 18074223.74,
+          "median": 17459958.5,
+          "p95": 24167249,
+          "max": 58505583
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 22551975.84,
+          "median": 20341354.5,
+          "p95": 30718249,
+          "max": 77385000
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 77.55,
+          "median": 77.0,
+          "p95": 85,
+          "max": 91
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 13.55,
+          "median": 13.0,
+          "p95": 21,
+          "max": 27
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 697.82,
+          "median": 684.5,
+          "p95": 897,
+          "max": 997
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 697.17,
+          "median": 683.5,
+          "p95": 897,
+          "max": 997
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.65,
+          "median": 0.0,
+          "p95": 4,
+          "max": 12
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1078.31,
+          "median": 1057.0,
+          "p95": 1393,
+          "max": 1475
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 31.2,
+          "median": 30.0,
+          "p95": 49,
+          "max": 66
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 86578.55,
+          "median": 83792.5,
+          "p95": 113198,
+          "max": 133595
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 0.7193686778700066,
+          "median": 0.6609945834999849,
+          "p95": 1.2828103749999968,
+          "max": 1.5878383329998087
+        }
+      }
+    },
+    {
+      "config_id": "H25",
+      "scenario": "R",
+      "display_scenario": "DR",
+      "independent_base_instances": 100,
+      "complete": 100,
+      "slot_budget": 0,
+      "equal_base_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 5796635.773277627,
+          "median": 5654067.842502071,
+          "p95": 7825906.67816092,
+          "max": 9585164.767441861
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2349972.67,
+          "median": 2261291.25,
+          "p95": 3609833,
+          "max": 4391958.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 17494986.23,
+          "median": 16971166.0,
+          "p95": 24210625,
+          "max": 37081167
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 22414714.95,
+          "median": 19737478.5,
+          "p95": 29812083,
+          "max": 172310000
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 126655.12217405371,
+          "median": 125696.38750926612,
+          "p95": 154869.98666666666,
+          "max": 175194.2441860465
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 123178.905,
+          "median": 121802.0,
+          "p95": 153687.5,
+          "max": 174208.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 235778.34,
+          "median": 234958.5,
+          "p95": 277417,
+          "max": 335875
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 302086.22,
+          "median": 287708.0,
+          "p95": 397208,
+          "max": 725542
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 5923290.895451681,
+          "median": 5776198.140459111,
+          "p95": 7959709.850574712,
+          "max": 9743585.313953489
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2476256.02,
+          "median": 2401989.5,
+          "p95": 3733667,
+          "max": 4564458.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 17722388.35,
+          "median": 17183916.5,
+          "p95": 24441875,
+          "max": 37221750
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 22658479.92,
+          "median": 19968437.5,
+          "p95": 30058625,
+          "max": 172467125
+        },
+        "slots_executed": {
+          "count": 100,
+          "mean": 79.69,
+          "median": 79.0,
+          "p95": 89,
+          "max": 109
+        },
+        "transfers": {
+          "count": 100,
+          "mean": 15.69,
+          "median": 15.0,
+          "p95": 25,
+          "max": 45
+        },
+        "physical_candidates": {
+          "count": 100,
+          "mean": 723.46,
+          "median": 698.5,
+          "p95": 957,
+          "max": 1068
+        },
+        "allowed_candidates": {
+          "count": 100,
+          "mean": 722.81,
+          "median": 698.5,
+          "p95": 953,
+          "max": 1057
+        },
+        "rejected_candidates": {
+          "count": 100,
+          "mean": 0.65,
+          "median": 0.0,
+          "p95": 4,
+          "max": 12
+        },
+        "mba_queries": {
+          "count": 100,
+          "mean": 1187.75,
+          "median": 1125.0,
+          "p95": 1597,
+          "max": 1820
+        },
+        "mba_hits": {
+          "count": 100,
+          "mean": 46.55,
+          "median": 44.0,
+          "p95": 80,
+          "max": 149
+        },
+        "fs_expanded": {
+          "count": 100,
+          "mean": 88056.7,
+          "median": 84689.0,
+          "p95": 116972,
+          "max": 139575
+        },
+        "process_wall_s": {
+          "count": 100,
+          "mean": 0.7437748187399965,
+          "median": 0.6672514580000097,
+          "p95": 1.412980292000043,
+          "max": 1.7985703330000433
+        }
+      }
+    }
+  ],
+  "unit": "100 common backgrounds;4 capacities and3 scenarios repeated"
+}

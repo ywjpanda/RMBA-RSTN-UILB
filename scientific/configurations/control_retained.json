@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      2,
+      12
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      4,
+      12
+    ]
+  ],
+  "methods": [
+    "uncontrolled",
+    "mba_current",
+    "peak_remaining",
+    "rmba"
+  ],
+  "scenarios": [
+    "S0",
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ]
+}

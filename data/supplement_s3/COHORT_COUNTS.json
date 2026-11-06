@@ -1,0 +1,28 @@
+{
+  "original_retained_configurations": 12,
+  "original_retained_instances": 1200,
+  "original_retained_scenarios": 3600,
+  "added_scale_configurations": 2,
+  "added_scale_instances": 200,
+  "added_scale_scenarios": 600,
+  "combined_configurations": 14,
+  "combined_instances": 1400,
+  "combined_scenarios": 4200,
+  "combined_config_scenario_groups": 42,
+  "mean60_backgrounds": 100,
+  "mean60_configuration_instances": 400,
+  "mean60_scenarios": 1200,
+  "certification_instances": 300,
+  "shared_queries": 248456,
+  "observations": 1987648,
+  "table_rows": {
+    "d032_all_3600_tail_ranking.csv": 3600,
+    "d032_all_36_groups.csv": 36,
+    "d032_configuration_scenario_retained.csv": 36,
+    "d032_equal_instance_summary_retained.json": 36,
+    "d032_per_instance_scenario_retained.csv": 3600,
+    "d032_saved_strata_per_instance_retained.csv": 255225,
+    "d032_strata_equal_instance_retained.csv": 13440,
+    "scale_all_42_groups.csv": 42
+  }
+}

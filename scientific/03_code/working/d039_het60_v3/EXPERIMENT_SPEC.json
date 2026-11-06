@@ -1,0 +1,205 @@
+{
+  "configs": [
+    {
+      "id": "B60",
+      "component_capacity_multisets_MB": [
+        [
+          60,
+          60
+        ],
+        [
+          60,
+          60
+        ]
+      ],
+      "illustrative_capacity_vector_MB": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "mean_MB": 60,
+      "population_SD_MB": 0.0,
+      "CV": 0.0,
+      "total_MB": 240,
+      "component_total_MB": 120
+    },
+    {
+      "id": "H10",
+      "component_capacity_multisets_MB": [
+        [
+          50,
+          70
+        ],
+        [
+          50,
+          70
+        ]
+      ],
+      "illustrative_capacity_vector_MB": [
+        50,
+        70,
+        50,
+        70
+      ],
+      "mean_MB": 60,
+      "population_SD_MB": 10.0,
+      "CV": 0.16666666666666666,
+      "total_MB": 240,
+      "component_total_MB": 120
+    },
+    {
+      "id": "H20",
+      "component_capacity_multisets_MB": [
+        [
+          40,
+          80
+        ],
+        [
+          40,
+          80
+        ]
+      ],
+      "illustrative_capacity_vector_MB": [
+        40,
+        80,
+        40,
+        80
+      ],
+      "mean_MB": 60,
+      "population_SD_MB": 20.0,
+      "CV": 0.3333333333333333,
+      "total_MB": 240,
+      "component_total_MB": 120
+    },
+    {
+      "id": "H25",
+      "component_capacity_multisets_MB": [
+        [
+          35,
+          85
+        ],
+        [
+          35,
+          85
+        ]
+      ],
+      "illustrative_capacity_vector_MB": [
+        35,
+        85,
+        35,
+        85
+      ],
+      "mean_MB": 60,
+      "population_SD_MB": 25.0,
+      "CV": 0.4166666666666667,
+      "total_MB": 240,
+      "component_total_MB": 120
+    }
+  ],
+  "model": {
+    "m": 4,
+    "n": 16,
+    "K": 2,
+    "edges_zero_based": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unreliable_edge_zero_based": [
+      1,
+      2
+    ],
+    "initial": "all applications ready; satellite buffers empty; link up",
+    "policy": "existing D032 RMBA only",
+    "data_sizes_integer_uniform_inclusive": [
+      10,
+      35
+    ],
+    "data_items_per_application": 3,
+    "data_dependency": "previous output is next input; shared stored values",
+    "tasks_access_and_selector": "Reuse exact accepted B60 task contents/access/selector streams, not merely same seed label",
+    "kernel": "Complete FS/MBA/RMBA and autonomous failure/recovery unchanged; implement in new isolated copy",
+    "initial_certification": "actual up/down MBA conditions checked, never inferred solely from minimum capacity",
+    "cache": "existing 100000-entry bounded rule, separate initial certification then online empty cache"
+  },
+  "scenarios": [
+    {
+      "internal": "N",
+      "display": "ND",
+      "full_name": "no disruption",
+      "events": []
+    },
+    {
+      "internal": "F",
+      "display": "PD",
+      "full_name": "permanent disruption",
+      "events": [
+        {
+          "slot": 32,
+          "link_up": false
+        }
+      ]
+    },
+    {
+      "internal": "R",
+      "display": "DR",
+      "full_name": "disruption followed by recovery",
+      "events": [
+        {
+          "slot": 32,
+          "link_up": false
+        },
+        {
+          "slot": 64,
+          "link_up": true
+        }
+      ]
+    }
+  ],
+  "W": 64,
+  "slot_budget": 1024,
+  "early_completion": "Stop on completion; later events not_reached; no seed replacement to force events",
+  "measurement": {
+    "primary": "Complete permission-set decision computation: physical candidate enumeration, successor generation, all required RMBA checks, permission-set construction",
+    "selector": "separate; also report decision+selector",
+    "excluded_and_separately_recorded": [
+      "initialization",
+      "initial certification",
+      "event/state simulation",
+      "serialization",
+      "I/O",
+      "postprocessing",
+      "archive"
+    ],
+    "statistics": [
+      "high-precision per-slot values",
+      "instance mean/median/p95/max",
+      "equal-instance group summaries",
+      "paired per-base difference/ratio distributions separately per scenario",
+      "all tails and maximum observations"
+    ],
+    "percentile": "retain existing nearest-rank ceil(.95*N) and explicit aggregation hierarchy",
+    "secondary": [
+      "initial certification",
+      "completion/slot_budget/technical failure",
+      "operation slots",
+      "transfers",
+      "candidates/rejections",
+      "queries/cache hits/clears/peak entries",
+      "FS expansions",
+      "wall and real peak RSS"
+    ],
+    "claim_boundary": "No asserted monotonic cost, significance, causal comparison versus40MB, hard onboard deadline, or physical E2E latency"
+  },
+  "release_note": "Public interface derivative; original historical100-instance results are unchanged; declaration binds these actual derived bytes."
+}

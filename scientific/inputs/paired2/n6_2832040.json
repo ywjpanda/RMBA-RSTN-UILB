@@ -1,0 +1,81 @@
+{
+  "instance": {
+    "n": 6,
+    "seed": 2832040,
+    "m": 2,
+    "buffer_capacity_MB": [
+      40,
+      40
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          35,
+          18,
+          17
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          13,
+          23,
+          13
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          35,
+          34,
+          11
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          18,
+          28,
+          32
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          21,
+          22,
+          10
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          21,
+          11,
+          35
+        ],
+        "access_satellite_zero_based": 1
+      }
+    ]
+  },
+  "input": {
+    "n": 6,
+    "seed": 2832040,
+    "attempt": "truth/paired2/n6_seed2832040"
+  },
+  "split": "formal",
+  "limits": {
+    "aggregate_new_disk_bytes": 10737418240,
+    "formal_pipeline_planning_budget_s": 21600,
+    "instance_disk_bytes": 536870912,
+    "instance_worker_wall_s": 600,
+    "parent_rss_bytes": 4294967296,
+    "preflight_free_bytes": 10737418240,
+    "runtime_min_free_bytes": 2147483648,
+    "single_method_call_wall_s": 30,
+    "term_grace_s": 3,
+    "watchdog_interval_s": 0.5,
+    "worker_rss_bytes": 2147483648,
+    "workers": 1
+  }
+}

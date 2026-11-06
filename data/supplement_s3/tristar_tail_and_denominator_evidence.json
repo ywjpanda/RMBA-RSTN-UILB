@@ -1,0 +1,15 @@
+{
+  "instances": 100,
+  "queries": 100000,
+  "observations": 800000,
+  "diagnostic_cold_calls": 750,
+  "eta_equal_one": 90,
+  "eta_less_one": 10,
+  "ratio_gt_one": 0,
+  "paired_RMBA_slower_call_pairs": 6377,
+  "max_single_call_ns": {
+    "RMBA": 26954291,
+    "Exact": 12572875
+  },
+  "certified_but_unreachable_instances": 1
+}

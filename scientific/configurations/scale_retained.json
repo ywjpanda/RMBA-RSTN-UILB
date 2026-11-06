@@ -1,0 +1,548 @@
+{
+  "configurations": [
+    {
+      "id": "S4",
+      "eligibility_class": "core",
+      "m": 4,
+      "n": 16,
+      "K": 2,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": null,
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 64,
+      "failure_slot": 32,
+      "recovery_slot": 64,
+      "slot_budget": 1024
+    },
+    {
+      "id": "S8",
+      "eligibility_class": "core",
+      "m": 8,
+      "n": 32,
+      "K": 2,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        3,
+        4
+      ],
+      "W": 128,
+      "failure_slot": 64,
+      "recovery_slot": 128,
+      "slot_budget": 2048
+    },
+    {
+      "id": "K4",
+      "eligibility_class": "core",
+      "m": 4,
+      "n": 16,
+      "K": 4,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 96,
+      "failure_slot": 48,
+      "recovery_slot": 96,
+      "slot_budget": 1536
+    },
+    {
+      "id": "K6",
+      "eligibility_class": "core",
+      "m": 4,
+      "n": 16,
+      "K": 6,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 128,
+      "failure_slot": 64,
+      "recovery_slot": 128,
+      "slot_budget": 2048
+    },
+    {
+      "id": "B35",
+      "eligibility_class": "core",
+      "m": 4,
+      "n": 16,
+      "K": 2,
+      "capacity_MB": [
+        35,
+        35,
+        35,
+        35
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 64,
+      "failure_slot": 32,
+      "recovery_slot": 64,
+      "slot_budget": 1024
+    },
+    {
+      "id": "B60",
+      "eligibility_class": "core",
+      "m": 4,
+      "n": 16,
+      "K": 2,
+      "capacity_MB": [
+        60,
+        60,
+        60,
+        60
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 64,
+      "failure_slot": 32,
+      "recovery_slot": 64,
+      "slot_budget": 1024
+    },
+    {
+      "id": "IO_LOW",
+      "eligibility_class": "core",
+      "m": 4,
+      "n": 16,
+      "K": 2,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        5,
+        15
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 64,
+      "failure_slot": 32,
+      "recovery_slot": 64,
+      "slot_budget": 1024
+    },
+    {
+      "id": "IO_HIGH",
+      "eligibility_class": "core",
+      "m": 4,
+      "n": 16,
+      "K": 2,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        25,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 64,
+      "failure_slot": 32,
+      "recovery_slot": 64,
+      "slot_budget": 1024
+    },
+    {
+      "id": "S16",
+      "eligibility_class": "optional_scale",
+      "m": 16,
+      "n": 64,
+      "K": 2,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": [
+        "S4",
+        "S8"
+      ],
+      "unreliable_edge_zero_based": [
+        7,
+        8
+      ],
+      "W": 256,
+      "failure_slot": 128,
+      "recovery_slot": 256,
+      "slot_budget": 4096
+    },
+    {
+      "id": "L16",
+      "eligibility_class": "optional_load",
+      "m": 8,
+      "n": 16,
+      "K": 2,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S8",
+      "unreliable_edge_zero_based": [
+        3,
+        4
+      ],
+      "W": 64,
+      "failure_slot": 32,
+      "recovery_slot": 64,
+      "slot_budget": 1024
+    },
+    {
+      "id": "L48",
+      "eligibility_class": "optional_load",
+      "m": 8,
+      "n": 48,
+      "K": 2,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S8",
+      "unreliable_edge_zero_based": [
+        3,
+        4
+      ],
+      "W": 192,
+      "failure_slot": 96,
+      "recovery_slot": 192,
+      "slot_budget": 3072
+    },
+    {
+      "id": "L64",
+      "eligibility_class": "optional_load",
+      "m": 8,
+      "n": 64,
+      "K": 2,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S8",
+      "unreliable_edge_zero_based": [
+        3,
+        4
+      ],
+      "W": 256,
+      "failure_slot": 128,
+      "recovery_slot": 256,
+      "slot_budget": 4096
+    },
+    {
+      "id": "K8",
+      "eligibility_class": "optional_chain_preferred",
+      "m": 4,
+      "n": 16,
+      "K": 8,
+      "capacity_MB": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 160,
+      "failure_slot": 80,
+      "recovery_slot": 160,
+      "slot_budget": 2560
+    },
+    {
+      "id": "B50",
+      "eligibility_class": "optional_capacity",
+      "m": 4,
+      "n": 16,
+      "K": 2,
+      "capacity_MB": [
+        50,
+        50,
+        50,
+        50
+      ],
+      "component_capacity_multisets_MB": null,
+      "capacity_placement": "uniform",
+      "all_d0_through_dK_integer_uniform_inclusive": [
+        10,
+        35
+      ],
+      "chain_semantics": "K+1 independent draws; adjacent stage output/input reuse the same d_q",
+      "comparison_baseline": "S4",
+      "unreliable_edge_zero_based": [
+        1,
+        2
+      ],
+      "W": 64,
+      "failure_slot": 32,
+      "recovery_slot": 64,
+      "slot_budget": 1024
+    }
+  ],
+  "seeds": [
+    1702001,
+    1702002,
+    1702003,
+    1702004,
+    1702005,
+    1702006,
+    1702007,
+    1702008,
+    1702009,
+    1702010,
+    1702011,
+    1702012,
+    1702013,
+    1702014,
+    1702015,
+    1702016,
+    1702017,
+    1702018,
+    1702019,
+    1702020,
+    1702021,
+    1702022,
+    1702023,
+    1702024,
+    1702025,
+    1702026,
+    1702027,
+    1702028,
+    1702029,
+    1702030,
+    1702031,
+    1702032,
+    1702033,
+    1702034,
+    1702035,
+    1702036,
+    1702037,
+    1702038,
+    1702039,
+    1702040,
+    1702041,
+    1702042,
+    1702043,
+    1702044,
+    1702045,
+    1702046,
+    1702047,
+    1702048,
+    1702049,
+    1702050,
+    1702051,
+    1702052,
+    1702053,
+    1702054,
+    1702055,
+    1702056,
+    1702057,
+    1702058,
+    1702059,
+    1702060,
+    1702061,
+    1702062,
+    1702063,
+    1702064,
+    1702065,
+    1702066,
+    1702067,
+    1702068,
+    1702069,
+    1702070,
+    1702071,
+    1702072,
+    1702073,
+    1702074,
+    1702075,
+    1702076,
+    1702077,
+    1702078,
+    1702079,
+    1702080,
+    1702081,
+    1702082,
+    1702083,
+    1702084,
+    1702085,
+    1702086,
+    1702087,
+    1702088,
+    1702089,
+    1702090,
+    1702091,
+    1702092,
+    1702093,
+    1702094,
+    1702095,
+    1702096,
+    1702097,
+    1702098,
+    1702099,
+    1702100
+  ],
+  "scenarios": [
+    "N",
+    "F",
+    "R"
+  ]
+}

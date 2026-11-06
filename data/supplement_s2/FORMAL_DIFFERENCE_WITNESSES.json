@@ -1,0 +1,229 @@
+[
+  {
+    "n": 3,
+    "seed": 2832070,
+    "Rstar": 592,
+    "RR": 570,
+    "certified_in_Rstar": 578,
+    "difference_count": 8,
+    "target": 320,
+    "path": [
+      {
+        "code": 1,
+        "positions": [
+          0,
+          0,
+          0
+        ],
+        "link": "up",
+        "A": true,
+        "RR": true,
+        "Rstar": true,
+        "parent_action": -2
+      },
+      {
+        "code": 17,
+        "positions": [
+          0,
+          1,
+          0
+        ],
+        "link": "up",
+        "A": true,
+        "RR": true,
+        "Rstar": true,
+        "parent_action": 65
+      },
+      {
+        "code": 529,
+        "positions": [
+          0,
+          1,
+          4
+        ],
+        "link": "up",
+        "A": true,
+        "RR": true,
+        "Rstar": true,
+        "parent_action": 132
+      },
+      {
+        "code": 657,
+        "positions": [
+          0,
+          1,
+          5
+        ],
+        "link": "up",
+        "A": true,
+        "RR": true,
+        "Rstar": true,
+        "parent_action": 165
+      },
+      {
+        "code": 705,
+        "positions": [
+          0,
+          4,
+          5
+        ],
+        "link": "up",
+        "A": false,
+        "RR": false,
+        "Rstar": true,
+        "parent_action": 76
+      },
+      {
+        "code": 321,
+        "positions": [
+          0,
+          4,
+          2
+        ],
+        "link": "up",
+        "A": true,
+        "RR": false,
+        "Rstar": true,
+        "parent_action": 170
+      },
+      {
+        "code": 320,
+        "positions": [
+          0,
+          4,
+          2
+        ],
+        "link": "down",
+        "A": true,
+        "RR": false,
+        "Rstar": true,
+        "parent_action": -1
+      }
+    ],
+    "note": "This path illustrates rejection; nonreachability follows from independently traversed complete saved controlled graph, not this one path alone."
+  },
+  {
+    "n": 6,
+    "seed": 2832002,
+    "Rstar": 23880,
+    "RR": 23280,
+    "certified_in_Rstar": 23472,
+    "difference_count": 192,
+    "target": 20480,
+    "path": [
+      {
+        "code": 1,
+        "positions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "up",
+        "A": true,
+        "RR": true,
+        "Rstar": true,
+        "parent_action": -2
+      },
+      {
+        "code": 1025,
+        "positions": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "link": "up",
+        "A": true,
+        "RR": true,
+        "Rstar": true,
+        "parent_action": 193
+      },
+      {
+        "code": 33793,
+        "positions": [
+          0,
+          0,
+          0,
+          1,
+          4,
+          0
+        ],
+        "link": "up",
+        "A": true,
+        "RR": true,
+        "Rstar": true,
+        "parent_action": 260
+      },
+      {
+        "code": 41985,
+        "positions": [
+          0,
+          0,
+          0,
+          1,
+          5,
+          0
+        ],
+        "link": "up",
+        "A": true,
+        "RR": true,
+        "Rstar": true,
+        "parent_action": 293
+      },
+      {
+        "code": 45057,
+        "positions": [
+          0,
+          0,
+          0,
+          4,
+          5,
+          0
+        ],
+        "link": "up",
+        "A": false,
+        "RR": false,
+        "Rstar": true,
+        "parent_action": 204
+      },
+      {
+        "code": 20481,
+        "positions": [
+          0,
+          0,
+          0,
+          4,
+          2,
+          0
+        ],
+        "link": "up",
+        "A": true,
+        "RR": false,
+        "Rstar": true,
+        "parent_action": 298
+      },
+      {
+        "code": 20480,
+        "positions": [
+          0,
+          0,
+          0,
+          4,
+          2,
+          0
+        ],
+        "link": "down",
+        "A": true,
+        "RR": false,
+        "Rstar": true,
+        "parent_action": -1
+      }
+    ],
+    "note": "This path illustrates rejection; nonreachability follows from independently traversed complete saved controlled graph, not this one path alone."
+  }
+]

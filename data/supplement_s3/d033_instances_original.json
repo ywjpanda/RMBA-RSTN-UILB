@@ -1,0 +1,6202 @@
+[
+  {
+    "R_RMBA": 330,
+    "Rstar": 330,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 37465.09848484849,
+      "RMBA": 31481.062121212122
+    },
+    "n": 3,
+    "observations": 2640,
+    "query_count": 330,
+    "query_counts": {
+      "all_done": 2,
+      "down": 165,
+      "has_done": 204,
+      "has_ready": 204,
+      "initial_safe": 16,
+      "up": 165
+    },
+    "ratio": 0.8402770416830371,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832001,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1273891250602901,
+    "worker_ru_maxrss_bytes": 35536896
+  },
+  {
+    "R_RMBA": 304,
+    "Rstar": 304,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 47071.22697368421,
+      "RMBA": 28797.78782894737
+    },
+    "n": 3,
+    "observations": 2432,
+    "query_count": 304,
+    "query_counts": {
+      "all_done": 2,
+      "down": 152,
+      "has_done": 194,
+      "has_ready": 194,
+      "initial_safe": 16,
+      "up": 152
+    },
+    "ratio": 0.6117917394642624,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832002,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.11323166592046618,
+    "worker_ru_maxrss_bytes": 36110336
+  },
+  {
+    "R_RMBA": 600,
+    "Rstar": 600,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 32194.888333333332,
+      "RMBA": 32755.215
+    },
+    "n": 3,
+    "observations": 4800,
+    "query_count": 600,
+    "query_counts": {
+      "all_done": 2,
+      "down": 300,
+      "has_done": 270,
+      "has_ready": 270,
+      "initial_safe": 16,
+      "up": 300
+    },
+    "ratio": 1.017404212148999,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832003,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18364629056304693,
+    "worker_ru_maxrss_bytes": 37142528
+  },
+  {
+    "R_RMBA": 420,
+    "Rstar": 420,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 46207.93392857143,
+      "RMBA": 28653.816071428573
+    },
+    "n": 3,
+    "observations": 3360,
+    "query_count": 420,
+    "query_counts": {
+      "all_done": 2,
+      "down": 210,
+      "has_done": 226,
+      "has_ready": 226,
+      "initial_safe": 16,
+      "up": 210
+    },
+    "ratio": 0.6201059782443824,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832004,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.16269920906051993,
+    "worker_ru_maxrss_bytes": 36012032
+  },
+  {
+    "R_RMBA": 732,
+    "Rstar": 732,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 43731.04474043716,
+      "RMBA": 22528.492827868853
+    },
+    "n": 3,
+    "observations": 5856,
+    "query_count": 732,
+    "query_counts": {
+      "all_done": 2,
+      "down": 366,
+      "has_done": 298,
+      "has_ready": 298,
+      "initial_safe": 16,
+      "up": 366
+    },
+    "ratio": 0.5151601788062757,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832005,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.22740462515503168,
+    "worker_ru_maxrss_bytes": 36503552
+  },
+  {
+    "R_RMBA": 330,
+    "Rstar": 330,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 37144.708333333336,
+      "RMBA": 53466.1303030303
+    },
+    "n": 3,
+    "observations": 2640,
+    "query_count": 330,
+    "query_counts": {
+      "all_done": 2,
+      "down": 165,
+      "has_done": 204,
+      "has_ready": 204,
+      "initial_safe": 16,
+      "up": 165
+    },
+    "ratio": 1.4394009995509984,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832006,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.16671070829033852,
+    "worker_ru_maxrss_bytes": 36388864
+  },
+  {
+    "R_RMBA": 386,
+    "Rstar": 386,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 52023.886658031086,
+      "RMBA": 30264.24287564767
+    },
+    "n": 3,
+    "observations": 3088,
+    "query_count": 386,
+    "query_counts": {
+      "all_done": 2,
+      "down": 193,
+      "has_done": 220,
+      "has_ready": 220,
+      "initial_safe": 16,
+      "up": 193
+    },
+    "ratio": 0.5817374444663043,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832007,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.15253258310258389,
+    "worker_ru_maxrss_bytes": 36208640
+  },
+  {
+    "R_RMBA": 640,
+    "Rstar": 640,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 50432.875390625,
+      "RMBA": 26041.4171875
+    },
+    "n": 3,
+    "observations": 5120,
+    "query_count": 640,
+    "query_counts": {
+      "all_done": 2,
+      "down": 320,
+      "has_done": 278,
+      "has_ready": 278,
+      "initial_safe": 16,
+      "up": 320
+    },
+    "ratio": 0.5163579705856084,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832008,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.3096140827983618,
+    "worker_ru_maxrss_bytes": 36192256
+  },
+  {
+    "R_RMBA": 382,
+    "Rstar": 382,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 51737.89332460733,
+      "RMBA": 35427.73756544503
+    },
+    "n": 3,
+    "observations": 3056,
+    "query_count": 382,
+    "query_counts": {
+      "all_done": 2,
+      "down": 191,
+      "has_done": 224,
+      "has_ready": 224,
+      "initial_safe": 16,
+      "up": 191
+    },
+    "ratio": 0.6847541577150968,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832009,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.20585825014859438,
+    "worker_ru_maxrss_bytes": 35848192
+  },
+  {
+    "R_RMBA": 394,
+    "Rstar": 394,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 73444.6230964467,
+      "RMBA": 40437.13388324873
+    },
+    "n": 3,
+    "observations": 3152,
+    "query_count": 394,
+    "query_counts": {
+      "all_done": 2,
+      "down": 197,
+      "has_done": 224,
+      "has_ready": 224,
+      "initial_safe": 16,
+      "up": 197
+    },
+    "ratio": 0.5505799087585638,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832010,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.23015270894393325,
+    "worker_ru_maxrss_bytes": 36306944
+  },
+  {
+    "R_RMBA": 518,
+    "Rstar": 518,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 55180.40588803089,
+      "RMBA": 25434.04633204633
+    },
+    "n": 3,
+    "observations": 4144,
+    "query_count": 518,
+    "query_counts": {
+      "all_done": 2,
+      "down": 259,
+      "has_done": 258,
+      "has_ready": 258,
+      "initial_safe": 16,
+      "up": 259
+    },
+    "ratio": 0.46092532163782435,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832011,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.2115495828911662,
+    "worker_ru_maxrss_bytes": 36749312
+  },
+  {
+    "R_RMBA": 676,
+    "Rstar": 676,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 39679.78846153846,
+      "RMBA": 21188.364275147927
+    },
+    "n": 3,
+    "observations": 5408,
+    "query_count": 676,
+    "query_counts": {
+      "all_done": 2,
+      "down": 338,
+      "has_done": 290,
+      "has_ready": 290,
+      "initial_safe": 16,
+      "up": 338
+    },
+    "ratio": 0.5339838012414246,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832012,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.21402141591534019,
+    "worker_ru_maxrss_bytes": 36274176
+  },
+  {
+    "R_RMBA": 450,
+    "Rstar": 450,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42218.765,
+      "RMBA": 24459.931666666667
+    },
+    "n": 3,
+    "observations": 3600,
+    "query_count": 450,
+    "query_counts": {
+      "all_done": 2,
+      "down": 225,
+      "has_done": 240,
+      "has_ready": 240,
+      "initial_safe": 16,
+      "up": 225
+    },
+    "ratio": 0.5793616100960477,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832013,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.14611891703680158,
+    "worker_ru_maxrss_bytes": 36438016
+  },
+  {
+    "R_RMBA": 456,
+    "Rstar": 456,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 37354.80756578947,
+      "RMBA": 23035.45230263158
+    },
+    "n": 3,
+    "observations": 3648,
+    "query_count": 456,
+    "query_counts": {
+      "all_done": 2,
+      "down": 228,
+      "has_done": 246,
+      "has_ready": 246,
+      "initial_safe": 16,
+      "up": 228
+    },
+    "ratio": 0.6166663357068947,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832014,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13656070828437805,
+    "worker_ru_maxrss_bytes": 36651008
+  },
+  {
+    "R_RMBA": 308,
+    "Rstar": 308,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 53153.875,
+      "RMBA": 25190.72970779221
+    },
+    "n": 3,
+    "observations": 2464,
+    "query_count": 308,
+    "query_counts": {
+      "all_done": 2,
+      "down": 154,
+      "has_done": 196,
+      "has_ready": 196,
+      "initial_safe": 16,
+      "up": 154
+    },
+    "ratio": 0.4739208516367284,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832015,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.12625237507745624,
+    "worker_ru_maxrss_bytes": 35815424
+  },
+  {
+    "R_RMBA": 480,
+    "Rstar": 480,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36242.13072916667,
+      "RMBA": 24237.14375
+    },
+    "n": 3,
+    "observations": 3840,
+    "query_count": 480,
+    "query_counts": {
+      "all_done": 2,
+      "down": 240,
+      "has_done": 244,
+      "has_ready": 244,
+      "initial_safe": 16,
+      "up": 240
+    },
+    "ratio": 0.6687560378588507,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832016,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.14881666703149676,
+    "worker_ru_maxrss_bytes": 37027840
+  },
+  {
+    "R_RMBA": 422,
+    "Rstar": 422,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 48266.02962085308,
+      "RMBA": 30018.472748815166
+    },
+    "n": 3,
+    "observations": 3376,
+    "query_count": 422,
+    "query_counts": {
+      "all_done": 2,
+      "down": 211,
+      "has_done": 232,
+      "has_ready": 232,
+      "initial_safe": 16,
+      "up": 211
+    },
+    "ratio": 0.621937892646671,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832017,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.17715045902878046,
+    "worker_ru_maxrss_bytes": 36175872
+  },
+  {
+    "R_RMBA": 390,
+    "Rstar": 390,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 52581.057692307695,
+      "RMBA": 32488.165384615386
+    },
+    "n": 3,
+    "observations": 3120,
+    "query_count": 390,
+    "query_counts": {
+      "all_done": 2,
+      "down": 195,
+      "has_done": 222,
+      "has_ready": 222,
+      "initial_safe": 16,
+      "up": 195
+    },
+    "ratio": 0.617868236404233,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832018,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.16221641702577472,
+    "worker_ru_maxrss_bytes": 36569088
+  },
+  {
+    "R_RMBA": 420,
+    "Rstar": 420,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36247.77202380952,
+      "RMBA": 27864.805952380953
+    },
+    "n": 3,
+    "observations": 3360,
+    "query_count": 420,
+    "query_counts": {
+      "all_done": 2,
+      "down": 210,
+      "has_done": 230,
+      "has_ready": 230,
+      "initial_safe": 16,
+      "up": 210
+    },
+    "ratio": 0.7687315494612419,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832019,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.144618459045887,
+    "worker_ru_maxrss_bytes": 36847616
+  },
+  {
+    "R_RMBA": 496,
+    "Rstar": 496,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 43516.990927419356,
+      "RMBA": 29515.78377016129
+    },
+    "n": 3,
+    "observations": 3968,
+    "query_count": 496,
+    "query_counts": {
+      "all_done": 2,
+      "down": 248,
+      "has_done": 254,
+      "has_ready": 254,
+      "initial_safe": 16,
+      "up": 248
+    },
+    "ratio": 0.6782588396194432,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832020,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18189366720616817,
+    "worker_ru_maxrss_bytes": 36569088
+  },
+  {
+    "R_RMBA": 456,
+    "Rstar": 456,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 46648.162280701756,
+      "RMBA": 32663.544407894737
+    },
+    "n": 3,
+    "observations": 3648,
+    "query_count": 456,
+    "query_counts": {
+      "all_done": 2,
+      "down": 228,
+      "has_done": 242,
+      "has_ready": 242,
+      "initial_safe": 16,
+      "up": 228
+    },
+    "ratio": 0.7002107438090348,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832021,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.19210341665893793,
+    "worker_ru_maxrss_bytes": 35913728
+  },
+  {
+    "R_RMBA": 430,
+    "Rstar": 430,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 41452.1773255814,
+      "RMBA": 22997.188372093024
+    },
+    "n": 3,
+    "observations": 3440,
+    "query_count": 430,
+    "query_counts": {
+      "all_done": 2,
+      "down": 215,
+      "has_done": 230,
+      "has_ready": 230,
+      "initial_safe": 16,
+      "up": 215
+    },
+    "ratio": 0.5547884298444502,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832022,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.16001545917242765,
+    "worker_ru_maxrss_bytes": 36585472
+  },
+  {
+    "R_RMBA": 688,
+    "Rstar": 688,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42660.29760174418,
+      "RMBA": 26099.62972383721
+    },
+    "n": 3,
+    "observations": 5504,
+    "query_count": 688,
+    "query_counts": {
+      "all_done": 2,
+      "down": 344,
+      "has_done": 290,
+      "has_ready": 290,
+      "initial_safe": 16,
+      "up": 344
+    },
+    "ratio": 0.611801398281153,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832023,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.23015966592356563,
+    "worker_ru_maxrss_bytes": 36634624
+  },
+  {
+    "R_RMBA": 548,
+    "Rstar": 548,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 41923.892335766424,
+      "RMBA": 32215.099452554743
+    },
+    "n": 3,
+    "observations": 4384,
+    "query_count": 548,
+    "query_counts": {
+      "all_done": 2,
+      "down": 274,
+      "has_done": 262,
+      "has_ready": 262,
+      "initial_safe": 16,
+      "up": 274
+    },
+    "ratio": 0.7684186190190924,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832024,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.21449550008401275,
+    "worker_ru_maxrss_bytes": 35831808
+  },
+  {
+    "R_RMBA": 404,
+    "Rstar": 404,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 30334.26051980198,
+      "RMBA": 15648.360767326732
+    },
+    "n": 3,
+    "observations": 3232,
+    "query_count": 404,
+    "query_counts": {
+      "all_done": 2,
+      "down": 202,
+      "has_done": 238,
+      "has_ready": 238,
+      "initial_safe": 16,
+      "up": 202
+    },
+    "ratio": 0.5158642570868539,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832025,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.10586487501859665,
+    "worker_ru_maxrss_bytes": 36339712
+  },
+  {
+    "R_RMBA": 330,
+    "Rstar": 330,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 39161.59166666667,
+      "RMBA": 20943.511363636364
+    },
+    "n": 3,
+    "observations": 2640,
+    "query_count": 330,
+    "query_counts": {
+      "all_done": 2,
+      "down": 165,
+      "has_done": 204,
+      "has_ready": 204,
+      "initial_safe": 16,
+      "up": 165
+    },
+    "ratio": 0.5347972457785197,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832026,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13255441701039672,
+    "worker_ru_maxrss_bytes": 37044224
+  },
+  {
+    "R_RMBA": 510,
+    "Rstar": 510,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 44459.086274509806,
+      "RMBA": 23095.832843137254
+    },
+    "n": 3,
+    "observations": 4080,
+    "query_count": 510,
+    "query_counts": {
+      "all_done": 2,
+      "down": 255,
+      "has_done": 250,
+      "has_ready": 250,
+      "initial_safe": 16,
+      "up": 255
+    },
+    "ratio": 0.5194850991883527,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832027,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.16747837513685226,
+    "worker_ru_maxrss_bytes": 36421632
+  },
+  {
+    "R_RMBA": 736,
+    "Rstar": 736,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 41012.801630434784,
+      "RMBA": 19850.662703804348
+    },
+    "n": 3,
+    "observations": 5888,
+    "query_count": 736,
+    "query_counts": {
+      "all_done": 2,
+      "down": 368,
+      "has_done": 302,
+      "has_ready": 302,
+      "initial_safe": 16,
+      "up": 368
+    },
+    "ratio": 0.48401137973158037,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832028,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.22697033267468214,
+    "worker_ru_maxrss_bytes": 36372480
+  },
+  {
+    "R_RMBA": 756,
+    "Rstar": 756,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 38431.33167989418,
+      "RMBA": 31234.199074074073
+    },
+    "n": 3,
+    "observations": 6048,
+    "query_count": 756,
+    "query_counts": {
+      "all_done": 2,
+      "down": 378,
+      "has_done": 302,
+      "has_ready": 302,
+      "initial_safe": 16,
+      "up": 378
+    },
+    "ratio": 0.812727472839944,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832029,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.24333583423867822,
+    "worker_ru_maxrss_bytes": 36126720
+  },
+  {
+    "R_RMBA": 304,
+    "Rstar": 304,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 45005.14884868421,
+      "RMBA": 21240.21957236842
+    },
+    "n": 3,
+    "observations": 2432,
+    "query_count": 304,
+    "query_counts": {
+      "all_done": 2,
+      "down": 152,
+      "has_done": 194,
+      "has_ready": 194,
+      "initial_safe": 16,
+      "up": 152
+    },
+    "ratio": 0.4719508793045445,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832030,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.10748687526211143,
+    "worker_ru_maxrss_bytes": 36732928
+  },
+  {
+    "R_RMBA": 432,
+    "Rstar": 432,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 61116.053819444445,
+      "RMBA": 21549.26446759259
+    },
+    "n": 3,
+    "observations": 3456,
+    "query_count": 432,
+    "query_counts": {
+      "all_done": 2,
+      "down": 216,
+      "has_done": 234,
+      "has_ready": 234,
+      "initial_safe": 16,
+      "up": 216
+    },
+    "ratio": 0.3525958094620396,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832031,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.19388170819729567,
+    "worker_ru_maxrss_bytes": 36159488
+  },
+  {
+    "R_RMBA": 684,
+    "Rstar": 724,
+    "crossing": {
+      "lambda": 0.8857403555381487,
+      "type": "interior"
+    },
+    "eta_reach": 0.9447513812154696,
+    "mean_ns": {
+      "Exact": 47401.95683701657,
+      "RMBA": 27100.310428176796
+    },
+    "n": 3,
+    "observations": 5792,
+    "query_count": 724,
+    "query_counts": {
+      "all_done": 2,
+      "down": 362,
+      "has_done": 298,
+      "has_ready": 298,
+      "initial_safe": 16,
+      "up": 362
+    },
+    "ratio": 0.5717129046245184,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832032,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.25519445771351457,
+    "worker_ru_maxrss_bytes": 36864000
+  },
+  {
+    "R_RMBA": 318,
+    "Rstar": 318,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 46532.63443396227,
+      "RMBA": 21140.278301886792
+    },
+    "n": 3,
+    "observations": 2544,
+    "query_count": 318,
+    "query_counts": {
+      "all_done": 2,
+      "down": 159,
+      "has_done": 198,
+      "has_ready": 198,
+      "initial_safe": 16,
+      "up": 159
+    },
+    "ratio": 0.45431079841156313,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832033,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1179783339612186,
+    "worker_ru_maxrss_bytes": 36732928
+  },
+  {
+    "R_RMBA": 516,
+    "Rstar": 516,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 55576.12209302326,
+      "RMBA": 40354.04360465116
+    },
+    "n": 3,
+    "observations": 4128,
+    "query_count": 516,
+    "query_counts": {
+      "all_done": 2,
+      "down": 258,
+      "has_done": 258,
+      "has_ready": 258,
+      "initial_safe": 16,
+      "up": 258
+    },
+    "ratio": 0.7261039828778735,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832034,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.22111487528309226,
+    "worker_ru_maxrss_bytes": 36388864
+  },
+  {
+    "R_RMBA": 432,
+    "Rstar": 432,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 57369.866319444445,
+      "RMBA": 21754.87789351852
+    },
+    "n": 3,
+    "observations": 3456,
+    "query_count": 432,
+    "query_counts": {
+      "all_done": 2,
+      "down": 216,
+      "has_done": 234,
+      "has_ready": 234,
+      "initial_safe": 16,
+      "up": 216
+    },
+    "ratio": 0.37920391468901,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832035,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.17829441698268056,
+    "worker_ru_maxrss_bytes": 36388864
+  },
+  {
+    "R_RMBA": 656,
+    "Rstar": 656,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42497.345274390245,
+      "RMBA": 24245.60556402439
+    },
+    "n": 3,
+    "observations": 5248,
+    "query_count": 656,
+    "query_counts": {
+      "all_done": 2,
+      "down": 328,
+      "has_done": 286,
+      "has_ready": 286,
+      "initial_safe": 16,
+      "up": 328
+    },
+    "ratio": 0.570520473866759,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832036,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.2532577090896666,
+    "worker_ru_maxrss_bytes": 36634624
+  },
+  {
+    "R_RMBA": 372,
+    "Rstar": 372,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 45397.585349462366,
+      "RMBA": 28962.782930107525
+    },
+    "n": 3,
+    "observations": 2976,
+    "query_count": 372,
+    "query_counts": {
+      "all_done": 2,
+      "down": 186,
+      "has_done": 216,
+      "has_ready": 216,
+      "initial_safe": 16,
+      "up": 186
+    },
+    "ratio": 0.6379806923024052,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832037,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13538912497460842,
+    "worker_ru_maxrss_bytes": 36716544
+  },
+  {
+    "R_RMBA": 576,
+    "Rstar": 576,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 47584.720052083336,
+      "RMBA": 18671.414930555555
+    },
+    "n": 3,
+    "observations": 4608,
+    "query_count": 576,
+    "query_counts": {
+      "all_done": 2,
+      "down": 288,
+      "has_done": 270,
+      "has_ready": 270,
+      "initial_safe": 16,
+      "up": 288
+    },
+    "ratio": 0.3923825738623441,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832038,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18880129186436534,
+    "worker_ru_maxrss_bytes": 36159488
+  },
+  {
+    "R_RMBA": 378,
+    "Rstar": 378,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 46034.4212962963,
+      "RMBA": 30325.4623015873
+    },
+    "n": 3,
+    "observations": 3024,
+    "query_count": 378,
+    "query_counts": {
+      "all_done": 2,
+      "down": 189,
+      "has_done": 216,
+      "has_ready": 216,
+      "initial_safe": 16,
+      "up": 189
+    },
+    "ratio": 0.6587562403880407,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832039,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.15093183377757668,
+    "worker_ru_maxrss_bytes": 36323328
+  },
+  {
+    "R_RMBA": 400,
+    "Rstar": 400,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 48036.609375,
+      "RMBA": 26349.65625
+    },
+    "n": 3,
+    "observations": 3200,
+    "query_count": 400,
+    "query_counts": {
+      "all_done": 2,
+      "down": 200,
+      "has_done": 224,
+      "has_ready": 224,
+      "initial_safe": 16,
+      "up": 200
+    },
+    "ratio": 0.548532808473225,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832040,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.15872970782220364,
+    "worker_ru_maxrss_bytes": 35782656
+  },
+  {
+    "R_RMBA": 304,
+    "Rstar": 304,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 29809.828125,
+      "RMBA": 15700.44572368421
+    },
+    "n": 3,
+    "observations": 2432,
+    "query_count": 304,
+    "query_counts": {
+      "all_done": 2,
+      "down": 152,
+      "has_done": 194,
+      "has_ready": 194,
+      "initial_safe": 16,
+      "up": 152
+    },
+    "ratio": 0.5266868919152552,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832041,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.08124837512150407,
+    "worker_ru_maxrss_bytes": 36274176
+  },
+  {
+    "R_RMBA": 440,
+    "Rstar": 440,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 47098.81477272727,
+      "RMBA": 25727.05340909091
+    },
+    "n": 3,
+    "observations": 3520,
+    "query_count": 440,
+    "query_counts": {
+      "all_done": 2,
+      "down": 220,
+      "has_done": 238,
+      "has_ready": 238,
+      "initial_safe": 16,
+      "up": 220
+    },
+    "ratio": 0.5462356862531549,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832042,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.16552129201591015,
+    "worker_ru_maxrss_bytes": 36110336
+  },
+  {
+    "R_RMBA": 430,
+    "Rstar": 430,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 43958.8226744186,
+      "RMBA": 25697.43546511628
+    },
+    "n": 3,
+    "observations": 3440,
+    "query_count": 430,
+    "query_counts": {
+      "all_done": 2,
+      "down": 215,
+      "has_done": 236,
+      "has_ready": 236,
+      "initial_safe": 16,
+      "up": 215
+    },
+    "ratio": 0.5845797021327107,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832043,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1540286662057042,
+    "worker_ru_maxrss_bytes": 36536320
+  },
+  {
+    "R_RMBA": 406,
+    "Rstar": 406,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 56376.22167487685,
+      "RMBA": 40865.96613300493
+    },
+    "n": 3,
+    "observations": 3248,
+    "query_count": 406,
+    "query_counts": {
+      "all_done": 2,
+      "down": 203,
+      "has_done": 230,
+      "has_ready": 230,
+      "initial_safe": 16,
+      "up": 203
+    },
+    "ratio": 0.7248794778883911,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832044,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18904425017535686,
+    "worker_ru_maxrss_bytes": 35684352
+  },
+  {
+    "R_RMBA": 440,
+    "Rstar": 440,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36471.95909090909,
+      "RMBA": 21793.583522727273
+    },
+    "n": 3,
+    "observations": 3520,
+    "query_count": 440,
+    "query_counts": {
+      "all_done": 2,
+      "down": 220,
+      "has_done": 238,
+      "has_ready": 238,
+      "initial_safe": 16,
+      "up": 220
+    },
+    "ratio": 0.5975435393641766,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832045,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.12910529226064682,
+    "worker_ru_maxrss_bytes": 36798464
+  },
+  {
+    "R_RMBA": 412,
+    "Rstar": 412,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 41214.108616504855,
+      "RMBA": 26770.959951456312
+    },
+    "n": 3,
+    "observations": 3296,
+    "query_count": 412,
+    "query_counts": {
+      "all_done": 2,
+      "down": 206,
+      "has_done": 230,
+      "has_ready": 230,
+      "initial_safe": 16,
+      "up": 206
+    },
+    "ratio": 0.649558145259399,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832046,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13959133299067616,
+    "worker_ru_maxrss_bytes": 36241408
+  },
+  {
+    "R_RMBA": 430,
+    "Rstar": 430,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36588.68837209302,
+      "RMBA": 25189.24011627907
+    },
+    "n": 3,
+    "observations": 3440,
+    "query_count": 430,
+    "query_counts": {
+      "all_done": 2,
+      "down": 215,
+      "has_done": 232,
+      "has_ready": 232,
+      "initial_safe": 16,
+      "up": 215
+    },
+    "ratio": 0.6884433751796208,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832047,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1365866670385003,
+    "worker_ru_maxrss_bytes": 36143104
+  },
+  {
+    "R_RMBA": 636,
+    "Rstar": 636,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 45572.66784591195,
+      "RMBA": 22747.810534591194
+    },
+    "n": 3,
+    "observations": 5088,
+    "query_count": 636,
+    "query_counts": {
+      "all_done": 2,
+      "down": 318,
+      "has_done": 282,
+      "has_ready": 282,
+      "initial_safe": 16,
+      "up": 318
+    },
+    "ratio": 0.49915468217715425,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832048,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.20846370793879032,
+    "worker_ru_maxrss_bytes": 36634624
+  },
+  {
+    "R_RMBA": 672,
+    "Rstar": 672,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42443.11644345238,
+      "RMBA": 24105.692708333332
+    },
+    "n": 3,
+    "observations": 5376,
+    "query_count": 672,
+    "query_counts": {
+      "all_done": 2,
+      "down": 336,
+      "has_done": 288,
+      "has_ready": 288,
+      "initial_safe": 16,
+      "up": 336
+    },
+    "ratio": 0.5679529386219723,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832049,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.21671166736632586,
+    "worker_ru_maxrss_bytes": 36208640
+  },
+  {
+    "R_RMBA": 554,
+    "Rstar": 554,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 45580.26353790614,
+      "RMBA": 25465.30821299639
+    },
+    "n": 3,
+    "observations": 4432,
+    "query_count": 554,
+    "query_counts": {
+      "all_done": 2,
+      "down": 277,
+      "has_done": 262,
+      "has_ready": 262,
+      "initial_safe": 16,
+      "up": 277
+    },
+    "ratio": 0.5586915527993503,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832050,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18350183265283704,
+    "worker_ru_maxrss_bytes": 35602432
+  },
+  {
+    "R_RMBA": 760,
+    "Rstar": 760,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 38897.88585526316,
+      "RMBA": 26942.56480263158
+    },
+    "n": 3,
+    "observations": 6080,
+    "query_count": 760,
+    "query_counts": {
+      "all_done": 2,
+      "down": 380,
+      "has_done": 306,
+      "has_ready": 306,
+      "initial_safe": 16,
+      "up": 380
+    },
+    "ratio": 0.6926485645745207,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832051,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.24692983319982886,
+    "worker_ru_maxrss_bytes": 36487168
+  },
+  {
+    "R_RMBA": 368,
+    "Rstar": 368,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 52718.360733695656,
+      "RMBA": 26235.199048913044
+    },
+    "n": 3,
+    "observations": 2944,
+    "query_count": 368,
+    "query_counts": {
+      "all_done": 2,
+      "down": 184,
+      "has_done": 214,
+      "has_ready": 214,
+      "initial_safe": 16,
+      "up": 184
+    },
+    "ratio": 0.4976482326800511,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832052,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13794441567733884,
+    "worker_ru_maxrss_bytes": 35995648
+  },
+  {
+    "R_RMBA": 580,
+    "Rstar": 580,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 43570.74137931035,
+      "RMBA": 25657.255603448277
+    },
+    "n": 3,
+    "observations": 4640,
+    "query_count": 580,
+    "query_counts": {
+      "all_done": 2,
+      "down": 290,
+      "has_done": 270,
+      "has_ready": 270,
+      "initial_safe": 16,
+      "up": 290
+    },
+    "ratio": 0.5888643339824297,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832053,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.22851566690951586,
+    "worker_ru_maxrss_bytes": 36175872
+  },
+  {
+    "R_RMBA": 468,
+    "Rstar": 468,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 34305.62232905983,
+      "RMBA": 21330.401175213676
+    },
+    "n": 3,
+    "observations": 3744,
+    "query_count": 468,
+    "query_counts": {
+      "all_done": 2,
+      "down": 234,
+      "has_done": 246,
+      "has_ready": 246,
+      "initial_safe": 16,
+      "up": 234
+    },
+    "ratio": 0.6217756661171245,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832054,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.12937954207882285,
+    "worker_ru_maxrss_bytes": 36044800
+  },
+  {
+    "R_RMBA": 348,
+    "Rstar": 348,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 32255.0466954023,
+      "RMBA": 36194.870689655174
+    },
+    "n": 3,
+    "observations": 2784,
+    "query_count": 348,
+    "query_counts": {
+      "all_done": 2,
+      "down": 174,
+      "has_done": 210,
+      "has_ready": 210,
+      "initial_safe": 16,
+      "up": 174
+    },
+    "ratio": 1.1221459708757595,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832055,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.12117608403787017,
+    "worker_ru_maxrss_bytes": 37044224
+  },
+  {
+    "R_RMBA": 868,
+    "Rstar": 868,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 38896.39314516129,
+      "RMBA": 21540.677419354837
+    },
+    "n": 3,
+    "observations": 6944,
+    "query_count": 868,
+    "query_counts": {
+      "all_done": 2,
+      "down": 434,
+      "has_done": 326,
+      "has_ready": 326,
+      "initial_safe": 16,
+      "up": 434
+    },
+    "ratio": 0.5537962694629566,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832056,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.24634329229593277,
+    "worker_ru_maxrss_bytes": 36634624
+  },
+  {
+    "R_RMBA": 424,
+    "Rstar": 424,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 52746.918632075474,
+      "RMBA": 23297.95813679245
+    },
+    "n": 3,
+    "observations": 3392,
+    "query_count": 424,
+    "query_counts": {
+      "all_done": 2,
+      "down": 212,
+      "has_done": 236,
+      "has_ready": 236,
+      "initial_safe": 16,
+      "up": 212
+    },
+    "ratio": 0.4416932541463177,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832057,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.19379016710445285,
+    "worker_ru_maxrss_bytes": 36290560
+  },
+  {
+    "R_RMBA": 528,
+    "Rstar": 528,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36767.443181818184,
+      "RMBA": 24321.230587121212
+    },
+    "n": 3,
+    "observations": 4224,
+    "query_count": 528,
+    "query_counts": {
+      "all_done": 2,
+      "down": 264,
+      "has_done": 254,
+      "has_ready": 254,
+      "initial_safe": 16,
+      "up": 264
+    },
+    "ratio": 0.6614882211648666,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832058,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.17848691623657942,
+    "worker_ru_maxrss_bytes": 36716544
+  },
+  {
+    "R_RMBA": 470,
+    "Rstar": 470,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42646.242021276594,
+      "RMBA": 19499.930319148934
+    },
+    "n": 3,
+    "observations": 3760,
+    "query_count": 470,
+    "query_counts": {
+      "all_done": 2,
+      "down": 235,
+      "has_done": 250,
+      "has_ready": 250,
+      "initial_safe": 16,
+      "up": 235
+    },
+    "ratio": 0.45724850291428365,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832059,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.14476499985903502,
+    "worker_ru_maxrss_bytes": 35979264
+  },
+  {
+    "R_RMBA": 388,
+    "Rstar": 388,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 27356.546391752578,
+      "RMBA": 16624.382087628866
+    },
+    "n": 3,
+    "observations": 3104,
+    "query_count": 388,
+    "query_counts": {
+      "all_done": 2,
+      "down": 194,
+      "has_done": 218,
+      "has_ready": 218,
+      "initial_safe": 16,
+      "up": 194
+    },
+    "ratio": 0.607693012471807,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832060,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.0991335827857256,
+    "worker_ru_maxrss_bytes": 36470784
+  },
+  {
+    "R_RMBA": 304,
+    "Rstar": 304,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 49006.61266447369,
+      "RMBA": 34467.23190789474
+    },
+    "n": 3,
+    "observations": 2432,
+    "query_count": 304,
+    "query_counts": {
+      "all_done": 2,
+      "down": 152,
+      "has_done": 194,
+      "has_ready": 194,
+      "initial_safe": 16,
+      "up": 152
+    },
+    "ratio": 0.7033179816747676,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832061,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.12715837499126792,
+    "worker_ru_maxrss_bytes": 36634624
+  },
+  {
+    "R_RMBA": 408,
+    "Rstar": 408,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 37434.03982843137,
+      "RMBA": 23074.35906862745
+    },
+    "n": 3,
+    "observations": 3264,
+    "query_count": 408,
+    "query_counts": {
+      "all_done": 2,
+      "down": 204,
+      "has_done": 226,
+      "has_ready": 226,
+      "initial_safe": 16,
+      "up": 204
+    },
+    "ratio": 0.6164004519518179,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832062,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13665504101663828,
+    "worker_ru_maxrss_bytes": 36454400
+  },
+  {
+    "R_RMBA": 304,
+    "Rstar": 304,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 43937.12993421053,
+      "RMBA": 30705.91365131579
+    },
+    "n": 3,
+    "observations": 2432,
+    "query_count": 304,
+    "query_counts": {
+      "all_done": 2,
+      "down": 152,
+      "has_done": 194,
+      "has_ready": 194,
+      "initial_safe": 16,
+      "up": 152
+    },
+    "ratio": 0.6988602509379525,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832063,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.125450958032161,
+    "worker_ru_maxrss_bytes": 36306944
+  },
+  {
+    "R_RMBA": 776,
+    "Rstar": 776,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 35617.64239690721,
+      "RMBA": 22532.005154639177
+    },
+    "n": 3,
+    "observations": 6208,
+    "query_count": 776,
+    "query_counts": {
+      "all_done": 2,
+      "down": 388,
+      "has_done": 310,
+      "has_ready": 310,
+      "initial_safe": 16,
+      "up": 388
+    },
+    "ratio": 0.6326079897021959,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832064,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.22564929211512208,
+    "worker_ru_maxrss_bytes": 36765696
+  },
+  {
+    "R_RMBA": 304,
+    "Rstar": 304,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 33961.20805921053,
+      "RMBA": 17914.26644736842
+    },
+    "n": 3,
+    "observations": 2432,
+    "query_count": 304,
+    "query_counts": {
+      "all_done": 2,
+      "down": 152,
+      "has_done": 194,
+      "has_ready": 194,
+      "initial_safe": 16,
+      "up": 152
+    },
+    "ratio": 0.5274920260826805,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832065,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.08074583299458027,
+    "worker_ru_maxrss_bytes": 36143104
+  },
+  {
+    "R_RMBA": 404,
+    "Rstar": 404,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 40550.24071782178,
+      "RMBA": 23325.613242574258
+    },
+    "n": 3,
+    "observations": 3232,
+    "query_count": 404,
+    "query_counts": {
+      "all_done": 2,
+      "down": 202,
+      "has_done": 226,
+      "has_ready": 226,
+      "initial_safe": 16,
+      "up": 202
+    },
+    "ratio": 0.575227491370296,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832066,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13999137468636036,
+    "worker_ru_maxrss_bytes": 36945920
+  },
+  {
+    "R_RMBA": 410,
+    "Rstar": 410,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42072.59756097561,
+      "RMBA": 28596.106707317074
+    },
+    "n": 3,
+    "observations": 3280,
+    "query_count": 410,
+    "query_counts": {
+      "all_done": 2,
+      "down": 205,
+      "has_done": 232,
+      "has_ready": 232,
+      "initial_safe": 16,
+      "up": 205
+    },
+    "ratio": 0.6796848391847657,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832067,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13712200010195374,
+    "worker_ru_maxrss_bytes": 35766272
+  },
+  {
+    "R_RMBA": 536,
+    "Rstar": 556,
+    "crossing": {
+      "lambda": 0.9255837104962873,
+      "type": "interior"
+    },
+    "eta_reach": 0.9640287769784173,
+    "mean_ns": {
+      "Exact": 40166.62679856115,
+      "RMBA": 22195.791816546764
+    },
+    "n": 3,
+    "observations": 4448,
+    "query_count": 556,
+    "query_counts": {
+      "all_done": 2,
+      "down": 278,
+      "has_done": 266,
+      "has_ready": 266,
+      "initial_safe": 16,
+      "up": 278
+    },
+    "ratio": 0.5525928758683281,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832068,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.174323792103678,
+    "worker_ru_maxrss_bytes": 36438016
+  },
+  {
+    "R_RMBA": 416,
+    "Rstar": 416,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 46923.671875,
+      "RMBA": 23150.141826923078
+    },
+    "n": 3,
+    "observations": 3328,
+    "query_count": 416,
+    "query_counts": {
+      "all_done": 2,
+      "down": 208,
+      "has_done": 238,
+      "has_ready": 238,
+      "initial_safe": 16,
+      "up": 208
+    },
+    "ratio": 0.49335742285029943,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832069,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.14455337496474385,
+    "worker_ru_maxrss_bytes": 36143104
+  },
+  {
+    "R_RMBA": 570,
+    "Rstar": 592,
+    "crossing": {
+      "lambda": 0.9136685304233478,
+      "type": "interior"
+    },
+    "eta_reach": 0.9628378378378378,
+    "mean_ns": {
+      "Exact": 37285.92652027027,
+      "RMBA": 22621.48775337838
+    },
+    "n": 3,
+    "observations": 4736,
+    "query_count": 592,
+    "query_counts": {
+      "all_done": 2,
+      "down": 296,
+      "has_done": 270,
+      "has_ready": 270,
+      "initial_safe": 16,
+      "up": 296
+    },
+    "ratio": 0.6067031146746573,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832070,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18253799993544817,
+    "worker_ru_maxrss_bytes": 36012032
+  },
+  {
+    "R_RMBA": 410,
+    "Rstar": 410,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42879.05853658537,
+      "RMBA": 26277.857926829267
+    },
+    "n": 3,
+    "observations": 3280,
+    "query_count": 410,
+    "query_counts": {
+      "all_done": 2,
+      "down": 205,
+      "has_done": 232,
+      "has_ready": 232,
+      "initial_safe": 16,
+      "up": 205
+    },
+    "ratio": 0.6128366345638959,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832071,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.15838033286854625,
+    "worker_ru_maxrss_bytes": 36159488
+  },
+  {
+    "R_RMBA": 370,
+    "Rstar": 370,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 29997.602027027027,
+      "RMBA": 26048.64662162162
+    },
+    "n": 3,
+    "observations": 2960,
+    "query_count": 370,
+    "query_counts": {
+      "all_done": 2,
+      "down": 185,
+      "has_done": 218,
+      "has_ready": 218,
+      "initial_safe": 16,
+      "up": 185
+    },
+    "ratio": 0.8683576306583605,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832072,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.10160170774906874,
+    "worker_ru_maxrss_bytes": 36110336
+  },
+  {
+    "R_RMBA": 572,
+    "Rstar": 572,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 45963.18706293706,
+      "RMBA": 29725.538024475525
+    },
+    "n": 3,
+    "observations": 4576,
+    "query_count": 572,
+    "query_counts": {
+      "all_done": 2,
+      "down": 286,
+      "has_done": 268,
+      "has_ready": 268,
+      "initial_safe": 16,
+      "up": 286
+    },
+    "ratio": 0.646724910171537,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832073,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.2263513752259314,
+    "worker_ru_maxrss_bytes": 36962304
+  },
+  {
+    "R_RMBA": 516,
+    "Rstar": 516,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42173.823158914725,
+      "RMBA": 29888.788759689924
+    },
+    "n": 3,
+    "observations": 4128,
+    "query_count": 516,
+    "query_counts": {
+      "all_done": 2,
+      "down": 258,
+      "has_done": 258,
+      "has_ready": 258,
+      "initial_safe": 16,
+      "up": 258
+    },
+    "ratio": 0.7087047490825363,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832074,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.17066945787519217,
+    "worker_ru_maxrss_bytes": 36110336
+  },
+  {
+    "R_RMBA": 438,
+    "Rstar": 438,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 45612.02397260274,
+      "RMBA": 20442.803082191782
+    },
+    "n": 3,
+    "observations": 3504,
+    "query_count": 438,
+    "query_counts": {
+      "all_done": 2,
+      "down": 219,
+      "has_done": 240,
+      "has_ready": 240,
+      "initial_safe": 16,
+      "up": 219
+    },
+    "ratio": 0.44818890506746484,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832075,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.14518191665410995,
+    "worker_ru_maxrss_bytes": 36044800
+  },
+  {
+    "R_RMBA": 566,
+    "Rstar": 566,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 40253.44346289753,
+      "RMBA": 22709.081713780917
+    },
+    "n": 3,
+    "observations": 4528,
+    "query_count": 566,
+    "query_counts": {
+      "all_done": 2,
+      "down": 283,
+      "has_done": 262,
+      "has_ready": 262,
+      "initial_safe": 16,
+      "up": 283
+    },
+    "ratio": 0.5641525236148399,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832076,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.20678170770406723,
+    "worker_ru_maxrss_bytes": 36290560
+  },
+  {
+    "R_RMBA": 616,
+    "Rstar": 636,
+    "crossing": {
+      "lambda": 0.9135945431150772,
+      "type": "interior"
+    },
+    "eta_reach": 0.9685534591194969,
+    "mean_ns": {
+      "Exact": 41648.56682389937,
+      "RMBA": 27800.623820754718
+    },
+    "n": 3,
+    "observations": 5088,
+    "query_count": 636,
+    "query_counts": {
+      "all_done": 2,
+      "down": 318,
+      "has_done": 282,
+      "has_ready": 282,
+      "initial_safe": 16,
+      "up": 318
+    },
+    "ratio": 0.6675049333222619,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832077,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.2073080842383206,
+    "worker_ru_maxrss_bytes": 36503552
+  },
+  {
+    "R_RMBA": 536,
+    "Rstar": 536,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 41224.63152985075,
+      "RMBA": 23422.12406716418
+    },
+    "n": 3,
+    "observations": 4288,
+    "query_count": 536,
+    "query_counts": {
+      "all_done": 2,
+      "down": 268,
+      "has_done": 262,
+      "has_ready": 262,
+      "initial_safe": 16,
+      "up": 268
+    },
+    "ratio": 0.5681584819067267,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832078,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1695411247201264,
+    "worker_ru_maxrss_bytes": 36749312
+  },
+  {
+    "R_RMBA": 556,
+    "Rstar": 556,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 46269.838129496406,
+      "RMBA": 21994.97571942446
+    },
+    "n": 3,
+    "observations": 4448,
+    "query_count": 556,
+    "query_counts": {
+      "all_done": 2,
+      "down": 278,
+      "has_done": 266,
+      "has_ready": 266,
+      "initial_safe": 16,
+      "up": 278
+    },
+    "ratio": 0.4753631438663486,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832079,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18925049994140863,
+    "worker_ru_maxrss_bytes": 37027840
+  },
+  {
+    "R_RMBA": 776,
+    "Rstar": 776,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 39449.19201030928,
+      "RMBA": 25928.86694587629
+    },
+    "n": 3,
+    "observations": 6208,
+    "query_count": 776,
+    "query_counts": {
+      "all_done": 2,
+      "down": 388,
+      "has_done": 310,
+      "has_ready": 310,
+      "initial_safe": 16,
+      "up": 388
+    },
+    "ratio": 0.6572724465205848,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832080,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.26417004130780697,
+    "worker_ru_maxrss_bytes": 36126720
+  },
+  {
+    "R_RMBA": 370,
+    "Rstar": 392,
+    "crossing": {
+      "lambda": 0.9064521360439056,
+      "type": "interior"
+    },
+    "eta_reach": 0.9438775510204082,
+    "mean_ns": {
+      "Exact": 45450.32142857143,
+      "RMBA": 20733.957908163266
+    },
+    "n": 3,
+    "observations": 3136,
+    "query_count": 392,
+    "query_counts": {
+      "all_done": 2,
+      "down": 196,
+      "has_done": 226,
+      "has_ready": 226,
+      "initial_safe": 16,
+      "up": 196
+    },
+    "ratio": 0.4561894670150623,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832081,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13592641707509756,
+    "worker_ru_maxrss_bytes": 35897344
+  },
+  {
+    "R_RMBA": 384,
+    "Rstar": 384,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42677.843098958336,
+      "RMBA": 27795.916015625
+    },
+    "n": 3,
+    "observations": 3072,
+    "query_count": 384,
+    "query_counts": {
+      "all_done": 2,
+      "down": 192,
+      "has_done": 222,
+      "has_ready": 222,
+      "initial_safe": 16,
+      "up": 192
+    },
+    "ratio": 0.6512961761252511,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832082,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.15383533295243979,
+    "worker_ru_maxrss_bytes": 35930112
+  },
+  {
+    "R_RMBA": 360,
+    "Rstar": 360,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 46757.52638888889,
+      "RMBA": 22604.921527777777
+    },
+    "n": 3,
+    "observations": 2880,
+    "query_count": 360,
+    "query_counts": {
+      "all_done": 2,
+      "down": 180,
+      "has_done": 214,
+      "has_ready": 214,
+      "initial_safe": 16,
+      "up": 180
+    },
+    "ratio": 0.48344990151466705,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832083,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1286119157448411,
+    "worker_ru_maxrss_bytes": 35880960
+  },
+  {
+    "R_RMBA": 552,
+    "Rstar": 552,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 47798.86186594203,
+      "RMBA": 24772.832427536232
+    },
+    "n": 3,
+    "observations": 4416,
+    "query_count": 552,
+    "query_counts": {
+      "all_done": 2,
+      "down": 276,
+      "has_done": 258,
+      "has_ready": 258,
+      "initial_safe": 16,
+      "up": 276
+    },
+    "ratio": 0.5182724328670164,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832084,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.19028487475588918,
+    "worker_ru_maxrss_bytes": 35635200
+  },
+  {
+    "R_RMBA": 596,
+    "Rstar": 596,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 44097.31375838926,
+      "RMBA": 25842.61996644295
+    },
+    "n": 3,
+    "observations": 4768,
+    "query_count": 596,
+    "query_counts": {
+      "all_done": 2,
+      "down": 298,
+      "has_done": 274,
+      "has_ready": 274,
+      "initial_safe": 16,
+      "up": 298
+    },
+    "ratio": 0.5860361496855699,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832085,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.21131804212927818,
+    "worker_ru_maxrss_bytes": 36864000
+  },
+  {
+    "R_RMBA": 556,
+    "Rstar": 556,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 37520.48066546763,
+      "RMBA": 28469.96402877698
+    },
+    "n": 3,
+    "observations": 4448,
+    "query_count": 556,
+    "query_counts": {
+      "all_done": 2,
+      "down": 278,
+      "has_done": 266,
+      "has_ready": 266,
+      "initial_safe": 16,
+      "up": 278
+    },
+    "ratio": 0.7587846297230305,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832086,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18422212498262525,
+    "worker_ru_maxrss_bytes": 36012032
+  },
+  {
+    "R_RMBA": 496,
+    "Rstar": 496,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 39345.62752016129,
+      "RMBA": 20606.612903225807
+    },
+    "n": 3,
+    "observations": 3968,
+    "query_count": 496,
+    "query_counts": {
+      "all_done": 2,
+      "down": 248,
+      "has_done": 248,
+      "has_ready": 248,
+      "initial_safe": 16,
+      "up": 248
+    },
+    "ratio": 0.5237332380241405,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832087,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1528285830281675,
+    "worker_ru_maxrss_bytes": 36306944
+  },
+  {
+    "R_RMBA": 494,
+    "Rstar": 494,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 39577.98734817814,
+      "RMBA": 35557.88461538462
+    },
+    "n": 3,
+    "observations": 3952,
+    "query_count": 494,
+    "query_counts": {
+      "all_done": 2,
+      "down": 247,
+      "has_done": 252,
+      "has_ready": 252,
+      "initial_safe": 16,
+      "up": 247
+    },
+    "ratio": 0.8984257916546488,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832088,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.18928175000473857,
+    "worker_ru_maxrss_bytes": 36323328
+  },
+  {
+    "R_RMBA": 314,
+    "Rstar": 314,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 34883.270700636946,
+      "RMBA": 24137.269108280256
+    },
+    "n": 3,
+    "observations": 2512,
+    "query_count": 314,
+    "query_counts": {
+      "all_done": 2,
+      "down": 157,
+      "has_done": 196,
+      "has_ready": 196,
+      "initial_safe": 16,
+      "up": 157
+    },
+    "ratio": 0.6919439784022181,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832089,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.09216225007548928,
+    "worker_ru_maxrss_bytes": 36749312
+  },
+  {
+    "R_RMBA": 920,
+    "Rstar": 920,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36411.25407608696,
+      "RMBA": 20261.244565217392
+    },
+    "n": 3,
+    "observations": 7360,
+    "query_count": 920,
+    "query_counts": {
+      "all_done": 2,
+      "down": 460,
+      "has_done": 332,
+      "has_ready": 332,
+      "initial_safe": 16,
+      "up": 460
+    },
+    "ratio": 0.556455554177793,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832090,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.2461182908155024,
+    "worker_ru_maxrss_bytes": 36487168
+  },
+  {
+    "R_RMBA": 304,
+    "Rstar": 304,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36819.109375,
+      "RMBA": 33959.37582236842
+    },
+    "n": 3,
+    "observations": 2432,
+    "query_count": 304,
+    "query_counts": {
+      "all_done": 2,
+      "down": 152,
+      "has_done": 194,
+      "has_ready": 194,
+      "initial_safe": 16,
+      "up": 152
+    },
+    "ratio": 0.9223301812244996,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832091,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.10615462530404329,
+    "worker_ru_maxrss_bytes": 36798464
+  },
+  {
+    "R_RMBA": 596,
+    "Rstar": 596,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 37075.773909395975,
+      "RMBA": 21413.908137583894
+    },
+    "n": 3,
+    "observations": 4768,
+    "query_count": 596,
+    "query_counts": {
+      "all_done": 2,
+      "down": 298,
+      "has_done": 274,
+      "has_ready": 274,
+      "initial_safe": 16,
+      "up": 298
+    },
+    "ratio": 0.5775714403134022,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832092,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.16449004085734487,
+    "worker_ru_maxrss_bytes": 36929536
+  },
+  {
+    "R_RMBA": 336,
+    "Rstar": 336,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 53190.927083333336,
+      "RMBA": 27161.37276785714
+    },
+    "n": 3,
+    "observations": 2688,
+    "query_count": 336,
+    "query_counts": {
+      "all_done": 2,
+      "down": 168,
+      "has_done": 204,
+      "has_ready": 204,
+      "initial_safe": 16,
+      "up": 168
+    },
+    "ratio": 0.5106392059176535,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832093,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13650791626423597,
+    "worker_ru_maxrss_bytes": 36651008
+  },
+  {
+    "R_RMBA": 304,
+    "Rstar": 304,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 31698.138980263157,
+      "RMBA": 31605.092105263157
+    },
+    "n": 3,
+    "observations": 2432,
+    "query_count": 304,
+    "query_counts": {
+      "all_done": 2,
+      "down": 152,
+      "has_done": 194,
+      "has_ready": 194,
+      "initial_safe": 16,
+      "up": 152
+    },
+    "ratio": 0.997064595020612,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832094,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.0942579167895019,
+    "worker_ru_maxrss_bytes": 36929536
+  },
+  {
+    "R_RMBA": 424,
+    "Rstar": 424,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 46615.051886792455,
+      "RMBA": 28079.64150943396
+    },
+    "n": 3,
+    "observations": 3392,
+    "query_count": 424,
+    "query_counts": {
+      "all_done": 2,
+      "down": 212,
+      "has_done": 236,
+      "has_ready": 236,
+      "initial_safe": 16,
+      "up": 212
+    },
+    "ratio": 0.6023728468140959,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832095,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1512002502568066,
+    "worker_ru_maxrss_bytes": 36814848
+  },
+  {
+    "R_RMBA": 542,
+    "Rstar": 542,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 35845.40221402214,
+      "RMBA": 23841.44511070111
+    },
+    "n": 3,
+    "observations": 4336,
+    "query_count": 542,
+    "query_counts": {
+      "all_done": 2,
+      "down": 271,
+      "has_done": 262,
+      "has_ready": 262,
+      "initial_safe": 16,
+      "up": 271
+    },
+    "ratio": 0.6651186383221757,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832096,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1673497911542654,
+    "worker_ru_maxrss_bytes": 36323328
+  },
+  {
+    "R_RMBA": 732,
+    "Rstar": 732,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36142.54474043716,
+      "RMBA": 21685.04781420765
+    },
+    "n": 3,
+    "observations": 5856,
+    "query_count": 732,
+    "query_counts": {
+      "all_done": 2,
+      "down": 366,
+      "has_done": 302,
+      "has_ready": 302,
+      "initial_safe": 16,
+      "up": 366
+    },
+    "ratio": 0.5999867460894609,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832097,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.2082913746125996,
+    "worker_ru_maxrss_bytes": 36519936
+  },
+  {
+    "R_RMBA": 358,
+    "Rstar": 358,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 51628.11033519553,
+      "RMBA": 21181.608240223464
+    },
+    "n": 3,
+    "observations": 2864,
+    "query_count": 358,
+    "query_counts": {
+      "all_done": 2,
+      "down": 179,
+      "has_done": 212,
+      "has_ready": 212,
+      "initial_safe": 16,
+      "up": 179
+    },
+    "ratio": 0.41027277780848187,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832098,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.13550049997866154,
+    "worker_ru_maxrss_bytes": 36339712
+  },
+  {
+    "R_RMBA": 496,
+    "Rstar": 496,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 42165.237399193546,
+      "RMBA": 21619.597278225807
+    },
+    "n": 3,
+    "observations": 3968,
+    "query_count": 496,
+    "query_counts": {
+      "all_done": 2,
+      "down": 248,
+      "has_done": 246,
+      "has_ready": 246,
+      "initial_safe": 16,
+      "up": 248
+    },
+    "ratio": 0.5127351015137247,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832099,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.15377095807343721,
+    "worker_ru_maxrss_bytes": 36683776
+  },
+  {
+    "R_RMBA": 424,
+    "Rstar": 424,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 36987.79893867925,
+      "RMBA": 20568.475825471698
+    },
+    "n": 3,
+    "observations": 3392,
+    "query_count": 424,
+    "query_counts": {
+      "all_done": 2,
+      "down": 212,
+      "has_done": 236,
+      "has_ready": 236,
+      "initial_safe": 16,
+      "up": 212
+    },
+    "ratio": 0.5560881267785478,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832100,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.1215730831027031,
+    "worker_ru_maxrss_bytes": 36405248
+  },
+  {
+    "R_RMBA": 29192,
+    "Rstar": 30312,
+    "crossing": {
+      "lambda": 0.9375389096415788,
+      "type": "interior"
+    },
+    "eta_reach": 0.9630509369226709,
+    "mean_ns": {
+      "Exact": 97907.872,
+      "RMBA": 43607.753
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 491,
+      "has_done": 897,
+      "has_ready": 883,
+      "initial_safe": 5,
+      "up": 509
+    },
+    "ratio": 0.4453957798204418,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832001,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6096817497164011,
+    "worker_ru_maxrss_bytes": 41058304
+  },
+  {
+    "R_RMBA": 23280,
+    "Rstar": 23880,
+    "crossing": {
+      "lambda": 0.9566536906559948,
+      "type": "interior"
+    },
+    "eta_reach": 0.9748743718592965,
+    "mean_ns": {
+      "Exact": 96909.3475,
+      "RMBA": 43170.88675
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 502,
+      "has_done": 891,
+      "has_ready": 891,
+      "initial_safe": 6,
+      "up": 498
+    },
+    "ratio": 0.4454770139691633,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832002,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6162735829129815,
+    "worker_ru_maxrss_bytes": 40927232
+  },
+  {
+    "R_RMBA": 38052,
+    "Rstar": 38052,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 91499.64175,
+      "RMBA": 37827.40825
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 501,
+      "has_done": 879,
+      "has_ready": 873,
+      "initial_safe": 5,
+      "up": 499
+    },
+    "ratio": 0.4134159164617713,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832003,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5743086249567568,
+    "worker_ru_maxrss_bytes": 43548672
+  },
+  {
+    "R_RMBA": 19664,
+    "Rstar": 19664,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 108416.09475,
+      "RMBA": 41025.51475
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 514,
+      "has_done": 915,
+      "has_ready": 906,
+      "initial_safe": 5,
+      "up": 486
+    },
+    "ratio": 0.3784079738769598,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832004,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6380824581719935,
+    "worker_ru_maxrss_bytes": 40878080
+  },
+  {
+    "R_RMBA": 42524,
+    "Rstar": 42524,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 86535.07425,
+      "RMBA": 38031.082
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 520,
+      "has_done": 850,
+      "has_ready": 885,
+      "initial_safe": 3,
+      "up": 480
+    },
+    "ratio": 0.4394874833079605,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832005,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6531109162606299,
+    "worker_ru_maxrss_bytes": 46317568
+  },
+  {
+    "R_RMBA": 32344,
+    "Rstar": 32344,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 95205.70825,
+      "RMBA": 41679.34625
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 518,
+      "has_done": 882,
+      "has_ready": 890,
+      "initial_safe": 2,
+      "up": 482
+    },
+    "ratio": 0.4377820092525807,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832006,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6034469581209123,
+    "worker_ru_maxrss_bytes": 42582016
+  },
+  {
+    "R_RMBA": 51618,
+    "Rstar": 51618,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 102961.629,
+      "RMBA": 40917.12975
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 482,
+      "has_done": 856,
+      "has_ready": 855,
+      "initial_safe": 1,
+      "up": 518
+    },
+    "ratio": 0.3974017325425183,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832007,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6489386251196265,
+    "worker_ru_maxrss_bytes": 49053696
+  },
+  {
+    "R_RMBA": 28664,
+    "Rstar": 29940,
+    "crossing": {
+      "lambda": 0.9243942500800295,
+      "type": "interior"
+    },
+    "eta_reach": 0.9573814295257181,
+    "mean_ns": {
+      "Exact": 85995.84425,
+      "RMBA": 41185.45125
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 506,
+      "has_done": 894,
+      "has_ready": 902,
+      "initial_safe": 5,
+      "up": 494
+    },
+    "ratio": 0.4789237388061342,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832008,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5570664592087269,
+    "worker_ru_maxrss_bytes": 42237952
+  },
+  {
+    "R_RMBA": 28720,
+    "Rstar": 28720,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 124745.0395,
+      "RMBA": 47029.30575
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 500,
+      "has_done": 870,
+      "has_ready": 901,
+      "initial_safe": 1,
+      "up": 500
+    },
+    "ratio": 0.3770034138311367,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832009,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7405170421116054,
+    "worker_ru_maxrss_bytes": 42860544
+  },
+  {
+    "R_RMBA": 15672,
+    "Rstar": 15672,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 89899.06625,
+      "RMBA": 40104.60025
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 497,
+      "has_done": 916,
+      "has_ready": 913,
+      "initial_safe": 7,
+      "up": 503
+    },
+    "ratio": 0.4461069722178566,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832010,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5842999159358442,
+    "worker_ru_maxrss_bytes": 39239680
+  },
+  {
+    "R_RMBA": 36120,
+    "Rstar": 36120,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 122193.479,
+      "RMBA": 42294.26475
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 476,
+      "has_done": 876,
+      "has_ready": 870,
+      "initial_safe": 2,
+      "up": 524
+    },
+    "ratio": 0.34612538325388054,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832011,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7219474581070244,
+    "worker_ru_maxrss_bytes": 46956544
+  },
+  {
+    "R_RMBA": 18344,
+    "Rstar": 18344,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 90668.3865,
+      "RMBA": 41821.43375
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 484,
+      "has_done": 903,
+      "has_ready": 909,
+      "initial_safe": 6,
+      "up": 516
+    },
+    "ratio": 0.46125706394918586,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832012,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5836035418324172,
+    "worker_ru_maxrss_bytes": 42123264
+  },
+  {
+    "R_RMBA": 37720,
+    "Rstar": 39056,
+    "crossing": {
+      "lambda": 0.9469409467929385,
+      "type": "interior"
+    },
+    "eta_reach": 0.9657927079065957,
+    "mean_ns": {
+      "Exact": 123452.5125,
+      "RMBA": 48085.3735
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 479,
+      "has_done": 874,
+      "has_ready": 876,
+      "initial_safe": 2,
+      "up": 521
+    },
+    "ratio": 0.38950502121210373,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832013,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7508387919515371,
+    "worker_ru_maxrss_bytes": 47284224
+  },
+  {
+    "R_RMBA": 17104,
+    "Rstar": 18672,
+    "crossing": {
+      "lambda": 0.8613926487769688,
+      "type": "interior"
+    },
+    "eta_reach": 0.9160239931448158,
+    "mean_ns": {
+      "Exact": 92406.4855,
+      "RMBA": 44181.4485
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 493,
+      "has_done": 904,
+      "has_ready": 925,
+      "initial_safe": 12,
+      "up": 507
+    },
+    "ratio": 0.4781206455471137,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832014,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5988606666214764,
+    "worker_ru_maxrss_bytes": 39829504
+  },
+  {
+    "R_RMBA": 43192,
+    "Rstar": 43192,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 89886.34775,
+      "RMBA": 39840.92825
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 877,
+      "has_ready": 879,
+      "initial_safe": 3,
+      "up": 492
+    },
+    "ratio": 0.44323670109290875,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832015,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5836932500824332,
+    "worker_ru_maxrss_bytes": 46252032
+  },
+  {
+    "R_RMBA": 36780,
+    "Rstar": 36780,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 109079.3205,
+      "RMBA": 42120.62275
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 471,
+      "has_done": 869,
+      "has_ready": 880,
+      "initial_safe": 3,
+      "up": 529
+    },
+    "ratio": 0.38614672842594394,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832016,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6747670001350343,
+    "worker_ru_maxrss_bytes": 47202304
+  },
+  {
+    "R_RMBA": 37804,
+    "Rstar": 37804,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 96363.842,
+      "RMBA": 41328.38125
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 480,
+      "has_done": 877,
+      "has_ready": 886,
+      "initial_safe": 1,
+      "up": 520
+    },
+    "ratio": 0.4288785128554754,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832017,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.617510249838233,
+    "worker_ru_maxrss_bytes": 42811392
+  },
+  {
+    "R_RMBA": 35968,
+    "Rstar": 38104,
+    "crossing": {
+      "lambda": 0.9157611399073123,
+      "type": "interior"
+    },
+    "eta_reach": 0.943942893134579,
+    "mean_ns": {
+      "Exact": 111554.552,
+      "RMBA": 43573.5275
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 860,
+      "has_ready": 900,
+      "initial_safe": 4,
+      "up": 505
+    },
+    "ratio": 0.3906028639691906,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832018,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6834714999422431,
+    "worker_ru_maxrss_bytes": 46399488
+  },
+  {
+    "R_RMBA": 24688,
+    "Rstar": 24688,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 104645.622,
+      "RMBA": 44650.44375
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 511,
+      "has_done": 904,
+      "has_ready": 893,
+      "initial_safe": 3,
+      "up": 489
+    },
+    "ratio": 0.4266823866745233,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832019,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.654667790979147,
+    "worker_ru_maxrss_bytes": 41566208
+  },
+  {
+    "R_RMBA": 31112,
+    "Rstar": 31112,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 93224.69125,
+      "RMBA": 40608.33175
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 511,
+      "has_done": 865,
+      "has_ready": 899,
+      "initial_safe": 3,
+      "up": 489
+    },
+    "ratio": 0.43559631258097625,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832020,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6032814159989357,
+    "worker_ru_maxrss_bytes": 42385408
+  },
+  {
+    "R_RMBA": 36376,
+    "Rstar": 36376,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 115257.11825,
+      "RMBA": 48728.78975
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 496,
+      "has_done": 864,
+      "has_ready": 880,
+      "initial_safe": 3,
+      "up": 504
+    },
+    "ratio": 0.42278334292814923,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832021,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7261737906374037,
+    "worker_ru_maxrss_bytes": 45596672
+  },
+  {
+    "R_RMBA": 14416,
+    "Rstar": 14824,
+    "crossing": {
+      "lambda": 0.9554682409090197,
+      "type": "interior"
+    },
+    "eta_reach": 0.9724770642201835,
+    "mean_ns": {
+      "Exact": 91571.593,
+      "RMBA": 37495.92025
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 540,
+      "has_done": 917,
+      "has_ready": 914,
+      "initial_safe": 15,
+      "up": 460
+    },
+    "ratio": 0.40947109274379445,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832022,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5880877920426428,
+    "worker_ru_maxrss_bytes": 38944768
+  },
+  {
+    "R_RMBA": 57960,
+    "Rstar": 65496,
+    "crossing": {
+      "lambda": 0.8352235365539126,
+      "type": "interior"
+    },
+    "eta_reach": 0.8849395382924148,
+    "mean_ns": {
+      "Exact": 104420.34975,
+      "RMBA": 43520.138
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 503,
+      "has_done": 858,
+      "has_ready": 820,
+      "initial_safe": 4,
+      "up": 497
+    },
+    "ratio": 0.41677832054953445,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832023,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7005443749949336,
+    "worker_ru_maxrss_bytes": 49692672
+  },
+  {
+    "R_RMBA": 40872,
+    "Rstar": 40872,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 107571.93025,
+      "RMBA": 41337.05275
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 870,
+      "has_ready": 883,
+      "initial_safe": 1,
+      "up": 505
+    },
+    "ratio": 0.38427359864168653,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832024,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6762127093970776,
+    "worker_ru_maxrss_bytes": 47251456
+  },
+  {
+    "R_RMBA": 28048,
+    "Rstar": 28048,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 87955.51275,
+      "RMBA": 38888.666
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 522,
+      "has_done": 893,
+      "has_ready": 897,
+      "initial_safe": 4,
+      "up": 478
+    },
+    "ratio": 0.44214017727956456,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832025,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5600677076727152,
+    "worker_ru_maxrss_bytes": 41598976
+  },
+  {
+    "R_RMBA": 21248,
+    "Rstar": 21896,
+    "crossing": {
+      "lambda": 0.9505370344152447,
+      "type": "interior"
+    },
+    "eta_reach": 0.9704055535257581,
+    "mean_ns": {
+      "Exact": 105930.427,
+      "RMBA": 45685.58975
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 471,
+      "has_done": 894,
+      "has_ready": 899,
+      "initial_safe": 3,
+      "up": 529
+    },
+    "ratio": 0.4312791994126485,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832026,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6504850420169532,
+    "worker_ru_maxrss_bytes": 40992768
+  },
+  {
+    "R_RMBA": 70932,
+    "Rstar": 70932,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 106079.7005,
+      "RMBA": 45699.448
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 479,
+      "has_done": 813,
+      "has_ready": 835,
+      "initial_safe": 3,
+      "up": 521
+    },
+    "ratio": 0.4308029508435499,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832027,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6943991659209132,
+    "worker_ru_maxrss_bytes": 48775168
+  },
+  {
+    "R_RMBA": 20128,
+    "Rstar": 20128,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 84356.5755,
+      "RMBA": 37935.7085
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 510,
+      "has_done": 907,
+      "has_ready": 896,
+      "initial_safe": 4,
+      "up": 490
+    },
+    "ratio": 0.449706596968247,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832028,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5607097498141229,
+    "worker_ru_maxrss_bytes": 40271872
+  },
+  {
+    "R_RMBA": 22760,
+    "Rstar": 22760,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 96435.068,
+      "RMBA": 42643.505
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 894,
+      "has_ready": 906,
+      "initial_safe": 8,
+      "up": 492
+    },
+    "ratio": 0.44219914896518764,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832029,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6094205840490758,
+    "worker_ru_maxrss_bytes": 41353216
+  },
+  {
+    "R_RMBA": 41472,
+    "Rstar": 42080,
+    "crossing": {
+      "lambda": 0.9736085326608632,
+      "type": "interior"
+    },
+    "eta_reach": 0.9855513307984791,
+    "mean_ns": {
+      "Exact": 100910.30925,
+      "RMBA": 47122.455
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 502,
+      "has_done": 880,
+      "has_ready": 872,
+      "initial_safe": 3,
+      "up": 498
+    },
+    "ratio": 0.4669736457080573,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832030,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6844644169323146,
+    "worker_ru_maxrss_bytes": 47366144
+  },
+  {
+    "R_RMBA": 24512,
+    "Rstar": 25376,
+    "crossing": {
+      "lambda": 0.9468198685085977,
+      "type": "interior"
+    },
+    "eta_reach": 0.9659520807061791,
+    "mean_ns": {
+      "Exact": 96117.02275,
+      "RMBA": 37851.87625
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 519,
+      "has_done": 892,
+      "has_ready": 892,
+      "initial_safe": 4,
+      "up": 481
+    },
+    "ratio": 0.3938103279421438,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832031,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.576583833899349,
+    "worker_ru_maxrss_bytes": 42467328
+  },
+  {
+    "R_RMBA": 28360,
+    "Rstar": 28360,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 103094.64575,
+      "RMBA": 43009.693
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 480,
+      "has_done": 873,
+      "has_ready": 908,
+      "initial_safe": 6,
+      "up": 520
+    },
+    "ratio": 0.4171864861371814,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832032,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6718102083541453,
+    "worker_ru_maxrss_bytes": 42401792
+  },
+  {
+    "R_RMBA": 36302,
+    "Rstar": 36302,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 90569.655,
+      "RMBA": 38856.841
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 518,
+      "has_done": 869,
+      "has_ready": 866,
+      "initial_safe": 3,
+      "up": 482
+    },
+    "ratio": 0.4290271504291366,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832033,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5706255827099085,
+    "worker_ru_maxrss_bytes": 42778624
+  },
+  {
+    "R_RMBA": 12552,
+    "Rstar": 12552,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 99082.8345,
+      "RMBA": 41272.86025
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 507,
+      "has_done": 926,
+      "has_ready": 934,
+      "initial_safe": 12,
+      "up": 493
+    },
+    "ratio": 0.4165490466464199,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832034,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6069204998202622,
+    "worker_ru_maxrss_bytes": 39436288
+  },
+  {
+    "R_RMBA": 64464,
+    "Rstar": 64464,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 96309.5225,
+      "RMBA": 48701.9745
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 498,
+      "has_done": 851,
+      "has_ready": 873,
+      "initial_safe": 3,
+      "up": 502
+    },
+    "ratio": 0.5056818187422745,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832035,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6396386660635471,
+    "worker_ru_maxrss_bytes": 48988160
+  },
+  {
+    "R_RMBA": 16732,
+    "Rstar": 16732,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 95947.2495,
+      "RMBA": 40867.2125
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 502,
+      "has_done": 924,
+      "has_ready": 915,
+      "initial_safe": 7,
+      "up": 498
+    },
+    "ratio": 0.4259341743819347,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832036,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5929684997536242,
+    "worker_ru_maxrss_bytes": 41582592
+  },
+  {
+    "R_RMBA": 21488,
+    "Rstar": 21488,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 84036.162,
+      "RMBA": 37702.1545
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 489,
+      "has_done": 912,
+      "has_ready": 896,
+      "initial_safe": 3,
+      "up": 511
+    },
+    "ratio": 0.4486420322241751,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832037,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5923961671069264,
+    "worker_ru_maxrss_bytes": 41009152
+  },
+  {
+    "R_RMBA": 58680,
+    "Rstar": 58680,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 90382.41425,
+      "RMBA": 44104.9765
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 494,
+      "has_done": 824,
+      "has_ready": 824,
+      "initial_safe": 1,
+      "up": 506
+    },
+    "ratio": 0.48798183657724103,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832038,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6057888343930244,
+    "worker_ru_maxrss_bytes": 47202304
+  },
+  {
+    "R_RMBA": 47500,
+    "Rstar": 47500,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 117175.27875,
+      "RMBA": 44809.283
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 512,
+      "has_done": 850,
+      "has_ready": 843,
+      "initial_safe": 1,
+      "up": 488
+    },
+    "ratio": 0.3824124292940929,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832039,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7131953751668334,
+    "worker_ru_maxrss_bytes": 50528256
+  },
+  {
+    "R_RMBA": 34676,
+    "Rstar": 35824,
+    "crossing": {
+      "lambda": 0.9469595993071237,
+      "type": "interior"
+    },
+    "eta_reach": 0.9679544439481912,
+    "mean_ns": {
+      "Exact": 98278.045,
+      "RMBA": 42050.519
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 863,
+      "has_ready": 855,
+      "initial_safe": 3,
+      "up": 505
+    },
+    "ratio": 0.4278729700005734,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832040,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6355041246861219,
+    "worker_ru_maxrss_bytes": 42369024
+  },
+  {
+    "R_RMBA": 13184,
+    "Rstar": 13184,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 86639.24725,
+      "RMBA": 37806.468
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 928,
+      "has_ready": 919,
+      "initial_safe": 12,
+      "up": 492
+    },
+    "ratio": 0.43636653364390815,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832041,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5660102502442896,
+    "worker_ru_maxrss_bytes": 38666240
+  },
+  {
+    "R_RMBA": 33384,
+    "Rstar": 34536,
+    "crossing": {
+      "lambda": 0.9475054876206247,
+      "type": "interior"
+    },
+    "eta_reach": 0.9666435024322446,
+    "mean_ns": {
+      "Exact": 105882.6375,
+      "RMBA": 42133.6895
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 498,
+      "has_done": 894,
+      "has_ready": 878,
+      "initial_safe": 5,
+      "up": 502
+    },
+    "ratio": 0.3979282202901302,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832042,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6470036669634283,
+    "worker_ru_maxrss_bytes": 47349760
+  },
+  {
+    "R_RMBA": 44944,
+    "Rstar": 44944,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 79411.014,
+      "RMBA": 34403.18675
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 509,
+      "has_done": 874,
+      "has_ready": 865,
+      "initial_safe": 4,
+      "up": 491
+    },
+    "ratio": 0.43322941009165306,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832043,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5173544576391578,
+    "worker_ru_maxrss_bytes": 46399488
+  },
+  {
+    "R_RMBA": 20884,
+    "Rstar": 20884,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 85557.64025,
+      "RMBA": 36385.73275
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 493,
+      "has_done": 901,
+      "has_ready": 895,
+      "initial_safe": 2,
+      "up": 507
+    },
+    "ratio": 0.4252774228424328,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832044,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5333105423487723,
+    "worker_ru_maxrss_bytes": 38256640
+  },
+  {
+    "R_RMBA": 19764,
+    "Rstar": 19764,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 96903.57325,
+      "RMBA": 47955.9825
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 904,
+      "has_ready": 911,
+      "initial_safe": 8,
+      "up": 492
+    },
+    "ratio": 0.49488353103635424,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832045,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6254651248455048,
+    "worker_ru_maxrss_bytes": 42106880
+  },
+  {
+    "R_RMBA": 25952,
+    "Rstar": 25952,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 98892.50825,
+      "RMBA": 41615.259
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 515,
+      "has_done": 902,
+      "has_ready": 903,
+      "initial_safe": 3,
+      "up": 485
+    },
+    "ratio": 0.42081305992155377,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832046,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6162129160948098,
+    "worker_ru_maxrss_bytes": 41811968
+  },
+  {
+    "R_RMBA": 36176,
+    "Rstar": 36176,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 117438.7765,
+      "RMBA": 43534.51975
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 480,
+      "has_done": 891,
+      "has_ready": 886,
+      "initial_safe": 6,
+      "up": 520
+    },
+    "ratio": 0.37069970453924134,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832047,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6999035002663732,
+    "worker_ru_maxrss_bytes": 46186496
+  },
+  {
+    "R_RMBA": 21760,
+    "Rstar": 21760,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 91986.263,
+      "RMBA": 37885.8865
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 531,
+      "has_done": 915,
+      "has_ready": 902,
+      "initial_safe": 7,
+      "up": 469
+    },
+    "ratio": 0.41186461178447914,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832048,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5811162921600044,
+    "worker_ru_maxrss_bytes": 42237952
+  },
+  {
+    "R_RMBA": 29688,
+    "Rstar": 29688,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 91771.75475,
+      "RMBA": 42102.24775
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 526,
+      "has_done": 891,
+      "has_ready": 875,
+      "initial_safe": 3,
+      "up": 474
+    },
+    "ratio": 0.45877130566689966,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832049,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5866408748552203,
+    "worker_ru_maxrss_bytes": 41074688
+  },
+  {
+    "R_RMBA": 37440,
+    "Rstar": 37440,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 102506.0775,
+      "RMBA": 46160.13975
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 453,
+      "has_done": 879,
+      "has_ready": 872,
+      "initial_safe": 2,
+      "up": 547
+    },
+    "ratio": 0.45031612637797014,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832050,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6644583749584854,
+    "worker_ru_maxrss_bytes": 47382528
+  },
+  {
+    "R_RMBA": 21304,
+    "Rstar": 22548,
+    "crossing": {
+      "lambda": 0.9121552887918248,
+      "type": "interior"
+    },
+    "eta_reach": 0.9448288096505233,
+    "mean_ns": {
+      "Exact": 91234.11325,
+      "RMBA": 38967.69125
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 527,
+      "has_done": 896,
+      "has_ready": 895,
+      "initial_safe": 6,
+      "up": 473
+    },
+    "ratio": 0.4271175535319844,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832051,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5850949590094388,
+    "worker_ru_maxrss_bytes": 40894464
+  },
+  {
+    "R_RMBA": 30784,
+    "Rstar": 30784,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 87919.8375,
+      "RMBA": 39384.04325
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 484,
+      "has_done": 887,
+      "has_ready": 888,
+      "initial_safe": 3,
+      "up": 516
+    },
+    "ratio": 0.4479540041233584,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832052,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5770285408943892,
+    "worker_ru_maxrss_bytes": 42729472
+  },
+  {
+    "R_RMBA": 61456,
+    "Rstar": 61456,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 104024.37375,
+      "RMBA": 42913.4845
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 510,
+      "has_done": 844,
+      "has_ready": 864,
+      "initial_safe": 3,
+      "up": 490
+    },
+    "ratio": 0.4125329761958793,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832053,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6646073330193758,
+    "worker_ru_maxrss_bytes": 49627136
+  },
+  {
+    "R_RMBA": 31232,
+    "Rstar": 32376,
+    "crossing": {
+      "lambda": 0.9439603070128056,
+      "type": "interior"
+    },
+    "eta_reach": 0.964665184086978,
+    "mean_ns": {
+      "Exact": 92511.7595,
+      "RMBA": 37449.027
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 495,
+      "has_done": 876,
+      "has_ready": 893,
+      "initial_safe": 2,
+      "up": 505
+    },
+    "ratio": 0.4048028834647773,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832054,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.581536166369915,
+    "worker_ru_maxrss_bytes": 42827776
+  },
+  {
+    "R_RMBA": 24536,
+    "Rstar": 24536,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 95637.88,
+      "RMBA": 45067.05775
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 481,
+      "has_done": 880,
+      "has_ready": 904,
+      "initial_safe": 3,
+      "up": 519
+    },
+    "ratio": 0.4712260220531865,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832055,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6160054998472333,
+    "worker_ru_maxrss_bytes": 43581440
+  },
+  {
+    "R_RMBA": 19152,
+    "Rstar": 19152,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 95806.47975,
+      "RMBA": 42275.26225
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 498,
+      "has_done": 912,
+      "has_ready": 908,
+      "initial_safe": 5,
+      "up": 502
+    },
+    "ratio": 0.44125681645243836,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832056,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5941939172334969,
+    "worker_ru_maxrss_bytes": 40828928
+  },
+  {
+    "R_RMBA": 31924,
+    "Rstar": 31924,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 106703.2625,
+      "RMBA": 42382.20425
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 507,
+      "has_done": 873,
+      "has_ready": 883,
+      "initial_safe": 2,
+      "up": 493
+    },
+    "ratio": 0.3971968921756258,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832057,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6698383749462664,
+    "worker_ru_maxrss_bytes": 43352064
+  },
+  {
+    "R_RMBA": 22496,
+    "Rstar": 22496,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 98730.0735,
+      "RMBA": 39854.47275
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 485,
+      "has_done": 895,
+      "has_ready": 896,
+      "initial_safe": 7,
+      "up": 515
+    },
+    "ratio": 0.4036710531771254,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832058,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6199805410578847,
+    "worker_ru_maxrss_bytes": 42401792
+  },
+  {
+    "R_RMBA": 22096,
+    "Rstar": 22096,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 87431.45,
+      "RMBA": 39808.29725
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 499,
+      "has_done": 906,
+      "has_ready": 881,
+      "initial_safe": 2,
+      "up": 501
+    },
+    "ratio": 0.45530867039263334,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832059,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5680350833572447,
+    "worker_ru_maxrss_bytes": 40976384
+  },
+  {
+    "R_RMBA": 45356,
+    "Rstar": 48336,
+    "crossing": {
+      "lambda": 0.897906794810157,
+      "type": "interior"
+    },
+    "eta_reach": 0.9383482290632241,
+    "mean_ns": {
+      "Exact": 108176.37525,
+      "RMBA": 49520.381
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 477,
+      "has_done": 862,
+      "has_ready": 865,
+      "initial_safe": 1,
+      "up": 523
+    },
+    "ratio": 0.45777445292982305,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832060,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.686654791701585,
+    "worker_ru_maxrss_bytes": 47644672
+  },
+  {
+    "R_RMBA": 37280,
+    "Rstar": 39812,
+    "crossing": {
+      "lambda": 0.9015517674162495,
+      "type": "interior"
+    },
+    "eta_reach": 0.9364010850999699,
+    "mean_ns": {
+      "Exact": 112828.72725,
+      "RMBA": 47115.59925
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 480,
+      "has_done": 859,
+      "has_ready": 893,
+      "initial_safe": 1,
+      "up": 520
+    },
+    "ratio": 0.4175851345518036,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832061,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7093960419297218,
+    "worker_ru_maxrss_bytes": 47415296
+  },
+  {
+    "R_RMBA": 22544,
+    "Rstar": 23480,
+    "crossing": {
+      "lambda": 0.9282215551635826,
+      "type": "interior"
+    },
+    "eta_reach": 0.9601362862010221,
+    "mean_ns": {
+      "Exact": 95882.2065,
+      "RMBA": 46454.1675
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 480,
+      "has_done": 891,
+      "has_ready": 896,
+      "initial_safe": 4,
+      "up": 520
+    },
+    "ratio": 0.48449205744967916,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832062,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6251248749904335,
+    "worker_ru_maxrss_bytes": 40747008
+  },
+  {
+    "R_RMBA": 34200,
+    "Rstar": 34200,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 94260.74475,
+      "RMBA": 43731.812
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 492,
+      "has_done": 883,
+      "has_ready": 878,
+      "initial_safe": 3,
+      "up": 508
+    },
+    "ratio": 0.46394511433138236,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832063,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6142360419034958,
+    "worker_ru_maxrss_bytes": 43712512
+  },
+  {
+    "R_RMBA": 37568,
+    "Rstar": 38240,
+    "crossing": {
+      "lambda": 0.9698519729311575,
+      "type": "interior"
+    },
+    "eta_reach": 0.9824267782426779,
+    "mean_ns": {
+      "Exact": 100602.4695,
+      "RMBA": 43729.4105
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 479,
+      "has_done": 867,
+      "has_ready": 891,
+      "initial_safe": 5,
+      "up": 521
+    },
+    "ratio": 0.4346753187803208,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832064,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6319214999675751,
+    "worker_ru_maxrss_bytes": 43139072
+  },
+  {
+    "R_RMBA": 47160,
+    "Rstar": 47160,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 94023.1665,
+      "RMBA": 39977.94575
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 492,
+      "has_done": 877,
+      "has_ready": 863,
+      "initial_safe": 2,
+      "up": 508
+    },
+    "ratio": 0.4251925056150922,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832065,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5940234172157943,
+    "worker_ru_maxrss_bytes": 46596096
+  },
+  {
+    "R_RMBA": 62652,
+    "Rstar": 63972,
+    "crossing": {
+      "lambda": 0.9668078124835624,
+      "type": "interior"
+    },
+    "eta_reach": 0.9793659726130182,
+    "mean_ns": {
+      "Exact": 110721.65725,
+      "RMBA": 44175.82575
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 520,
+      "has_done": 856,
+      "has_ready": 860,
+      "initial_safe": 1,
+      "up": 480
+    },
+    "ratio": 0.3989808935956836,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832066,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7175087076611817,
+    "worker_ru_maxrss_bytes": 50921472
+  },
+  {
+    "R_RMBA": 32240,
+    "Rstar": 32240,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 93587.0535,
+      "RMBA": 41968.534
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 499,
+      "has_done": 900,
+      "has_ready": 876,
+      "initial_safe": 1,
+      "up": 501
+    },
+    "ratio": 0.44844380104348514,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832067,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5982150840573013,
+    "worker_ru_maxrss_bytes": 42156032
+  },
+  {
+    "R_RMBA": 14336,
+    "Rstar": 14336,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 85423.00575,
+      "RMBA": 37734.1325
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 507,
+      "has_done": 901,
+      "has_ready": 932,
+      "initial_safe": 10,
+      "up": 493
+    },
+    "ratio": 0.441732671060922,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832068,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5317092076875269,
+    "worker_ru_maxrss_bytes": 39206912
+  },
+  {
+    "R_RMBA": 23064,
+    "Rstar": 24752,
+    "crossing": {
+      "lambda": 0.8915256482260538,
+      "type": "interior"
+    },
+    "eta_reach": 0.9318034906270201,
+    "mean_ns": {
+      "Exact": 96688.73175,
+      "RMBA": 42495.53275
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 473,
+      "has_done": 891,
+      "has_ready": 907,
+      "initial_safe": 4,
+      "up": 527
+    },
+    "ratio": 0.4395086374685021,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832069,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6033028750680387,
+    "worker_ru_maxrss_bytes": 42024960
+  },
+  {
+    "R_RMBA": 13104,
+    "Rstar": 13104,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 98810.52675,
+      "RMBA": 42970.98775
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 508,
+      "has_done": 919,
+      "has_ready": 941,
+      "initial_safe": 10,
+      "up": 492
+    },
+    "ratio": 0.43488269077565667,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832070,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6134027913212776,
+    "worker_ru_maxrss_bytes": 39944192
+  },
+  {
+    "R_RMBA": 36648,
+    "Rstar": 38032,
+    "crossing": {
+      "lambda": 0.939059921649065,
+      "type": "interior"
+    },
+    "eta_reach": 0.9636095919225915,
+    "mean_ns": {
+      "Exact": 94664.33375,
+      "RMBA": 41580.338
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 500,
+      "has_done": 877,
+      "has_ready": 878,
+      "initial_safe": 3,
+      "up": 500
+    },
+    "ratio": 0.43923974693372836,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832071,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6058858749456704,
+    "worker_ru_maxrss_bytes": 42909696
+  },
+  {
+    "R_RMBA": 56648,
+    "Rstar": 56648,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 98872.23075,
+      "RMBA": 47158.69575
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 511,
+      "has_done": 849,
+      "has_ready": 848,
+      "initial_safe": 0,
+      "up": 489
+    },
+    "ratio": 0.47696603376170915,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832072,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6800805423408747,
+    "worker_ru_maxrss_bytes": 47120384
+  },
+  {
+    "R_RMBA": 45620,
+    "Rstar": 47192,
+    "crossing": {
+      "lambda": 0.9434873402983499,
+      "type": "interior"
+    },
+    "eta_reach": 0.9666892693676894,
+    "mean_ns": {
+      "Exact": 98146.684,
+      "RMBA": 43564.59925
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 490,
+      "has_done": 864,
+      "has_ready": 872,
+      "initial_safe": 4,
+      "up": 510
+    },
+    "ratio": 0.4438723497780119,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832073,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6725847078487277,
+    "worker_ru_maxrss_bytes": 46956544
+  },
+  {
+    "R_RMBA": 31036,
+    "Rstar": 31804,
+    "crossing": {
+      "lambda": 0.9571776769533905,
+      "type": "interior"
+    },
+    "eta_reach": 0.9758520940762169,
+    "mean_ns": {
+      "Exact": 96433.1355,
+      "RMBA": 44382.2525
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 497,
+      "has_done": 872,
+      "has_ready": 883,
+      "initial_safe": 4,
+      "up": 503
+    },
+    "ratio": 0.4602386126913814,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832074,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6242152499035001,
+    "worker_ru_maxrss_bytes": 41402368
+  },
+  {
+    "R_RMBA": 22536,
+    "Rstar": 22536,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 90845.354,
+      "RMBA": 43115.40675
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 500,
+      "has_done": 888,
+      "has_ready": 905,
+      "initial_safe": 5,
+      "up": 500
+    },
+    "ratio": 0.4746022207145563,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832075,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5911979577504098,
+    "worker_ru_maxrss_bytes": 41074688
+  },
+  {
+    "R_RMBA": 28824,
+    "Rstar": 28824,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 84300.19925,
+      "RMBA": 44898.9325
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 490,
+      "has_done": 883,
+      "has_ready": 911,
+      "initial_safe": 1,
+      "up": 510
+    },
+    "ratio": 0.5326076675910111,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832076,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5672914162278175,
+    "worker_ru_maxrss_bytes": 41631744
+  },
+  {
+    "R_RMBA": 21440,
+    "Rstar": 21440,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 119418.4895,
+      "RMBA": 47134.06875
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 465,
+      "has_done": 894,
+      "has_ready": 895,
+      "initial_safe": 5,
+      "up": 535
+    },
+    "ratio": 0.39469657460371743,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832077,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7321989587508142,
+    "worker_ru_maxrss_bytes": 42713088
+  },
+  {
+    "R_RMBA": 32984,
+    "Rstar": 32984,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 91740.566,
+      "RMBA": 40586.85875
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 492,
+      "has_done": 875,
+      "has_ready": 871,
+      "initial_safe": 3,
+      "up": 508
+    },
+    "ratio": 0.44240907288494385,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832078,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6024270411580801,
+    "worker_ru_maxrss_bytes": 43188224
+  },
+  {
+    "R_RMBA": 42576,
+    "Rstar": 42576,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 92775.07025,
+      "RMBA": 38422.5015
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 504,
+      "has_done": 875,
+      "has_ready": 857,
+      "initial_safe": 5,
+      "up": 496
+    },
+    "ratio": 0.41414683272632713,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832079,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5927699999883771,
+    "worker_ru_maxrss_bytes": 47038464
+  },
+  {
+    "R_RMBA": 28792,
+    "Rstar": 28792,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 92270.11325,
+      "RMBA": 45510.30525
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 490,
+      "has_done": 887,
+      "has_ready": 875,
+      "initial_safe": 3,
+      "up": 510
+    },
+    "ratio": 0.4932291036285251,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832080,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5975562077946961,
+    "worker_ru_maxrss_bytes": 41648128
+  },
+  {
+    "R_RMBA": 42744,
+    "Rstar": 43008,
+    "crossing": {
+      "lambda": 0.9888879131297691,
+      "type": "interior"
+    },
+    "eta_reach": 0.9938616071428571,
+    "mean_ns": {
+      "Exact": 90549.0835,
+      "RMBA": 41084.97575
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 480,
+      "has_done": 867,
+      "has_ready": 859,
+      "initial_safe": 3,
+      "up": 520
+    },
+    "ratio": 0.4537315471558583,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832081,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5722504579462111,
+    "worker_ru_maxrss_bytes": 45580288
+  },
+  {
+    "R_RMBA": 33620,
+    "Rstar": 34748,
+    "crossing": {
+      "lambda": 0.9471515984940018,
+      "type": "interior"
+    },
+    "eta_reach": 0.9675377000115114,
+    "mean_ns": {
+      "Exact": 95240.05025,
+      "RMBA": 39830.25525
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 496,
+      "has_done": 885,
+      "has_ready": 876,
+      "initial_safe": 3,
+      "up": 504
+    },
+    "ratio": 0.4182090952855204,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832082,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6160960411652923,
+    "worker_ru_maxrss_bytes": 43646976
+  },
+  {
+    "R_RMBA": 13136,
+    "Rstar": 13136,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 88346.616,
+      "RMBA": 38747.50025
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 511,
+      "has_done": 937,
+      "has_ready": 913,
+      "initial_safe": 11,
+      "up": 489
+    },
+    "ratio": 0.43858499628327585,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832083,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5444591250270605,
+    "worker_ru_maxrss_bytes": 38420480
+  },
+  {
+    "R_RMBA": 46960,
+    "Rstar": 46960,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 105550.59925,
+      "RMBA": 45231.3905
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 478,
+      "has_done": 866,
+      "has_ready": 870,
+      "initial_safe": 4,
+      "up": 522
+    },
+    "ratio": 0.428528031308169,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832084,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6610727086663246,
+    "worker_ru_maxrss_bytes": 48824320
+  },
+  {
+    "R_RMBA": 17472,
+    "Rstar": 17472,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 129066.458,
+      "RMBA": 45356.59975
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 499,
+      "has_done": 910,
+      "has_ready": 929,
+      "initial_safe": 11,
+      "up": 501
+    },
+    "ratio": 0.35142050423356314,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832085,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.741268957965076,
+    "worker_ru_maxrss_bytes": 41467904
+  },
+  {
+    "R_RMBA": 25696,
+    "Rstar": 25696,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 111188.7675,
+      "RMBA": 43415.1475
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 500,
+      "has_done": 892,
+      "has_ready": 896,
+      "initial_safe": 6,
+      "up": 500
+    },
+    "ratio": 0.39046342968052056,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832086,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.664498457685113,
+    "worker_ru_maxrss_bytes": 44171264
+  },
+  {
+    "R_RMBA": 20056,
+    "Rstar": 20056,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 94199.538,
+      "RMBA": 45543.2145
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 494,
+      "has_done": 902,
+      "has_ready": 893,
+      "initial_safe": 6,
+      "up": 506
+    },
+    "ratio": 0.48347598583763757,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832087,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6027584997937083,
+    "worker_ru_maxrss_bytes": 42139648
+  },
+  {
+    "R_RMBA": 39836,
+    "Rstar": 39836,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 95296.45225,
+      "RMBA": 43365.173
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 506,
+      "has_done": 877,
+      "has_ready": 873,
+      "initial_safe": 9,
+      "up": 494
+    },
+    "ratio": 0.4550554818791798,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832088,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6031386665999889,
+    "worker_ru_maxrss_bytes": 42795008
+  },
+  {
+    "R_RMBA": 27588,
+    "Rstar": 27588,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 100753.561,
+      "RMBA": 42536.16475
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 468,
+      "has_done": 895,
+      "has_ready": 897,
+      "initial_safe": 7,
+      "up": 532
+    },
+    "ratio": 0.4221802616981448,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832089,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6301429159939289,
+    "worker_ru_maxrss_bytes": 42762240
+  },
+  {
+    "R_RMBA": 27000,
+    "Rstar": 27000,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 85146.0575,
+      "RMBA": 42397.20475
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 478,
+      "has_done": 881,
+      "has_ready": 918,
+      "initial_safe": 3,
+      "up": 522
+    },
+    "ratio": 0.49793503063838274,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832090,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5641902079805732,
+    "worker_ru_maxrss_bytes": 42221568
+  },
+  {
+    "R_RMBA": 27128,
+    "Rstar": 27128,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 90195.98275,
+      "RMBA": 43734.3995
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 509,
+      "has_done": 890,
+      "has_ready": 881,
+      "initial_safe": 5,
+      "up": 491
+    },
+    "ratio": 0.4848819001309679,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832091,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5877308333292603,
+    "worker_ru_maxrss_bytes": 42188800
+  },
+  {
+    "R_RMBA": 40936,
+    "Rstar": 41600,
+    "crossing": {
+      "lambda": 0.9715696423262663,
+      "type": "interior"
+    },
+    "eta_reach": 0.9840384615384615,
+    "mean_ns": {
+      "Exact": 104913.29325,
+      "RMBA": 47686.83325
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 1,
+      "down": 477,
+      "has_done": 858,
+      "has_ready": 884,
+      "initial_safe": 9,
+      "up": 523
+    },
+    "ratio": 0.45453566247669003,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832092,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7016399591229856,
+    "worker_ru_maxrss_bytes": 43909120
+  },
+  {
+    "R_RMBA": 35928,
+    "Rstar": 35928,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 99641.9685,
+      "RMBA": 42793.1385
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 521,
+      "has_done": 876,
+      "has_ready": 887,
+      "initial_safe": 2,
+      "up": 479
+    },
+    "ratio": 0.4294690193720932,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832093,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6386331249959767,
+    "worker_ru_maxrss_bytes": 43565056
+  },
+  {
+    "R_RMBA": 18752,
+    "Rstar": 19200,
+    "crossing": {
+      "lambda": 0.9578585383649473,
+      "type": "interior"
+    },
+    "eta_reach": 0.9766666666666667,
+    "mean_ns": {
+      "Exact": 93621.051,
+      "RMBA": 43968.4415
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 531,
+      "has_done": 920,
+      "has_ready": 912,
+      "initial_safe": 8,
+      "up": 469
+    },
+    "ratio": 0.46964268217839167,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832094,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5966877080500126,
+    "worker_ru_maxrss_bytes": 39387136
+  },
+  {
+    "R_RMBA": 35796,
+    "Rstar": 39476,
+    "crossing": {
+      "lambda": 0.8606942216730368,
+      "type": "interior"
+    },
+    "eta_reach": 0.9067788023102644,
+    "mean_ns": {
+      "Exact": 102707.87925,
+      "RMBA": 43551.9615
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 516,
+      "has_done": 867,
+      "has_ready": 888,
+      "initial_safe": 3,
+      "up": 484
+    },
+    "ratio": 0.4240371996581752,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832095,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.636787542141974,
+    "worker_ru_maxrss_bytes": 46219264
+  },
+  {
+    "R_RMBA": 20272,
+    "Rstar": 20272,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 90914.33875,
+      "RMBA": 38103.41175
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 524,
+      "has_done": 911,
+      "has_ready": 910,
+      "initial_safe": 9,
+      "up": 476
+    },
+    "ratio": 0.41911333540882184,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832096,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5615094997920096,
+    "worker_ru_maxrss_bytes": 41664512
+  },
+  {
+    "R_RMBA": 58858,
+    "Rstar": 58858,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 100503.0935,
+      "RMBA": 38220.49525
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 538,
+      "has_done": 823,
+      "has_ready": 838,
+      "initial_safe": 3,
+      "up": 462
+    },
+    "ratio": 0.3802917295277085,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832097,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6253794999793172,
+    "worker_ru_maxrss_bytes": 51412992
+  },
+  {
+    "R_RMBA": 38748,
+    "Rstar": 38748,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 123664.115,
+      "RMBA": 41737.81775
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 491,
+      "has_done": 878,
+      "has_ready": 894,
+      "initial_safe": 3,
+      "up": 509
+    },
+    "ratio": 0.3375095333840379,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832098,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.7161620827391744,
+    "worker_ru_maxrss_bytes": 41680896
+  },
+  {
+    "R_RMBA": 20632,
+    "Rstar": 21408,
+    "crossing": {
+      "lambda": 0.9394147814965843,
+      "type": "interior"
+    },
+    "eta_reach": 0.9637518684603886,
+    "mean_ns": {
+      "Exact": 83693.06975,
+      "RMBA": 36653.23
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 491,
+      "has_done": 896,
+      "has_ready": 898,
+      "initial_safe": 6,
+      "up": 509
+    },
+    "ratio": 0.4379482089674456,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832099,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.5218237079679966,
+    "worker_ru_maxrss_bytes": 42090496
+  },
+  {
+    "R_RMBA": 18296,
+    "Rstar": 18296,
+    "crossing": {
+      "lambda": 1.0,
+      "type": "endpoint"
+    },
+    "eta_reach": 1.0,
+    "mean_ns": {
+      "Exact": 107587.5245,
+      "RMBA": 45765.22675
+    },
+    "n": 6,
+    "observations": 8000,
+    "query_count": 1000,
+    "query_counts": {
+      "all_done": 0,
+      "down": 478,
+      "has_done": 900,
+      "has_ready": 934,
+      "initial_safe": 7,
+      "up": 522
+    },
+    "ratio": 0.4253767057350595,
+    "ru_maxrss_units": "bytes on frozen macOS",
+    "seed": 2832100,
+    "split": "formal",
+    "status": "PASS",
+    "worker_elapsed_s": 0.6534312502481043,
+    "worker_ru_maxrss_bytes": 41615360
+  }
+]

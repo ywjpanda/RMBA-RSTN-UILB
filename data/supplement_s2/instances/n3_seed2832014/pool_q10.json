@@ -1,0 +1,789 @@
+{
+  "q_percent": 10,
+  "B": 0,
+  "T": 44,
+  "positive_count": 48,
+  "cache_length": 48,
+  "filtered_positive_count": 8,
+  "P_codes": [
+    8,
+    9,
+    64,
+    65,
+    80,
+    81,
+    96,
+    97,
+    520,
+    521,
+    624,
+    625,
+    632,
+    633,
+    648,
+    649,
+    760,
+    761,
+    776,
+    777,
+    888,
+    889,
+    904,
+    905,
+    906,
+    907,
+    908,
+    909,
+    974,
+    975,
+    990,
+    991,
+    1006,
+    1007,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021
+  ],
+  "positive_codes": [
+    0,
+    1,
+    8,
+    9,
+    64,
+    65,
+    80,
+    81,
+    96,
+    97,
+    112,
+    113,
+    520,
+    521,
+    624,
+    625,
+    632,
+    633,
+    648,
+    649,
+    760,
+    761,
+    776,
+    777,
+    888,
+    889,
+    904,
+    905,
+    906,
+    907,
+    908,
+    909,
+    910,
+    911,
+    974,
+    975,
+    990,
+    991,
+    1006,
+    1007,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023
+  ],
+  "statuses": [
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      521,
+      1
+    ],
+    [
+      520,
+      1
+    ],
+    [
+      649,
+      1
+    ],
+    [
+      648,
+      1
+    ],
+    [
+      777,
+      1
+    ],
+    [
+      776,
+      1
+    ],
+    [
+      905,
+      1
+    ],
+    [
+      904,
+      1
+    ],
+    [
+      907,
+      1
+    ],
+    [
+      906,
+      1
+    ],
+    [
+      909,
+      1
+    ],
+    [
+      908,
+      1
+    ],
+    [
+      911,
+      1
+    ],
+    [
+      910,
+      1
+    ],
+    [
+      975,
+      1
+    ],
+    [
+      974,
+      1
+    ],
+    [
+      991,
+      1
+    ],
+    [
+      990,
+      1
+    ],
+    [
+      1007,
+      1
+    ],
+    [
+      1006,
+      1
+    ],
+    [
+      1023,
+      1
+    ],
+    [
+      1022,
+      1
+    ],
+    [
+      65,
+      1
+    ],
+    [
+      64,
+      1
+    ],
+    [
+      81,
+      1
+    ],
+    [
+      80,
+      1
+    ],
+    [
+      97,
+      1
+    ],
+    [
+      96,
+      1
+    ],
+    [
+      113,
+      1
+    ],
+    [
+      112,
+      1
+    ],
+    [
+      625,
+      1
+    ],
+    [
+      624,
+      1
+    ],
+    [
+      633,
+      1
+    ],
+    [
+      632,
+      1
+    ],
+    [
+      761,
+      1
+    ],
+    [
+      760,
+      1
+    ],
+    [
+      889,
+      1
+    ],
+    [
+      888,
+      1
+    ],
+    [
+      1017,
+      1
+    ],
+    [
+      1016,
+      1
+    ],
+    [
+      1019,
+      1
+    ],
+    [
+      1018,
+      1
+    ],
+    [
+      1021,
+      1
+    ],
+    [
+      1020,
+      1
+    ]
+  ],
+  "I_codes": [
+    0,
+    1,
+    14,
+    15,
+    112,
+    113,
+    126,
+    127,
+    896,
+    897,
+    910,
+    911,
+    1008,
+    1009,
+    1022,
+    1023
+  ],
+  "transition_fire_count": 2,
+  "cache_write_count": 2,
+  "popped_count": 1,
+  "source_reported_seconds": 0.006706953048706055,
+  "source_return_line": 1583,
+  "threshold_reached": true,
+  "pool_python_seed": 17471063544632174403,
+  "pool_numpy_seed": 1126947979,
+  "PN_column_mapping": [
+    {
+      "app": 0,
+      "column": 0,
+      "from": 0,
+      "to": 4,
+      "pre_free": [
+        0,
+        20
+      ],
+      "delta_free": [
+        0,
+        -20
+      ]
+    },
+    {
+      "app": 0,
+      "column": 1,
+      "from": 1,
+      "to": 2,
+      "pre_free": [
+        12,
+        0
+      ],
+      "delta_free": [
+        -12,
+        0
+      ]
+    },
+    {
+      "app": 0,
+      "column": 2,
+      "from": 2,
+      "to": 3,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        2,
+        0
+      ]
+    },
+    {
+      "app": 0,
+      "column": 3,
+      "from": 3,
+      "to": 7,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        30,
+        0
+      ]
+    },
+    {
+      "app": 0,
+      "column": 4,
+      "from": 4,
+      "to": 5,
+      "pre_free": [
+        0,
+        12
+      ],
+      "delta_free": [
+        0,
+        -12
+      ]
+    },
+    {
+      "app": 0,
+      "column": 5,
+      "from": 5,
+      "to": 6,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        0,
+        2
+      ]
+    },
+    {
+      "app": 0,
+      "column": 6,
+      "from": 6,
+      "to": 7,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        0,
+        30
+      ]
+    },
+    {
+      "app": 0,
+      "column": 7,
+      "from": 1,
+      "to": 4,
+      "pre_free": [
+        0,
+        20
+      ],
+      "delta_free": [
+        20,
+        -20
+      ]
+    },
+    {
+      "app": 0,
+      "column": 8,
+      "from": 2,
+      "to": 5,
+      "pre_free": [
+        0,
+        32
+      ],
+      "delta_free": [
+        32,
+        -32
+      ]
+    },
+    {
+      "app": 0,
+      "column": 9,
+      "from": 4,
+      "to": 1,
+      "pre_free": [
+        20,
+        0
+      ],
+      "delta_free": [
+        -20,
+        20
+      ]
+    },
+    {
+      "app": 0,
+      "column": 10,
+      "from": 5,
+      "to": 2,
+      "pre_free": [
+        32,
+        0
+      ],
+      "delta_free": [
+        -32,
+        32
+      ]
+    },
+    {
+      "app": 1,
+      "column": 0,
+      "from": 0,
+      "to": 4,
+      "pre_free": [
+        0,
+        27
+      ],
+      "delta_free": [
+        0,
+        -27
+      ]
+    },
+    {
+      "app": 1,
+      "column": 1,
+      "from": 1,
+      "to": 2,
+      "pre_free": [
+        5,
+        0
+      ],
+      "delta_free": [
+        -5,
+        0
+      ]
+    },
+    {
+      "app": 1,
+      "column": 2,
+      "from": 2,
+      "to": 3,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        6,
+        0
+      ]
+    },
+    {
+      "app": 1,
+      "column": 3,
+      "from": 3,
+      "to": 7,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        26,
+        0
+      ]
+    },
+    {
+      "app": 1,
+      "column": 4,
+      "from": 4,
+      "to": 5,
+      "pre_free": [
+        0,
+        5
+      ],
+      "delta_free": [
+        0,
+        -5
+      ]
+    },
+    {
+      "app": 1,
+      "column": 5,
+      "from": 5,
+      "to": 6,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        0,
+        6
+      ]
+    },
+    {
+      "app": 1,
+      "column": 6,
+      "from": 6,
+      "to": 7,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        0,
+        26
+      ]
+    },
+    {
+      "app": 1,
+      "column": 7,
+      "from": 1,
+      "to": 4,
+      "pre_free": [
+        0,
+        27
+      ],
+      "delta_free": [
+        27,
+        -27
+      ]
+    },
+    {
+      "app": 1,
+      "column": 8,
+      "from": 2,
+      "to": 5,
+      "pre_free": [
+        0,
+        32
+      ],
+      "delta_free": [
+        32,
+        -32
+      ]
+    },
+    {
+      "app": 1,
+      "column": 9,
+      "from": 4,
+      "to": 1,
+      "pre_free": [
+        27,
+        0
+      ],
+      "delta_free": [
+        -27,
+        27
+      ]
+    },
+    {
+      "app": 1,
+      "column": 10,
+      "from": 5,
+      "to": 2,
+      "pre_free": [
+        32,
+        0
+      ],
+      "delta_free": [
+        -32,
+        32
+      ]
+    },
+    {
+      "app": 2,
+      "column": 0,
+      "from": 0,
+      "to": 4,
+      "pre_free": [
+        0,
+        20
+      ],
+      "delta_free": [
+        0,
+        -20
+      ]
+    },
+    {
+      "app": 2,
+      "column": 1,
+      "from": 1,
+      "to": 2,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        2,
+        0
+      ]
+    },
+    {
+      "app": 2,
+      "column": 2,
+      "from": 2,
+      "to": 3,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        6,
+        0
+      ]
+    },
+    {
+      "app": 2,
+      "column": 3,
+      "from": 3,
+      "to": 7,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        12,
+        0
+      ]
+    },
+    {
+      "app": 2,
+      "column": 4,
+      "from": 4,
+      "to": 5,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        0,
+        2
+      ]
+    },
+    {
+      "app": 2,
+      "column": 5,
+      "from": 5,
+      "to": 6,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        0,
+        6
+      ]
+    },
+    {
+      "app": 2,
+      "column": 6,
+      "from": 6,
+      "to": 7,
+      "pre_free": [
+        0,
+        0
+      ],
+      "delta_free": [
+        0,
+        12
+      ]
+    },
+    {
+      "app": 2,
+      "column": 7,
+      "from": 1,
+      "to": 4,
+      "pre_free": [
+        0,
+        20
+      ],
+      "delta_free": [
+        20,
+        -20
+      ]
+    },
+    {
+      "app": 2,
+      "column": 8,
+      "from": 2,
+      "to": 5,
+      "pre_free": [
+        0,
+        18
+      ],
+      "delta_free": [
+        18,
+        -18
+      ]
+    },
+    {
+      "app": 2,
+      "column": 9,
+      "from": 4,
+      "to": 1,
+      "pre_free": [
+        20,
+        0
+      ],
+      "delta_free": [
+        -20,
+        20
+      ]
+    },
+    {
+      "app": 2,
+      "column": 10,
+      "from": 5,
+      "to": 2,
+      "pre_free": [
+        18,
+        0
+      ],
+      "delta_free": [
+        -18,
+        18
+      ]
+    }
+  ],
+  "trace_events": 98,
+  "algorithm": "original AST bodies; record Return line assignment and observational wrappers only",
+  "P_outside_Rstar_codes": [],
+  "threshold_counted_positive_overshoot": 4,
+  "P_equals_previous_q": []
+}

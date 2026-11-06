@@ -1,0 +1,110 @@
+{
+  "instance": {
+    "n": 6,
+    "seed": 2832012,
+    "m": 2,
+    "buffer_capacity_MB": [
+      40,
+      40
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          22,
+          17,
+          23
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          15,
+          33,
+          23
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          32,
+          10,
+          27
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          17,
+          29,
+          18
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          34,
+          18,
+          32
+        ],
+        "access_satellite_zero_based": 0
+      },
+      {
+        "data_sizes_MB": [
+          35,
+          13,
+          26
+        ],
+        "access_satellite_zero_based": 0
+      }
+    ]
+  },
+  "limits": {
+    "phase_seconds": {
+      "graph": 900,
+      "exact_certification": 900,
+      "pool_q10": 900,
+      "pool_q30": 900,
+      "pool_q60": 900,
+      "sampling": 300
+    },
+    "worker_seconds": 6000,
+    "parent_seconds": 6015,
+    "worker_rss_bytes": 4294967296,
+    "parent_rss_bytes": 6442450944,
+    "instance_disk_bytes": 2147483648
+  },
+  "config": {
+    "version": "D028-v2",
+    "n_values": [
+      3,
+      6
+    ],
+    "q_percent": [
+      10,
+      30,
+      60
+    ],
+    "f_percent": [
+      10,
+      30,
+      60
+    ],
+    "repeats": 10,
+    "extra_1000_only_n6": true,
+    "limits": {
+      "phase_seconds": {
+        "graph": 900,
+        "exact_certification": 900,
+        "pool_q10": 900,
+        "pool_q30": 900,
+        "pool_q60": 900,
+        "sampling": 300
+      },
+      "worker_seconds": 6000,
+      "parent_seconds": 6015,
+      "worker_rss_bytes": 4294967296,
+      "parent_rss_bytes": 6442450944,
+      "instance_disk_bytes": 2147483648
+    }
+  }
+}

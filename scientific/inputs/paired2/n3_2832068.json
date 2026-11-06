@@ -1,0 +1,57 @@
+{
+  "instance": {
+    "n": 3,
+    "seed": 2832068,
+    "m": 2,
+    "buffer_capacity_MB": [
+      40,
+      40
+    ],
+    "applications": [
+      {
+        "data_sizes_MB": [
+          16,
+          13,
+          22
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          21,
+          27,
+          11
+        ],
+        "access_satellite_zero_based": 1
+      },
+      {
+        "data_sizes_MB": [
+          20,
+          31,
+          21
+        ],
+        "access_satellite_zero_based": 1
+      }
+    ]
+  },
+  "input": {
+    "n": 3,
+    "seed": 2832068,
+    "attempt": "truth/paired2/n3_seed2832068"
+  },
+  "split": "formal",
+  "limits": {
+    "aggregate_new_disk_bytes": 10737418240,
+    "formal_pipeline_planning_budget_s": 21600,
+    "instance_disk_bytes": 536870912,
+    "instance_worker_wall_s": 600,
+    "parent_rss_bytes": 4294967296,
+    "preflight_free_bytes": 10737418240,
+    "runtime_min_free_bytes": 2147483648,
+    "single_method_call_wall_s": 30,
+    "term_grace_s": 3,
+    "watchdog_interval_s": 0.5,
+    "worker_rss_bytes": 2147483648,
+    "workers": 1
+  }
+}

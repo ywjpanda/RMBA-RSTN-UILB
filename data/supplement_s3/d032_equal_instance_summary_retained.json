@@ -1,0 +1,4866 @@
+{
+  "quantile": "nearest-rank ceil(.95*N), empty NA=null",
+  "weighting": "each instance equal within config/scenario; no pooled-slot quantile",
+  "groups": [
+    {
+      "config_id": "S4",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.1870221096100022,
+        "median": 1.191807791499997,
+        "p95": 1.728296666999995,
+        "max": 1.9706912080000052
+      },
+      "worker_peak_rss_bytes": 20578304,
+      "parent_peak_rss_bytes": 87785472,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8701,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 4379681.655332633,
+          "median": 4248996.064705882,
+          "p95": 5704967.862068965,
+          "max": 7345652.470588235
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 3273378.305,
+          "median": 3213687.5,
+          "p95": 4466500.0,
+          "max": 5419084
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 13309936.63,
+          "median": 13014250.5,
+          "p95": 17748125,
+          "max": 24762500
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 19041312.9,
+          "median": 17284771.0,
+          "p95": 29038833,
+          "max": 48718875
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 100008.39063396706,
+          "median": 98393.25925925926,
+          "p95": 120298.82558139534,
+          "max": 147999.95294117648
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 92439.335,
+          "median": 90968.5,
+          "p95": 111562.0,
+          "max": 131917
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 195335.76,
+          "median": 189666.5,
+          "p95": 269666,
+          "max": 323375
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 316462.93,
+          "median": 302229.5,
+          "p95": 431459,
+          "max": 611917
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 4479690.0459666,
+          "median": 4348930.5360644255,
+          "p95": 5811935.32183908,
+          "max": 7493652.423529412
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 3369497.12,
+          "median": 3308854.0,
+          "p95": 4573146.0,
+          "max": 5514376
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 13499107.1,
+          "median": 13221396.0,
+          "p95": 17934250,
+          "max": 24946167
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 19315733.77,
+          "median": 17572354.0,
+          "p95": 29208791,
+          "max": 49156834
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 4379681.655332633,
+          "median": 4248996.064705882,
+          "p95": 5704967.862068965,
+          "max": 7345652.470588235
+        },
+        "median": {
+          "count": 100,
+          "mean": 3273378.305,
+          "median": 3213687.5,
+          "p95": 4466500.0,
+          "max": 5419084
+        },
+        "p95": {
+          "count": 100,
+          "mean": 13309936.63,
+          "median": 13014250.5,
+          "p95": 17748125,
+          "max": 24762500
+        },
+        "max": {
+          "count": 100,
+          "mean": 19041312.9,
+          "median": 17284771.0,
+          "p95": 29038833,
+          "max": 48718875
+        }
+      }
+    },
+    {
+      "config_id": "S4",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.1911421112900014,
+        "median": 1.1838661249999944,
+        "p95": 1.8138079999999945,
+        "max": 1.9281605840000111
+      },
+      "worker_peak_rss_bytes": 19873792,
+      "parent_peak_rss_bytes": 87785472,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8223,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 3621491.0829053945,
+          "median": 3520697.1602602014,
+          "p95": 4778064.157894737,
+          "max": 5357619.642857143
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 1379309.305,
+          "median": 1332510.5,
+          "p95": 1957666,
+          "max": 2719083.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 13641931.24,
+          "median": 13492312.5,
+          "p95": 18716583,
+          "max": 22761416
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 18752511.34,
+          "median": 17215854.5,
+          "p95": 24343750,
+          "max": 64507292
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 94471.17708011476,
+          "median": 92890.42207792208,
+          "p95": 114494.898989899,
+          "max": 136913.7441860465
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 83735.185,
+          "median": 84822.75,
+          "p95": 105833.0,
+          "max": 121458.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 201665,
+          "median": 194812.5,
+          "p95": 271834,
+          "max": 374500
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 331810.84,
+          "median": 296250.0,
+          "p95": 509375,
+          "max": 1339250
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 3715962.2599855093,
+          "median": 3617221.321850976,
+          "p95": 4868775.197368421,
+          "max": 5489169.657142857
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 1471593.535,
+          "median": 1436656.5,
+          "p95": 2071999,
+          "max": 2908187.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 13846757.44,
+          "median": 13707958.5,
+          "p95": 18920041,
+          "max": 23022291
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 19028325.92,
+          "median": 17476437.5,
+          "p95": 24683084,
+          "max": 64962876
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 3621491.0829053945,
+          "median": 3520697.1602602014,
+          "p95": 4778064.157894737,
+          "max": 5357619.642857143
+        },
+        "median": {
+          "count": 100,
+          "mean": 1379309.305,
+          "median": 1332510.5,
+          "p95": 1957666,
+          "max": 2719083.5
+        },
+        "p95": {
+          "count": 100,
+          "mean": 13641931.24,
+          "median": 13492312.5,
+          "p95": 18716583,
+          "max": 22761416
+        },
+        "max": {
+          "count": 100,
+          "mean": 18752511.34,
+          "median": 17215854.5,
+          "p95": 24343750,
+          "max": 64507292
+        }
+      }
+    },
+    {
+      "config_id": "S4",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.1711605345700007,
+        "median": 1.1482830204999992,
+        "p95": 1.6270219999999966,
+        "max": 1.9268701669999473
+      },
+      "worker_peak_rss_bytes": 19939328,
+      "parent_peak_rss_bytes": 87785472,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8339,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 3661426.344122847,
+          "median": 3589163.4121557456,
+          "p95": 4788091.5394736845,
+          "max": 5323812.0625
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 1451382.535,
+          "median": 1370792.0,
+          "p95": 2135625,
+          "max": 2591375.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 13282790.4,
+          "median": 13188187.5,
+          "p95": 17515416,
+          "max": 22600792
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 18318841.68,
+          "median": 16961708.5,
+          "p95": 23815208,
+          "max": 39108416
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 96146.04581633117,
+          "median": 92517.38901601831,
+          "p95": 118139.47959183673,
+          "max": 168409.86046511628
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 83670.045,
+          "median": 83291.5,
+          "p95": 101687.0,
+          "max": 114000
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 197760.38,
+          "median": 191750.5,
+          "p95": 264667,
+          "max": 302666
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 419062.99,
+          "median": 302291.5,
+          "p95": 453291,
+          "max": 4389875
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 3757572.3899391782,
+          "median": 3673969.6758024693,
+          "p95": 4883044.355263158,
+          "max": 5430749.0625
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 1540115.285,
+          "median": 1460792.0,
+          "p95": 2239541.5,
+          "max": 2696896.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 13475221.24,
+          "median": 13368146.0,
+          "p95": 17785374,
+          "max": 22760917
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 18585437.93,
+          "median": 17241979.0,
+          "p95": 24111083,
+          "max": 39334291
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 3661426.344122847,
+          "median": 3589163.4121557456,
+          "p95": 4788091.5394736845,
+          "max": 5323812.0625
+        },
+        "median": {
+          "count": 100,
+          "mean": 1451382.535,
+          "median": 1370792.0,
+          "p95": 2135625,
+          "max": 2591375.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 13282790.4,
+          "median": 13188187.5,
+          "p95": 17515416,
+          "max": 22600792
+        },
+        "max": {
+          "count": 100,
+          "mean": 18318841.68,
+          "median": 16961708.5,
+          "p95": 23815208,
+          "max": 39108416
+        }
+      }
+    },
+    {
+      "config_id": "S8",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 7.945032221259957,
+        "median": 7.841648186999919,
+        "p95": 10.334902166999996,
+        "max": 12.91322716700006
+      },
+      "worker_peak_rss_bytes": 22773760,
+      "parent_peak_rss_bytes": 116326400,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 18463,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 38123895.78829083,
+          "median": 36857913.06596434,
+          "p95": 46608073.5862069,
+          "max": 58645795.43315508
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 30138729.345,
+          "median": 29795708.5,
+          "p95": 39158666,
+          "max": 45202916
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 109684656.68,
+          "median": 107601083.0,
+          "p95": 139188625,
+          "max": 171024041
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 156537784.53,
+          "median": 147801729.0,
+          "p95": 206907417,
+          "max": 267452084
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 200335.1234672628,
+          "median": 199670.68688239937,
+          "p95": 223396.66666666666,
+          "max": 236052.93370165746
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 192225.845,
+          "median": 191728.75,
+          "p95": 222000,
+          "max": 238312.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 362306.69,
+          "median": 356291.5,
+          "p95": 448167,
+          "max": 509209
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 848516.66,
+          "median": 588750.0,
+          "p95": 1734583,
+          "max": 9576084
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 38324230.911758095,
+          "median": 37059642.627911136,
+          "p95": 46830586.25287356,
+          "max": 58861961.171123
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 30333552.695,
+          "median": 29992156.5,
+          "p95": 39403000,
+          "max": 45367918
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 110054894.14,
+          "median": 107926916.0,
+          "p95": 139487708,
+          "max": 171461125
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 157031203.29,
+          "median": 148288250.0,
+          "p95": 207357750,
+          "max": 267848293
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 38123895.78829083,
+          "median": 36857913.06596434,
+          "p95": 46608073.5862069,
+          "max": 58645795.43315508
+        },
+        "median": {
+          "count": 100,
+          "mean": 30138729.345,
+          "median": 29795708.5,
+          "p95": 39158666,
+          "max": 45202916
+        },
+        "p95": {
+          "count": 100,
+          "mean": 109684656.68,
+          "median": 107601083.0,
+          "p95": 139188625,
+          "max": 171024041
+        },
+        "max": {
+          "count": 100,
+          "mean": 156537784.53,
+          "median": 147801729.0,
+          "p95": 206907417,
+          "max": 267452084
+        }
+      }
+    },
+    {
+      "config_id": "S8",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 6.278906363739988,
+        "median": 6.119185270500111,
+        "p95": 8.264901416999692,
+        "max": 11.220930457999657
+      },
+      "worker_peak_rss_bytes": 22462464,
+      "parent_peak_rss_bytes": 116326400,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 17851,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 30721750.296971593,
+          "median": 30228557.813515555,
+          "p95": 39166388.5,
+          "max": 49390723.29473684
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 13080119.835,
+          "median": 12832292.0,
+          "p95": 17539709,
+          "max": 20330708
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 110946750.39,
+          "median": 109563791.0,
+          "p95": 138005500,
+          "max": 168266750
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 154944261.68,
+          "median": 147403625.0,
+          "p95": 206020250,
+          "max": 258958792
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 189709.1994323606,
+          "median": 190202.2906976744,
+          "p95": 217353.53804347827,
+          "max": 240555.3
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 177269.605,
+          "median": 181260.5,
+          "p95": 209375,
+          "max": 221125
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 362048.37,
+          "median": 350687.5,
+          "p95": 457292,
+          "max": 520334
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 746097.57,
+          "median": 593834.0,
+          "p95": 1372250,
+          "max": 2977583
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 30911459.49640395,
+          "median": 30412388.1205074,
+          "p95": 39362720.62048193,
+          "max": 49598430.77894737
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 13268181.875,
+          "median": 13013323.25,
+          "p95": 17796626,
+          "max": 20589750
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 111311436.26,
+          "median": 109929728.5,
+          "p95": 138419083,
+          "max": 168563541
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 155459758,
+          "median": 147862896.0,
+          "p95": 206431167,
+          "max": 259330376
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 30721750.296971593,
+          "median": 30228557.813515555,
+          "p95": 39166388.5,
+          "max": 49390723.29473684
+        },
+        "median": {
+          "count": 100,
+          "mean": 13080119.835,
+          "median": 12832292.0,
+          "p95": 17539709,
+          "max": 20330708
+        },
+        "p95": {
+          "count": 100,
+          "mean": 110946750.39,
+          "median": 109563791.0,
+          "p95": 138005500,
+          "max": 168266750
+        },
+        "max": {
+          "count": 100,
+          "mean": 154944261.68,
+          "median": 147403625.0,
+          "p95": 206020250,
+          "max": 258958792
+        }
+      }
+    },
+    {
+      "config_id": "S8",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 6.545700093339992,
+        "median": 6.321943562999877,
+        "p95": 8.63305062500001,
+        "max": 11.218438542000058
+      },
+      "worker_peak_rss_bytes": 22364160,
+      "parent_peak_rss_bytes": 116326400,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 18199,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 31663142.82381465,
+          "median": 30972900.342841286,
+          "p95": 41982302.2037037,
+          "max": 50931998.046391755
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 14179474.825,
+          "median": 13607458.25,
+          "p95": 19065583.5,
+          "max": 23890437.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 110931086.71,
+          "median": 109056187.0,
+          "p95": 142960084,
+          "max": 199399667
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 160650316.2,
+          "median": 146325937.0,
+          "p95": 221238125,
+          "max": 357432459
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 192012.86995818318,
+          "median": 190719.26969520858,
+          "p95": 217027.06547619047,
+          "max": 299162.9009009009
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 178800.455,
+          "median": 179260.5,
+          "p95": 210020.5,
+          "max": 226875
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 358184.64,
+          "median": 350312.5,
+          "p95": 441542,
+          "max": 545375
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 823676.66,
+          "median": 592937.5,
+          "p95": 1517083,
+          "max": 11639750
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 31855155.693772834,
+          "median": 31170935.58063263,
+          "p95": 42194994.09876543,
+          "max": 51145950.59793814
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 14375061.26,
+          "median": 13798312.0,
+          "p95": 19322708.5,
+          "max": 24554290.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 111296206.32,
+          "median": 109410812.0,
+          "p95": 143422209,
+          "max": 199751542
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 161176422.86,
+          "median": 146674895.5,
+          "p95": 221599959,
+          "max": 357834959
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 31663142.82381465,
+          "median": 30972900.342841286,
+          "p95": 41982302.2037037,
+          "max": 50931998.046391755
+        },
+        "median": {
+          "count": 100,
+          "mean": 14179474.825,
+          "median": 13607458.25,
+          "p95": 19065583.5,
+          "max": 23890437.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 110931086.71,
+          "median": 109056187.0,
+          "p95": 142960084,
+          "max": 199399667
+        },
+        "max": {
+          "count": 100,
+          "mean": 160650316.2,
+          "median": 146325937.0,
+          "p95": 221238125,
+          "max": 357432459
+        }
+      }
+    },
+    {
+      "config_id": "K4",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.6178175191600166,
+        "median": 1.5386687914999584,
+        "p95": 2.463113292000344,
+        "max": 2.5996955840000737
+      },
+      "worker_peak_rss_bytes": 20905984,
+      "parent_peak_rss_bytes": 170016768,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 14108,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6904005.636327421,
+          "median": 6824298.161685561,
+          "p95": 8663964.882681563,
+          "max": 9576998.64864865
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 5164872.075,
+          "median": 5099031.5,
+          "p95": 7179166.0,
+          "max": 9221959
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19919327.02,
+          "median": 19624645.5,
+          "p95": 26127750,
+          "max": 30397458
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 32257260.87,
+          "median": 29929687.5,
+          "p95": 44745375,
+          "max": 63405458
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 101763.22203919866,
+          "median": 99604.27069334891,
+          "p95": 125126.0325203252,
+          "max": 159545.42222222223
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 95278.55,
+          "median": 94208.5,
+          "p95": 113250,
+          "max": 125208
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 174543.79,
+          "median": 170666.5,
+          "p95": 242333,
+          "max": 315417
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 483583.35,
+          "median": 311541.0,
+          "p95": 952917,
+          "max": 6669292
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 7005768.85836662,
+          "median": 6926650.734083362,
+          "p95": 8770035.195530726,
+          "max": 9696865.07027027
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 5272295.78,
+          "median": 5200530.75,
+          "p95": 7298874.0,
+          "max": 9328666
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 20086359.12,
+          "median": 19800229.5,
+          "p95": 26334083,
+          "max": 30717250
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 32531411.74,
+          "median": 30246812.0,
+          "p95": 44969792,
+          "max": 63692667
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 6904005.636327421,
+          "median": 6824298.161685561,
+          "p95": 8663964.882681563,
+          "max": 9576998.64864865
+        },
+        "median": {
+          "count": 100,
+          "mean": 5164872.075,
+          "median": 5099031.5,
+          "p95": 7179166.0,
+          "max": 9221959
+        },
+        "p95": {
+          "count": 100,
+          "mean": 19919327.02,
+          "median": 19624645.5,
+          "p95": 26127750,
+          "max": 30397458
+        },
+        "max": {
+          "count": 100,
+          "mean": 32257260.87,
+          "median": 29929687.5,
+          "p95": 44745375,
+          "max": 63405458
+        }
+      }
+    },
+    {
+      "config_id": "K4",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.5153609016500105,
+        "median": 1.4324263125001835,
+        "p95": 2.42671187499991,
+        "max": 2.765011958999821
+      },
+      "worker_peak_rss_bytes": 20496384,
+      "parent_peak_rss_bytes": 170147840,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 13616,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 5419881.674373094,
+          "median": 5291417.0073540285,
+          "p95": 6827320.900763359,
+          "max": 8338230.516129033
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2086627.945,
+          "median": 2054916.5,
+          "p95": 2861104.0,
+          "max": 3385729.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 20230854.98,
+          "median": 19769875.0,
+          "p95": 28500792,
+          "max": 32278291
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 32316764.53,
+          "median": 29792708.5,
+          "p95": 43278917,
+          "max": 66511083
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 91641.38771931156,
+          "median": 90696.79726439875,
+          "p95": 108990.0494296578,
+          "max": 141197.82442748093
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 83635.825,
+          "median": 83322.75,
+          "p95": 105167,
+          "max": 114708
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 170572.52,
+          "median": 167521.0,
+          "p95": 207750,
+          "max": 353041
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 346362.06,
+          "median": 305499.5,
+          "p95": 419000,
+          "max": 2105917
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 5511523.062092406,
+          "median": 5384559.2107744105,
+          "p95": 6927904.221374046,
+          "max": 8438678.451612903
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2177847.96,
+          "median": 2142354.0,
+          "p95": 2973979.0,
+          "max": 3510479.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 20391912.89,
+          "median": 19920687.5,
+          "p95": 28731334,
+          "max": 32523832
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 32592962.47,
+          "median": 30055917.5,
+          "p95": 43479376,
+          "max": 66708958
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 5419881.674373094,
+          "median": 5291417.0073540285,
+          "p95": 6827320.900763359,
+          "max": 8338230.516129033
+        },
+        "median": {
+          "count": 100,
+          "mean": 2086627.945,
+          "median": 2054916.5,
+          "p95": 2861104.0,
+          "max": 3385729.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 20230854.98,
+          "median": 19769875.0,
+          "p95": 28500792,
+          "max": 32278291
+        },
+        "max": {
+          "count": 100,
+          "mean": 32316764.53,
+          "median": 29792708.5,
+          "p95": 43278917,
+          "max": 66511083
+        }
+      }
+    },
+    {
+      "config_id": "K4",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.5425159733999771,
+        "median": 1.441764937500011,
+        "p95": 2.3154823749996467,
+        "max": 2.789220832999945
+      },
+      "worker_peak_rss_bytes": 20643840,
+      "parent_peak_rss_bytes": 170147840,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 13897,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 5641992.2413504375,
+          "median": 5567741.663329693,
+          "p95": 6873778.186046512,
+          "max": 10318588.444444444
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2460013.505,
+          "median": 2357791.5,
+          "p95": 3600583,
+          "max": 7431416.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 20358900.43,
+          "median": 19816062.5,
+          "p95": 27171708,
+          "max": 30593583
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 32367770.82,
+          "median": 29754333.5,
+          "p95": 43921000,
+          "max": 56862542
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 93827.87329690636,
+          "median": 92259.10375816993,
+          "p95": 120562.88,
+          "max": 143349.73888888888
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 84479.805,
+          "median": 83458.5,
+          "p95": 102792,
+          "max": 139270.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 171874.6,
+          "median": 161750.5,
+          "p95": 236375,
+          "max": 298458
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 476335.47,
+          "median": 302125.0,
+          "p95": 1301291,
+          "max": 4644250
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 5735820.114647344,
+          "median": 5666746.717267321,
+          "p95": 6977649.386740332,
+          "max": 10461938.183333334
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2550186.275,
+          "median": 2436729.0,
+          "p95": 3706125,
+          "max": 7569395.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 20526522.51,
+          "median": 19995729.0,
+          "p95": 27346750,
+          "max": 30773791
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 32649307.47,
+          "median": 30061437.0,
+          "p95": 44165666,
+          "max": 57041458
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 5641992.2413504375,
+          "median": 5567741.663329693,
+          "p95": 6873778.186046512,
+          "max": 10318588.444444444
+        },
+        "median": {
+          "count": 100,
+          "mean": 2460013.505,
+          "median": 2357791.5,
+          "p95": 3600583,
+          "max": 7431416.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 20358900.43,
+          "median": 19816062.5,
+          "p95": 27171708,
+          "max": 30593583
+        },
+        "max": {
+          "count": 100,
+          "mean": 32367770.82,
+          "median": 29754333.5,
+          "p95": 43921000,
+          "max": 56862542
+        }
+      }
+    },
+    {
+      "config_id": "K6",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.8992402307899874,
+        "median": 2.9100546879999456,
+        "p95": 3.729470209000283,
+        "max": 4.396059541999421
+      },
+      "worker_peak_rss_bytes": 21299200,
+      "parent_peak_rss_bytes": 198934528,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 19849,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 9580879.721092476,
+          "median": 9486228.532272626,
+          "p95": 11489611.06779661,
+          "max": 12992870.507389162
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 7231637.865,
+          "median": 7174979.0,
+          "p95": 9576625,
+          "max": 11081042
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 27652304.19,
+          "median": 26798542.0,
+          "p95": 37607792,
+          "max": 39367833
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 48624877.46,
+          "median": 44221541.5,
+          "p95": 67898542,
+          "max": 185847666
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 101688.99917670428,
+          "median": 101142.00535257359,
+          "p95": 116561.36021505376,
+          "max": 124379.02673796791
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 97185.61,
+          "median": 97177.0,
+          "p95": 112458.5,
+          "max": 121292
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 172417.42,
+          "median": 168396.0,
+          "p95": 222375,
+          "max": 242750
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 394542.51,
+          "median": 314146.0,
+          "p95": 725584,
+          "max": 2191417
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 9682568.72026918,
+          "median": 9596309.452295128,
+          "p95": 11597450.751412429,
+          "max": 13106738.536945812
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 7335406.185,
+          "median": 7262541.5,
+          "p95": 9707083,
+          "max": 11161792
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 27800781.7,
+          "median": 27014271.0,
+          "p95": 37751833,
+          "max": 39510916
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 48883225.38,
+          "median": 44460125.0,
+          "p95": 68038501,
+          "max": 186050541
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 9580879.721092476,
+          "median": 9486228.532272626,
+          "p95": 11489611.06779661,
+          "max": 12992870.507389162
+        },
+        "median": {
+          "count": 100,
+          "mean": 7231637.865,
+          "median": 7174979.0,
+          "p95": 9576625,
+          "max": 11081042
+        },
+        "p95": {
+          "count": 100,
+          "mean": 27652304.19,
+          "median": 26798542.0,
+          "p95": 37607792,
+          "max": 39367833
+        },
+        "max": {
+          "count": 100,
+          "mean": 48624877.46,
+          "median": 44221541.5,
+          "p95": 67898542,
+          "max": 185847666
+        }
+      }
+    },
+    {
+      "config_id": "K6",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.1805085287800057,
+        "median": 1.9865172290001283,
+        "p95": 3.1428785830003108,
+        "max": 3.6463112090000322
+      },
+      "worker_peak_rss_bytes": 20856832,
+      "parent_peak_rss_bytes": 198934528,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 19315,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 7282605.35300358,
+          "median": 7166598.643583946,
+          "p95": 9226876.005882353,
+          "max": 10124159.84939759
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2844804.57,
+          "median": 2788822.75,
+          "p95": 3803896.0,
+          "max": 4301250
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 27705400.84,
+          "median": 26663749.5,
+          "p95": 37984250,
+          "max": 39873792
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 46571995.77,
+          "median": 42956166.5,
+          "p95": 57504375,
+          "max": 138703541
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 95703.54807216684,
+          "median": 94698.61857695377,
+          "p95": 113814.73725490196,
+          "max": 146889.57627118644
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 88408.525,
+          "median": 88801.75,
+          "p95": 105375,
+          "max": 116000.0
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 174313.8,
+          "median": 169396.0,
+          "p95": 228958,
+          "max": 288917
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 455777.52,
+          "median": 324125.5,
+          "p95": 851584,
+          "max": 3425916
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 7378308.901075747,
+          "median": 7270997.326596947,
+          "p95": 9317966.729411764,
+          "max": 10238481.397590362
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2944808.02,
+          "median": 2897020.5,
+          "p95": 3919687.5,
+          "max": 4430666
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 27856003.34,
+          "median": 26844687.5,
+          "p95": 38129917,
+          "max": 40071376
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 46857236.57,
+          "median": 43180916.0,
+          "p95": 57657834,
+          "max": 140647166
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 7282605.35300358,
+          "median": 7166598.643583946,
+          "p95": 9226876.005882353,
+          "max": 10124159.84939759
+        },
+        "median": {
+          "count": 100,
+          "mean": 2844804.57,
+          "median": 2788822.75,
+          "p95": 3803896.0,
+          "max": 4301250
+        },
+        "p95": {
+          "count": 100,
+          "mean": 27705400.84,
+          "median": 26663749.5,
+          "p95": 37984250,
+          "max": 39873792
+        },
+        "max": {
+          "count": 100,
+          "mean": 46571995.77,
+          "median": 42956166.5,
+          "p95": 57504375,
+          "max": 138703541
+        }
+      }
+    },
+    {
+      "config_id": "K6",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.4507708383799898,
+        "median": 2.5010849375000817,
+        "p95": 3.780831749999379,
+        "max": 4.027291582999624
+      },
+      "worker_peak_rss_bytes": 21102592,
+      "parent_peak_rss_bytes": 198934528,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 19692,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 7663243.249983355,
+          "median": 7526013.266268553,
+          "p95": 9340962.33908046,
+          "max": 11490218.698412698
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 3623192.475,
+          "median": 3385792.0,
+          "p95": 5265833.5,
+          "max": 6108042
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 27321610.49,
+          "median": 26533395.5,
+          "p95": 36972000,
+          "max": 40454292
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 45179852.93,
+          "median": 43243500.0,
+          "p95": 55498791,
+          "max": 72649917
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 97484.11044049307,
+          "median": 95878.47271468486,
+          "p95": 121073.89068825911,
+          "max": 151822.51813471504
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 90228.28,
+          "median": 89687.75,
+          "p95": 106667,
+          "max": 120625
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 170039.99,
+          "median": 163875.0,
+          "p95": 213459,
+          "max": 268791
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 524690.37,
+          "median": 315146.0,
+          "p95": 1666250,
+          "max": 4083167
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 7760727.360423848,
+          "median": 7626106.287847866,
+          "p95": 9437388.034482758,
+          "max": 11601879.883597884
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 3726817.275,
+          "median": 3495448.25,
+          "p95": 5358229.5,
+          "max": 6209500
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 27467018.43,
+          "median": 26700542.0,
+          "p95": 37091459,
+          "max": 40783209
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 45447700.41,
+          "median": 43472208.0,
+          "p95": 55637416,
+          "max": 73067626
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 7663243.249983355,
+          "median": 7526013.266268553,
+          "p95": 9340962.33908046,
+          "max": 11490218.698412698
+        },
+        "median": {
+          "count": 100,
+          "mean": 3623192.475,
+          "median": 3385792.0,
+          "p95": 5265833.5,
+          "max": 6108042
+        },
+        "p95": {
+          "count": 100,
+          "mean": 27321610.49,
+          "median": 26533395.5,
+          "p95": 36972000,
+          "max": 40454292
+        },
+        "max": {
+          "count": 100,
+          "mean": 45179852.93,
+          "median": 43243500.0,
+          "p95": 55498791,
+          "max": 72649917
+        }
+      }
+    },
+    {
+      "config_id": "B35",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.8588911091999398,
+        "median": 1.789469396000186,
+        "p95": 2.6996047499997076,
+        "max": 2.9176745840004514
+      },
+      "worker_peak_rss_bytes": 20201472,
+      "parent_peak_rss_bytes": 215924736,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8661,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 3819265.1321037775,
+          "median": 3724275.15630263,
+          "p95": 4703816.388888889,
+          "max": 5454276.66
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2772981.245,
+          "median": 2707625.0,
+          "p95": 3618500.0,
+          "max": 4682729.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 11664285.8,
+          "median": 11323187.5,
+          "p95": 15477208,
+          "max": 17494000
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 18358182.14,
+          "median": 16790395.5,
+          "p95": 29366542,
+          "max": 50577583
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 95211.75402632928,
+          "median": 91567.64567901235,
+          "p95": 125417.6705882353,
+          "max": 210828.74
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 83669.0,
+          "median": 84635.75,
+          "p95": 102854.5,
+          "max": 112854.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 192250.85,
+          "median": 177500.0,
+          "p95": 277875,
+          "max": 354792
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 427131.69,
+          "median": 301729.5,
+          "p95": 915166,
+          "max": 4219083
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 3914476.8861301066,
+          "median": 3814260.6267651254,
+          "p95": 4836581.759259259,
+          "max": 5665105.4
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2862522.725,
+          "median": 2783062.25,
+          "p95": 3732041.5,
+          "max": 4777791.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 11876117.89,
+          "median": 11481584.0,
+          "p95": 15655625,
+          "max": 17724250
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 18645615.46,
+          "median": 17004375.5,
+          "p95": 29680042,
+          "max": 50830875
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 3819265.1321037775,
+          "median": 3724275.15630263,
+          "p95": 4703816.388888889,
+          "max": 5454276.66
+        },
+        "median": {
+          "count": 100,
+          "mean": 2772981.245,
+          "median": 2707625.0,
+          "p95": 3618500.0,
+          "max": 4682729.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 11664285.8,
+          "median": 11323187.5,
+          "p95": 15477208,
+          "max": 17494000
+        },
+        "max": {
+          "count": 100,
+          "mean": 18358182.14,
+          "median": 16790395.5,
+          "p95": 29366542,
+          "max": 50577583
+        }
+      }
+    },
+    {
+      "config_id": "B35",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.8549287104099403,
+        "median": 1.780984271500074,
+        "p95": 2.678855416999795,
+        "max": 2.8066730830005326
+      },
+      "worker_peak_rss_bytes": 20234240,
+      "parent_peak_rss_bytes": 215924736,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8379,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 3095691.8504071604,
+          "median": 3050808.4929434014,
+          "p95": 3953793.7108433736,
+          "max": 4398921.2465753425
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 1267854.785,
+          "median": 1241354.0,
+          "p95": 1631500,
+          "max": 2675458
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 11572123.4,
+          "median": 11341104.0,
+          "p95": 15985750,
+          "max": 18214042
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 17337263.34,
+          "median": 16528062.5,
+          "p95": 23791250,
+          "max": 31384125
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 87301.860466965,
+          "median": 84787.17032967033,
+          "p95": 104088.89552238806,
+          "max": 159974.18181818182
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 76655.015,
+          "median": 74812.75,
+          "p95": 92083,
+          "max": 110395.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 185019.6,
+          "median": 176771.0,
+          "p95": 243750,
+          "max": 528667
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 331887.96,
+          "median": 295042.0,
+          "p95": 460958,
+          "max": 1537417
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 3182993.7108741254,
+          "median": 3132746.613633057,
+          "p95": 4044920.698795181,
+          "max": 4502948.657534246
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 1352511.3,
+          "median": 1324635.25,
+          "p95": 1709125.0,
+          "max": 2755999
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 11744608.8,
+          "median": 11521729.0,
+          "p95": 16166750,
+          "max": 18450500
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 17633820.03,
+          "median": 16845770.5,
+          "p95": 24129375,
+          "max": 31635834
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 3095691.8504071604,
+          "median": 3050808.4929434014,
+          "p95": 3953793.7108433736,
+          "max": 4398921.2465753425
+        },
+        "median": {
+          "count": 100,
+          "mean": 1267854.785,
+          "median": 1241354.0,
+          "p95": 1631500,
+          "max": 2675458
+        },
+        "p95": {
+          "count": 100,
+          "mean": 11572123.4,
+          "median": 11341104.0,
+          "p95": 15985750,
+          "max": 18214042
+        },
+        "max": {
+          "count": 100,
+          "mean": 17337263.34,
+          "median": 16528062.5,
+          "p95": 23791250,
+          "max": 31384125
+        }
+      }
+    },
+    {
+      "config_id": "B35",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.8744815267200738,
+        "median": 1.7877554794999924,
+        "p95": 2.632368249999672,
+        "max": 3.113883791999797
+      },
+      "worker_peak_rss_bytes": 20086784,
+      "parent_peak_rss_bytes": 216252416,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8478,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 3202853.1641068966,
+          "median": 3180271.0248032846,
+          "p95": 3933855.414414414,
+          "max": 4603111.927710843
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 1340158.885,
+          "median": 1298489.25,
+          "p95": 1921208,
+          "max": 2707083
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 11698104.58,
+          "median": 11356750.5,
+          "p95": 15782416,
+          "max": 18262208
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 17767603.73,
+          "median": 16495313.0,
+          "p95": 25762750,
+          "max": 31501250
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 92451.45941279198,
+          "median": 88315.75105633802,
+          "p95": 106337.38028169014,
+          "max": 361417.12903225806
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 77890.2,
+          "median": 75812.5,
+          "p95": 97125,
+          "max": 109375
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 185348.33,
+          "median": 173291.5,
+          "p95": 255958,
+          "max": 358792
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 603120.81,
+          "median": 302208.5,
+          "p95": 500667,
+          "max": 26365584
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 3295304.6235196884,
+          "median": 3276854.449935998,
+          "p95": 4032767.990990991,
+          "max": 4730055.21686747
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 1427017.91,
+          "median": 1390771.0,
+          "p95": 2040250.0,
+          "max": 2790875
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 11880518.36,
+          "median": 11508376.0,
+          "p95": 16045791,
+          "max": 18529125
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 18315712.82,
+          "median": 16809563.0,
+          "p95": 26069458,
+          "max": 52128334
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 3202853.1641068966,
+          "median": 3180271.0248032846,
+          "p95": 3933855.414414414,
+          "max": 4603111.927710843
+        },
+        "median": {
+          "count": 100,
+          "mean": 1340158.885,
+          "median": 1298489.25,
+          "p95": 1921208,
+          "max": 2707083
+        },
+        "p95": {
+          "count": 100,
+          "mean": 11698104.58,
+          "median": 11356750.5,
+          "p95": 15782416,
+          "max": 18262208
+        },
+        "max": {
+          "count": 100,
+          "mean": 17767603.73,
+          "median": 16495313.0,
+          "p95": 25762750,
+          "max": 31501250
+        }
+      }
+    },
+    {
+      "config_id": "B60",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.9799353307699585,
+        "median": 1.8724357494998003,
+        "p95": 2.773227957999552,
+        "max": 3.552109749999545
+      },
+      "worker_peak_rss_bytes": 20676608,
+      "parent_peak_rss_bytes": 239878144,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8704,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 7768505.927022037,
+          "median": 7495266.072257385,
+          "p95": 10131488.666666666,
+          "max": 13319822.326530613
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 6621983.93,
+          "median": 6402218.75,
+          "p95": 9944792,
+          "max": 13407375.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19935328.3,
+          "median": 19543104.0,
+          "p95": 25679834,
+          "max": 30140875
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 26369198.75,
+          "median": 22635729.0,
+          "p95": 40607375,
+          "max": 192795375
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 150028.6883838238,
+          "median": 146254.68590785906,
+          "p95": 195077.9534883721,
+          "max": 304030.011627907
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 146666.21,
+          "median": 145281.5,
+          "p95": 180208.5,
+          "max": 211833
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 269555.01,
+          "median": 267292.0,
+          "p95": 319542,
+          "max": 434209
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 523331.22,
+          "median": 318187.5,
+          "p95": 951958,
+          "max": 12365500
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 7918534.615405861,
+          "median": 7652086.077043288,
+          "p95": 10331002.552083334,
+          "max": 13508799.418367347
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 6773679.935,
+          "median": 6565135.0,
+          "p95": 10123209,
+          "max": 13630562.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 20181361.66,
+          "median": 19774083.5,
+          "p95": 25929917,
+          "max": 30399542
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 26636575.83,
+          "median": 22943103.5,
+          "p95": 40922208,
+          "max": 193013000
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 7768505.927022037,
+          "median": 7495266.072257385,
+          "p95": 10131488.666666666,
+          "max": 13319822.326530613
+        },
+        "median": {
+          "count": 100,
+          "mean": 6621983.93,
+          "median": 6402218.75,
+          "p95": 9944792,
+          "max": 13407375.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 19935328.3,
+          "median": 19543104.0,
+          "p95": 25679834,
+          "max": 30140875
+        },
+        "max": {
+          "count": 100,
+          "mean": 26369198.75,
+          "median": 22635729.0,
+          "p95": 40607375,
+          "max": 192795375
+        }
+      }
+    },
+    {
+      "config_id": "B60",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.9483807621900087,
+        "median": 1.850812875000429,
+        "p95": 2.7580305829997087,
+        "max": 3.6484857499999634
+      },
+      "worker_peak_rss_bytes": 20201472,
+      "parent_peak_rss_bytes": 239878144,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8053,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6315527.729669283,
+          "median": 6364294.3272386305,
+          "p95": 7732627.530120482,
+          "max": 8745563.701923076
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2779486.43,
+          "median": 2648417.0,
+          "p95": 3933791,
+          "max": 5047562.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 19893073.3,
+          "median": 19810979.0,
+          "p95": 24240292,
+          "max": 28844333
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 24124781.13,
+          "median": 22652771.0,
+          "p95": 33473167,
+          "max": 79100041
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 145477.06705214933,
+          "median": 145878.08981380065,
+          "p95": 168154.74025974027,
+          "max": 274398.3466666667
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 140157.075,
+          "median": 142302.25,
+          "p95": 169312.5,
+          "max": 177437.0
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 272955.36,
+          "median": 273021.0,
+          "p95": 310500,
+          "max": 366333
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 407693.33,
+          "median": 314645.5,
+          "p95": 576875,
+          "max": 5843125
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6461004.796721432,
+          "median": 6537327.678518519,
+          "p95": 7878458.891566265,
+          "max": 8921643.067307692
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2930558.315,
+          "median": 2793229.0,
+          "p95": 4138999,
+          "max": 5245250.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 20150642.47,
+          "median": 20098062.5,
+          "p95": 24530542,
+          "max": 29051833
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 24398715.27,
+          "median": 22925333.5,
+          "p95": 33736709,
+          "max": 79400083
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 6315527.729669283,
+          "median": 6364294.3272386305,
+          "p95": 7732627.530120482,
+          "max": 8745563.701923076
+        },
+        "median": {
+          "count": 100,
+          "mean": 2779486.43,
+          "median": 2648417.0,
+          "p95": 3933791,
+          "max": 5047562.5
+        },
+        "p95": {
+          "count": 100,
+          "mean": 19893073.3,
+          "median": 19810979.0,
+          "p95": 24240292,
+          "max": 28844333
+        },
+        "max": {
+          "count": 100,
+          "mean": 24124781.13,
+          "median": 22652771.0,
+          "p95": 33473167,
+          "max": 79100041
+        }
+      }
+    },
+    {
+      "config_id": "B60",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 1.9227570250199733,
+        "median": 1.858977146000143,
+        "p95": 2.5766443330003312,
+        "max": 2.999252915999932
+      },
+      "worker_peak_rss_bytes": 20987904,
+      "parent_peak_rss_bytes": 239878144,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8384,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6292303.483312833,
+          "median": 6262979.726449275,
+          "p95": 7816025.693181818,
+          "max": 9393357.03
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2716388.975,
+          "median": 2623031.0,
+          "p95": 3832708,
+          "max": 4673125
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 20011919.55,
+          "median": 19411229.0,
+          "p95": 26912917,
+          "max": 32335500
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 24851741.68,
+          "median": 22452979.0,
+          "p95": 38614917,
+          "max": 90319458
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 142422.38126018777,
+          "median": 141795.04647696478,
+          "p95": 172563.02380952382,
+          "max": 194379.90588235293
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 138088.34,
+          "median": 137739.75,
+          "p95": 169312.0,
+          "max": 188042
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 269067.91,
+          "median": 261791.5,
+          "p95": 306833,
+          "max": 490667
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 380722.53,
+          "median": 319125.5,
+          "p95": 629875,
+          "max": 1647583
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6434725.8645730205,
+          "median": 6416211.007505176,
+          "p95": 7990238.238636363,
+          "max": 9563352.03
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2857737.82,
+          "median": 2754937.25,
+          "p95": 3973167,
+          "max": 4859750
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 20264749.64,
+          "median": 19664979.5,
+          "p95": 27178333,
+          "max": 32876291
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 25135522.95,
+          "median": 22745791.5,
+          "p95": 38902334,
+          "max": 90733374
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 6292303.483312833,
+          "median": 6262979.726449275,
+          "p95": 7816025.693181818,
+          "max": 9393357.03
+        },
+        "median": {
+          "count": 100,
+          "mean": 2716388.975,
+          "median": 2623031.0,
+          "p95": 3832708,
+          "max": 4673125
+        },
+        "p95": {
+          "count": 100,
+          "mean": 20011919.55,
+          "median": 19411229.0,
+          "p95": 26912917,
+          "max": 32335500
+        },
+        "max": {
+          "count": 100,
+          "mean": 24851741.68,
+          "median": 22452979.0,
+          "p95": 38614917,
+          "max": 90319458
+        }
+      }
+    },
+    {
+      "config_id": "IO_LOW",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.2227202933200076,
+        "median": 2.1466133539997827,
+        "p95": 3.0586954170003082,
+        "max": 3.5912548750002316
+      },
+      "worker_peak_rss_bytes": 21610496,
+      "parent_peak_rss_bytes": 268042240,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 9223,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 13547392.995103532,
+          "median": 13531846.61981383,
+          "p95": 16843779.71264368,
+          "max": 20529943.75
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 12672077.635,
+          "median": 12445666.5,
+          "p95": 17384083.5,
+          "max": 22709625.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 30142794.55,
+          "median": 29700146.0,
+          "p95": 36943041,
+          "max": 47296208
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 36353222.1,
+          "median": 33861541.5,
+          "p95": 52052541,
+          "max": 87761375
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 211719.74725314538,
+          "median": 206356.012157869,
+          "p95": 253319,
+          "max": 442106.7604166667
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 230054.605,
+          "median": 233468.75,
+          "p95": 266042,
+          "max": 281312.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 324992.12,
+          "median": 307646.0,
+          "p95": 477542,
+          "max": 535916
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 805617.43,
+          "median": 373521.0,
+          "p95": 1347667,
+          "max": 21738958
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 13759112.742356678,
+          "median": 13745414.835904256,
+          "p95": 17073821.862068966,
+          "max": 20803456.527777776
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 12925835.94,
+          "median": 12709541.5,
+          "p95": 17796229.0,
+          "max": 22988125.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 30439018.75,
+          "median": 30001980.0,
+          "p95": 37265291,
+          "max": 47590583
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 36724432.87,
+          "median": 34150812.5,
+          "p95": 52360874,
+          "max": 93122167
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 13547392.995103532,
+          "median": 13531846.61981383,
+          "p95": 16843779.71264368,
+          "max": 20529943.75
+        },
+        "median": {
+          "count": 100,
+          "mean": 12672077.635,
+          "median": 12445666.5,
+          "p95": 17384083.5,
+          "max": 22709625.5
+        },
+        "p95": {
+          "count": 100,
+          "mean": 30142794.55,
+          "median": 29700146.0,
+          "p95": 36943041,
+          "max": 47296208
+        },
+        "max": {
+          "count": 100,
+          "mean": 36353222.1,
+          "median": 33861541.5,
+          "p95": 52052541,
+          "max": 87761375
+        }
+      }
+    },
+    {
+      "config_id": "IO_LOW",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.147708459599953,
+        "median": 2.037108229000296,
+        "p95": 2.9698582920000263,
+        "max": 3.255971416999273
+      },
+      "worker_peak_rss_bytes": 21069824,
+      "parent_peak_rss_bytes": 268042240,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8469,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 10586338.50549776,
+          "median": 10485685.49360858,
+          "p95": 12736833.819277108,
+          "max": 15252838.449438203
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 4858637.69,
+          "median": 4717542.0,
+          "p95": 6394833,
+          "max": 7680291.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 30040140.9,
+          "median": 29902208.5,
+          "p95": 36972792,
+          "max": 47590167
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 35413082.06,
+          "median": 33571521.0,
+          "p95": 47118625,
+          "max": 79432750
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 202778.88849283825,
+          "median": 200167.4836697505,
+          "p95": 242743.4606741573,
+          "max": 276395.0449438202
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 222126.62,
+          "median": 223562.25,
+          "p95": 262916,
+          "max": 271917
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 321853.8,
+          "median": 303250.0,
+          "p95": 490084,
+          "max": 606334
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 458483.38,
+          "median": 348875.0,
+          "p95": 1087125,
+          "max": 2527750
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 10789117.393990599,
+          "median": 10677484.254628269,
+          "p95": 12954088.556962024,
+          "max": 15495581.910112359
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 5094927.5,
+          "median": 4941271.5,
+          "p95": 6676625,
+          "max": 7972104.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 30347784.67,
+          "median": 30199583.0,
+          "p95": 37283750,
+          "max": 47896667
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 35708852.48,
+          "median": 33857979.5,
+          "p95": 47365125,
+          "max": 79972208
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 10586338.50549776,
+          "median": 10485685.49360858,
+          "p95": 12736833.819277108,
+          "max": 15252838.449438203
+        },
+        "median": {
+          "count": 100,
+          "mean": 4858637.69,
+          "median": 4717542.0,
+          "p95": 6394833,
+          "max": 7680291.5
+        },
+        "p95": {
+          "count": 100,
+          "mean": 30040140.9,
+          "median": 29902208.5,
+          "p95": 36972792,
+          "max": 47590167
+        },
+        "max": {
+          "count": 100,
+          "mean": 35413082.06,
+          "median": 33571521.0,
+          "p95": 47118625,
+          "max": 79432750
+        }
+      }
+    },
+    {
+      "config_id": "IO_LOW",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.2048992270299914,
+        "median": 2.1267011250001815,
+        "p95": 3.0566954999994778,
+        "max": 3.1719249999996464
+      },
+      "worker_peak_rss_bytes": 20889600,
+      "parent_peak_rss_bytes": 268042240,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8749,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 10625217.317457344,
+          "median": 10643664.92962185,
+          "p95": 12956149.06185567,
+          "max": 14178186.8
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 5006975.03,
+          "median": 4864666.5,
+          "p95": 6856167,
+          "max": 7535459
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 29650177.5,
+          "median": 29445521.0,
+          "p95": 35949292,
+          "max": 39168917
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 35312303.77,
+          "median": 33525396.0,
+          "p95": 44379541,
+          "max": 112245250
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 199203.9933876901,
+          "median": 197500.35121457488,
+          "p95": 237596.87209302327,
+          "max": 265718.6
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 217783.795,
+          "median": 213760.5,
+          "p95": 255375,
+          "max": 273667
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 315956.26,
+          "median": 304750.0,
+          "p95": 399542,
+          "max": 510375
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 502522.45,
+          "median": 347396.0,
+          "p95": 1298375,
+          "max": 3185125
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 10824421.310845034,
+          "median": 10852117.431313537,
+          "p95": 13203867.903225806,
+          "max": 14443905.4
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 5227364.6,
+          "median": 5072062.25,
+          "p95": 7131375,
+          "max": 7800668
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 29936656.22,
+          "median": 29772791.5,
+          "p95": 36200958,
+          "max": 39454792
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 35604552.06,
+          "median": 33823000.0,
+          "p95": 44671916,
+          "max": 112613750
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 10625217.317457344,
+          "median": 10643664.92962185,
+          "p95": 12956149.06185567,
+          "max": 14178186.8
+        },
+        "median": {
+          "count": 100,
+          "mean": 5006975.03,
+          "median": 4864666.5,
+          "p95": 6856167,
+          "max": 7535459
+        },
+        "p95": {
+          "count": 100,
+          "mean": 29650177.5,
+          "median": 29445521.0,
+          "p95": 35949292,
+          "max": 39168917
+        },
+        "max": {
+          "count": 100,
+          "mean": 35312303.77,
+          "median": 33525396.0,
+          "p95": 44379541,
+          "max": 112245250
+        }
+      }
+    },
+    {
+      "config_id": "IO_HIGH",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.371400734560075,
+        "median": 2.187073687499378,
+        "p95": 3.412155124999117,
+        "max": 4.382792624999638
+      },
+      "worker_peak_rss_bytes": 19841024,
+      "parent_peak_rss_bytes": 288096256,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 6989,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 2991711.356863418,
+          "median": 2884819.7191897654,
+          "p95": 3566172.5362318843,
+          "max": 5100254.48
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2257529.835,
+          "median": 2193479.0,
+          "p95": 2716250,
+          "max": 4081916.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 9230412.13,
+          "median": 8782562.0,
+          "p95": 12080000,
+          "max": 16804834
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 17601592.08,
+          "median": 15992104.0,
+          "p95": 22202000,
+          "max": 100862875
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 87954.59804628872,
+          "median": 83250.62979414951,
+          "p95": 114226.39130434782,
+          "max": 186298.8142857143
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 74833.315,
+          "median": 71197.5,
+          "p95": 92271.0,
+          "max": 125000.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 194644.98,
+          "median": 185271.0,
+          "p95": 274542,
+          "max": 594125
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 352797.1,
+          "median": 302729.5,
+          "p95": 629625,
+          "max": 1647375
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 3079665.954909707,
+          "median": 2961518.4317697226,
+          "p95": 3682421.184615385,
+          "max": 5196777.293333333
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2334979.785,
+          "median": 2258427.0,
+          "p95": 2807667,
+          "max": 4192895.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 9412990.05,
+          "median": 8945686.5,
+          "p95": 12355625,
+          "max": 17097209
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 17903667.92,
+          "median": 16277124.0,
+          "p95": 22566624,
+          "max": 101203375
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 2991711.356863418,
+          "median": 2884819.7191897654,
+          "p95": 3566172.5362318843,
+          "max": 5100254.48
+        },
+        "median": {
+          "count": 100,
+          "mean": 2257529.835,
+          "median": 2193479.0,
+          "p95": 2716250,
+          "max": 4081916.5
+        },
+        "p95": {
+          "count": 100,
+          "mean": 9230412.13,
+          "median": 8782562.0,
+          "p95": 12080000,
+          "max": 16804834
+        },
+        "max": {
+          "count": 100,
+          "mean": 17601592.08,
+          "median": 15992104.0,
+          "p95": 22202000,
+          "max": 100862875
+        }
+      }
+    },
+    {
+      "config_id": "IO_HIGH",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.3606788775300265,
+        "median": 2.201682728999913,
+        "p95": 3.333303415998671,
+        "max": 3.7792951659994287
+      },
+      "worker_peak_rss_bytes": 20299776,
+      "parent_peak_rss_bytes": 288096256,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 6799,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 2677811.650469859,
+          "median": 2591453.989346591,
+          "p95": 3323101.1470588236,
+          "max": 5209155.5625
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 1238009.655,
+          "median": 1160802.0,
+          "p95": 1871208,
+          "max": 2563604.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 9340884.62,
+          "median": 8924125.0,
+          "p95": 12806500,
+          "max": 21127041
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 16973164.55,
+          "median": 16131062.5,
+          "p95": 21315666,
+          "max": 34310666
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 88549.93297837512,
+          "median": 84333.87223557691,
+          "p95": 112340.10294117648,
+          "max": 249567.36764705883
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 73706.23,
+          "median": 71770.5,
+          "p95": 89875,
+          "max": 101833.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 194429.16,
+          "median": 185042.0,
+          "p95": 274209,
+          "max": 583583
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 461366.17,
+          "median": 299083.0,
+          "p95": 533042,
+          "max": 11657042
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 2766361.5834482345,
+          "median": 2683069.71113307,
+          "p95": 3435441.25,
+          "max": 5336701.78125
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 1332550.845,
+          "median": 1253426.75,
+          "p95": 2012417,
+          "max": 2696458.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 9527568.36,
+          "median": 9110958.5,
+          "p95": 13621917,
+          "max": 21444999
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 17269661.97,
+          "median": 16418521.0,
+          "p95": 21627832,
+          "max": 34451249
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 2677811.650469859,
+          "median": 2591453.989346591,
+          "p95": 3323101.1470588236,
+          "max": 5209155.5625
+        },
+        "median": {
+          "count": 100,
+          "mean": 1238009.655,
+          "median": 1160802.0,
+          "p95": 1871208,
+          "max": 2563604.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 9340884.62,
+          "median": 8924125.0,
+          "p95": 12806500,
+          "max": 21127041
+        },
+        "max": {
+          "count": 100,
+          "mean": 16973164.55,
+          "median": 16131062.5,
+          "p95": 21315666,
+          "max": 34310666
+        }
+      }
+    },
+    {
+      "config_id": "IO_HIGH",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.491528293730007,
+        "median": 2.3285078335002254,
+        "p95": 3.2800224160000653,
+        "max": 3.559608749999825
+      },
+      "worker_peak_rss_bytes": 20267008,
+      "parent_peak_rss_bytes": 288309248,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 6852,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 2666394.8865546803,
+          "median": 2591525.5503565064,
+          "p95": 3200249.4393939395,
+          "max": 4034859.8181818184
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 1210947.735,
+          "median": 1104167.0,
+          "p95": 1933875,
+          "max": 2057584
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 9394926.27,
+          "median": 8921417.0,
+          "p95": 12835083,
+          "max": 15129542
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 16921052.1,
+          "median": 16147041.5,
+          "p95": 21983375,
+          "max": 30945000
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 87624.72370529873,
+          "median": 82131.87129735935,
+          "p95": 124291.11267605633,
+          "max": 152001.29230769232
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 73679.39,
+          "median": 70979.0,
+          "p95": 91291.5,
+          "max": 112312.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 194019.65,
+          "median": 179479.5,
+          "p95": 310417,
+          "max": 415917
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 392881.24,
+          "median": 300458.0,
+          "p95": 691417,
+          "max": 2507625
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 2754019.610259979,
+          "median": 2672708.029411765,
+          "p95": 3300554.4242424243,
+          "max": 4168552.4545454546
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 1306777.345,
+          "median": 1192927.25,
+          "p95": 2077458,
+          "max": 2290500
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 9586625.06,
+          "median": 9082125.5,
+          "p95": 13165749,
+          "max": 15402167
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 17236054.58,
+          "median": 16445271.0,
+          "p95": 22442959,
+          "max": 31187417
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 2666394.8865546803,
+          "median": 2591525.5503565064,
+          "p95": 3200249.4393939395,
+          "max": 4034859.8181818184
+        },
+        "median": {
+          "count": 100,
+          "mean": 1210947.735,
+          "median": 1104167.0,
+          "p95": 1933875,
+          "max": 2057584
+        },
+        "p95": {
+          "count": 100,
+          "mean": 9394926.27,
+          "median": 8921417.0,
+          "p95": 12835083,
+          "max": 15129542
+        },
+        "max": {
+          "count": 100,
+          "mean": 16921052.1,
+          "median": 16147041.5,
+          "p95": 21983375,
+          "max": 30945000
+        }
+      }
+    },
+    {
+      "config_id": "L16",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.9790949446100967,
+        "median": 2.7970830835001834,
+        "p95": 3.9218302499994024,
+        "max": 4.54317383399939
+      },
+      "worker_peak_rss_bytes": 20627456,
+      "parent_peak_rss_bytes": 359497728,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 9403,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 11721398.725009343,
+          "median": 11489089.605195817,
+          "p95": 15044745.808988765,
+          "max": 16246867.300970873
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 10466817.93,
+          "median": 10211854.5,
+          "p95": 14911521.0,
+          "max": 17632709
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 27969207.04,
+          "median": 27081458.5,
+          "p95": 36979750,
+          "max": 40272000
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 34086405.4,
+          "median": 31865770.5,
+          "p95": 46039416,
+          "max": 90759792
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 156218.07896969016,
+          "median": 153897.69623595505,
+          "p95": 189238.016,
+          "max": 215905.47524752477
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 158465.19,
+          "median": 159125.0,
+          "p95": 191417,
+          "max": 202416
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 267752.49,
+          "median": 262708.0,
+          "p95": 342459,
+          "max": 527375
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 404421.29,
+          "median": 326854.5,
+          "p95": 832375,
+          "max": 1144083
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 11877616.803979034,
+          "median": 11648264.810080107,
+          "p95": 15235396,
+          "max": 16442050.495145632
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 10636045.865,
+          "median": 10393886.0,
+          "p95": 15095958.0,
+          "max": 17832417
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 28211279.56,
+          "median": 27362541.5,
+          "p95": 37255250,
+          "max": 40514417
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 34347880.3,
+          "median": 32116895.0,
+          "p95": 46263041,
+          "max": 91010334
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 11721398.725009343,
+          "median": 11489089.605195817,
+          "p95": 15044745.808988765,
+          "max": 16246867.300970873
+        },
+        "median": {
+          "count": 100,
+          "mean": 10466817.93,
+          "median": 10211854.5,
+          "p95": 14911521.0,
+          "max": 17632709
+        },
+        "p95": {
+          "count": 100,
+          "mean": 27969207.04,
+          "median": 27081458.5,
+          "p95": 36979750,
+          "max": 40272000
+        },
+        "max": {
+          "count": 100,
+          "mean": 34086405.4,
+          "median": 31865770.5,
+          "p95": 46039416,
+          "max": 90759792
+        }
+      }
+    },
+    {
+      "config_id": "L16",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.9414175850001083,
+        "median": 2.830503082999712,
+        "p95": 3.788422540999818,
+        "max": 4.1819311670005845
+      },
+      "worker_peak_rss_bytes": 20692992,
+      "parent_peak_rss_bytes": 359497728,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8888,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 9375378.449292101,
+          "median": 9118775.519051205,
+          "p95": 12165877.709677419,
+          "max": 14527305.297029704
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 4563883.085,
+          "median": 4598416.5,
+          "p95": 6498167,
+          "max": 7601459
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 27969332.95,
+          "median": 27336895.5,
+          "p95": 38227667,
+          "max": 43656209
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 33780343.4,
+          "median": 31119042.0,
+          "p95": 49532375,
+          "max": 66667000
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 152256.276303273,
+          "median": 148699.81282778172,
+          "p95": 190179.572815534,
+          "max": 268314.702970297
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 153394.81,
+          "median": 152229.5,
+          "p95": 195667,
+          "max": 213125.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 264536.64,
+          "median": 258458.5,
+          "p95": 362125,
+          "max": 526541
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 450021.22,
+          "median": 321979.0,
+          "p95": 645042,
+          "max": 6663625
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 9527634.725595374,
+          "median": 9279746.92673193,
+          "p95": 12329088.225806452,
+          "max": 14795620
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 4722302.035,
+          "median": 4769812.5,
+          "p95": 6653626,
+          "max": 7794668
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 28213705.44,
+          "median": 27538437.0,
+          "p95": 38441292,
+          "max": 43929084
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 34043218.4,
+          "median": 31349438.0,
+          "p95": 49779750,
+          "max": 66890291
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 9375378.449292101,
+          "median": 9118775.519051205,
+          "p95": 12165877.709677419,
+          "max": 14527305.297029704
+        },
+        "median": {
+          "count": 100,
+          "mean": 4563883.085,
+          "median": 4598416.5,
+          "p95": 6498167,
+          "max": 7601459
+        },
+        "p95": {
+          "count": 100,
+          "mean": 27969332.95,
+          "median": 27336895.5,
+          "p95": 38227667,
+          "max": 43656209
+        },
+        "max": {
+          "count": 100,
+          "mean": 33780343.4,
+          "median": 31119042.0,
+          "p95": 49532375,
+          "max": 66667000
+        }
+      }
+    },
+    {
+      "config_id": "L16",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 2.948379388770063,
+        "median": 2.877181271500376,
+        "p95": 3.651812374999281,
+        "max": 3.902861167000083
+      },
+      "worker_peak_rss_bytes": 20807680,
+      "parent_peak_rss_bytes": 359497728,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 9098,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 9590267.895737084,
+          "median": 9413523.383403657,
+          "p95": 12501747.79787234,
+          "max": 13850656.191919193
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 4829157.46,
+          "median": 4584239.5,
+          "p95": 7633896.0,
+          "max": 8694875.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 27898688.72,
+          "median": 27537917.0,
+          "p95": 35584250,
+          "max": 39451833
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 34603148.36,
+          "median": 32429312.5,
+          "p95": 48009750,
+          "max": 77498417
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 151212.89774887016,
+          "median": 149751.54484404484,
+          "p95": 183773.79166666666,
+          "max": 222900.5294117647
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 151744.99,
+          "median": 152312.5,
+          "p95": 191166,
+          "max": 202312.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 261904.96,
+          "median": 253979.0,
+          "p95": 307417,
+          "max": 548709
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 438644.19,
+          "median": 326666.5,
+          "p95": 1061500,
+          "max": 1942750
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 9741480.793485953,
+          "median": 9568952.298888888,
+          "p95": 12658291.691489361,
+          "max": 14007376.292929294
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 4984861.88,
+          "median": 4726906.25,
+          "p95": 7834187.5,
+          "max": 8926958.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 28144468.31,
+          "median": 27781333.5,
+          "p95": 35853958,
+          "max": 39708333
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 34878073.78,
+          "median": 32731666.5,
+          "p95": 48253750,
+          "max": 77925958
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 9590267.895737084,
+          "median": 9413523.383403657,
+          "p95": 12501747.79787234,
+          "max": 13850656.191919193
+        },
+        "median": {
+          "count": 100,
+          "mean": 4829157.46,
+          "median": 4584239.5,
+          "p95": 7633896.0,
+          "max": 8694875.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 27898688.72,
+          "median": 27537917.0,
+          "p95": 35584250,
+          "max": 39451833
+        },
+        "max": {
+          "count": 100,
+          "mean": 34603148.36,
+          "median": 32429312.5,
+          "p95": 48009750,
+          "max": 77498417
+        }
+      }
+    },
+    {
+      "config_id": "L48",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 23.217318248739975,
+        "median": 22.063682541498565,
+        "p95": 30.24775320899971,
+        "max": 41.52558462500019
+      },
+      "worker_peak_rss_bytes": 27000832,
+      "parent_peak_rss_bytes": 401948672,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 27696,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 76422737.03485446,
+          "median": 75871011.73902148,
+          "p95": 96535956.17708333,
+          "max": 101550600.31736527
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 56149953.96,
+          "median": 55623291.5,
+          "p95": 75163833,
+          "max": 89719083.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 223810307.87,
+          "median": 221547896.0,
+          "p95": 314023250,
+          "max": 424307708
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 448463827.13,
+          "median": 431453000.0,
+          "p95": 562473667,
+          "max": 790023583
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 218071.35481723334,
+          "median": 217239.32784532252,
+          "p95": 247991.33021806853,
+          "max": 256819.41558441558
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 200210.625,
+          "median": 200698.0,
+          "p95": 228854.0,
+          "max": 246979.5
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 395657.09,
+          "median": 391458.5,
+          "p95": 477041,
+          "max": 547417
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 1257442.1,
+          "median": 903062.5,
+          "p95": 2492084,
+          "max": 6390875
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 76640808.38967168,
+          "median": 76084527.09981419,
+          "p95": 96771080.89583333,
+          "max": 101791063.88323353
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 56353911.905,
+          "median": 55834916.5,
+          "p95": 75392333,
+          "max": 89968209.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 224185327.05,
+          "median": 221871562.5,
+          "p95": 314423416,
+          "max": 425037916
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 449253929.21,
+          "median": 432213250.0,
+          "p95": 563017167,
+          "max": 790716374
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 76422737.03485446,
+          "median": 75871011.73902148,
+          "p95": 96535956.17708333,
+          "max": 101550600.31736527
+        },
+        "median": {
+          "count": 100,
+          "mean": 56149953.96,
+          "median": 55623291.5,
+          "p95": 75163833,
+          "max": 89719083.5
+        },
+        "p95": {
+          "count": 100,
+          "mean": 223810307.87,
+          "median": 221547896.0,
+          "p95": 314023250,
+          "max": 424307708
+        },
+        "max": {
+          "count": 100,
+          "mean": 448463827.13,
+          "median": 431453000.0,
+          "p95": 562473667,
+          "max": 790023583
+        }
+      }
+    },
+    {
+      "config_id": "L48",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 18.65429593328003,
+        "median": 18.3487493119992,
+        "p95": 24.618670666997787,
+        "max": 26.46577533299933
+      },
+      "worker_peak_rss_bytes": 24739840,
+      "parent_peak_rss_bytes": 402014208,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 27070,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 62274669.585977264,
+          "median": 62300572.354780674,
+          "p95": 79139019.79775281,
+          "max": 84542231.9375
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 26052070.815,
+          "median": 26010229.75,
+          "p95": 34319604.0,
+          "max": 38382833.5
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 224340089.59,
+          "median": 220164479.0,
+          "p95": 313309917,
+          "max": 467959000
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 442645977.94,
+          "median": 427732333.5,
+          "p95": 546741542,
+          "max": 699370333
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 209167.31841764768,
+          "median": 209050.37725053885,
+          "p95": 241925.87007874015,
+          "max": 267332.171314741
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 187858.14,
+          "median": 189187.5,
+          "p95": 223146.5,
+          "max": 232667
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 394808.3,
+          "median": 393291.5,
+          "p95": 480583,
+          "max": 574167
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 1294547.46,
+          "median": 935833.5,
+          "p95": 2861708,
+          "max": 8090125
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 62483836.90439491,
+          "median": 62495761.689569436,
+          "p95": 79355404.6554307,
+          "max": 84753532.95833333
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 26252059.975,
+          "median": 26224239.75,
+          "p95": 34580645.5,
+          "max": 38589146.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 224727044.2,
+          "median": 220512229.0,
+          "p95": 313700042,
+          "max": 468810167
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 443502248.33,
+          "median": 428545500.0,
+          "p95": 547215708,
+          "max": 700030875
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 62274669.585977264,
+          "median": 62300572.354780674,
+          "p95": 79139019.79775281,
+          "max": 84542231.9375
+        },
+        "median": {
+          "count": 100,
+          "mean": 26052070.815,
+          "median": 26010229.75,
+          "p95": 34319604.0,
+          "max": 38382833.5
+        },
+        "p95": {
+          "count": 100,
+          "mean": 224340089.59,
+          "median": 220164479.0,
+          "p95": 313309917,
+          "max": 467959000
+        },
+        "max": {
+          "count": 100,
+          "mean": 442645977.94,
+          "median": 427732333.5,
+          "p95": 546741542,
+          "max": 699370333
+        }
+      }
+    },
+    {
+      "config_id": "L48",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 19.42444736539992,
+        "median": 19.360701687499386,
+        "p95": 25.31371179099915,
+        "max": 28.480106374998286
+      },
+      "worker_peak_rss_bytes": 25657344,
+      "parent_peak_rss_bytes": 402096128,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 27521,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 63982177.38756609,
+          "median": 63535224.53153835,
+          "p95": 83197825.12982456,
+          "max": 84048308.27974276
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 28875658.575,
+          "median": 27941572.5,
+          "p95": 41029187.5,
+          "max": 45379771.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 224286027.08,
+          "median": 214991729.0,
+          "p95": 318974584,
+          "max": 467016542
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 443360665.38,
+          "median": 432358020.5,
+          "p95": 544670000,
+          "max": 701011667
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 210918.46713898538,
+          "median": 211235.38953644608,
+          "p95": 238745.2969924812,
+          "max": 274341.85401459853
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 189459.805,
+          "median": 191874.75,
+          "p95": 218020.5,
+          "max": 227708
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 392398.71,
+          "median": 385166.5,
+          "p95": 464708,
+          "max": 518709
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 1289677.99,
+          "median": 916708.5,
+          "p95": 2309417,
+          "max": 10334750
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 64193095.85470507,
+          "median": 63752375.74947888,
+          "p95": 83423819.81754386,
+          "max": 84266574.29581994
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 29078189.185,
+          "median": 28195499.5,
+          "p95": 41286417.0,
+          "max": 45612333.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 224643146.26,
+          "median": 215341104.5,
+          "p95": 319302334,
+          "max": 467747583
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 444162294.12,
+          "median": 433027187.0,
+          "p95": 545275583,
+          "max": 701651792
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 63982177.38756609,
+          "median": 63535224.53153835,
+          "p95": 83197825.12982456,
+          "max": 84048308.27974276
+        },
+        "median": {
+          "count": 100,
+          "mean": 28875658.575,
+          "median": 27941572.5,
+          "p95": 41029187.5,
+          "max": 45379771.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 224286027.08,
+          "median": 214991729.0,
+          "p95": 318974584,
+          "max": 467016542
+        },
+        "max": {
+          "count": 100,
+          "mean": 443360665.38,
+          "median": 432358020.5,
+          "p95": 544670000,
+          "max": 701011667
+        }
+      }
+    },
+    {
+      "config_id": "K8",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 4.7596064858200045,
+        "median": 4.200235187499857,
+        "p95": 7.517580042000191,
+        "max": 8.029346625000471
+      },
+      "worker_peak_rss_bytes": 21446656,
+      "parent_peak_rss_bytes": 420331520,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 25362,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 12234594.186948523,
+          "median": 12215165.931559917,
+          "p95": 15265062.356589148,
+          "max": 17517920.1722973
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 9254415.405,
+          "median": 9133333.5,
+          "p95": 11495958,
+          "max": 16403979.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 33661182.13,
+          "median": 33421896.0,
+          "p95": 44118292,
+          "max": 52855041
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 61853729.58,
+          "median": 56587458.0,
+          "p95": 80487750,
+          "max": 146554625
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 104560.9858647314,
+          "median": 102954.3402659683,
+          "p95": 123014.83636363636,
+          "max": 137248.53043478262
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 99853.34,
+          "median": 99531.25,
+          "p95": 114667,
+          "max": 121333
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 171700.41,
+          "median": 167396.0,
+          "p95": 221750,
+          "max": 257542
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 568367.48,
+          "median": 325375.0,
+          "p95": 1234125,
+          "max": 6575000
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 12339155.172813253,
+          "median": 12315784.875977715,
+          "p95": 15373772.624031007,
+          "max": 17645400.587837838
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 9355616.005,
+          "median": 9241239.5,
+          "p95": 11623667,
+          "max": 16588542.0
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 33812871.73,
+          "median": 33571916.5,
+          "p95": 44308708,
+          "max": 53050000
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 62169589.55,
+          "median": 56760312.0,
+          "p95": 80744582,
+          "max": 146956042
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 12234594.186948523,
+          "median": 12215165.931559917,
+          "p95": 15265062.356589148,
+          "max": 17517920.1722973
+        },
+        "median": {
+          "count": 100,
+          "mean": 9254415.405,
+          "median": 9133333.5,
+          "p95": 11495958,
+          "max": 16403979.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 33661182.13,
+          "median": 33421896.0,
+          "p95": 44118292,
+          "max": 52855041
+        },
+        "max": {
+          "count": 100,
+          "mean": 61853729.58,
+          "median": 56587458.0,
+          "p95": 80487750,
+          "max": 146554625
+        }
+      }
+    },
+    {
+      "config_id": "K8",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 3.6436647758299294,
+        "median": 3.4163658955003484,
+        "p95": 5.826690166002663,
+        "max": 6.805825167000876
+      },
+      "worker_peak_rss_bytes": 21512192,
+      "parent_peak_rss_bytes": 420331520,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 25071,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 9122326.324214388,
+          "median": 8936881.097168598,
+          "p95": 12116168.733990148,
+          "max": 13391635.770334927
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 3650756.05,
+          "median": 3543958.25,
+          "p95": 4723812.5,
+          "max": 6352208
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 33708189.99,
+          "median": 33394375.0,
+          "p95": 46115958,
+          "max": 53051417
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 59819921.69,
+          "median": 56068375.5,
+          "p95": 79835542,
+          "max": 104803333
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 94998.65946689225,
+          "median": 93199.08463523503,
+          "p95": 113393.53636363636,
+          "max": 124782.46473029046
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 89133.96,
+          "median": 88583.25,
+          "p95": 106062.5,
+          "max": 119417.0
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 168765.78,
+          "median": 162771.0,
+          "p95": 234875,
+          "max": 250125
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 598110.07,
+          "median": 332250.0,
+          "p95": 1821292,
+          "max": 3640000
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 9217324.98368128,
+          "median": 9041873.520094771,
+          "p95": 12225172.66502463,
+          "max": 13504733.421052631
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 3751212.1,
+          "median": 3639083.0,
+          "p95": 4815541.5,
+          "max": 6409375
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 33887387.46,
+          "median": 33624500.0,
+          "p95": 46643042,
+          "max": 53235375
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 60105519.63,
+          "median": 56296917.0,
+          "p95": 80041792,
+          "max": 104996917
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 9122326.324214388,
+          "median": 8936881.097168598,
+          "p95": 12116168.733990148,
+          "max": 13391635.770334927
+        },
+        "median": {
+          "count": 100,
+          "mean": 3650756.05,
+          "median": 3543958.25,
+          "p95": 4723812.5,
+          "max": 6352208
+        },
+        "p95": {
+          "count": 100,
+          "mean": 33708189.99,
+          "median": 33394375.0,
+          "p95": 46115958,
+          "max": 53051417
+        },
+        "max": {
+          "count": 100,
+          "mean": 59819921.69,
+          "median": 56068375.5,
+          "p95": 79835542,
+          "max": 104803333
+        }
+      }
+    },
+    {
+      "config_id": "K8",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 3.9490974674898824,
+        "median": 3.5339512919981644,
+        "p95": 6.61311645800015,
+        "max": 7.6383849999983795
+      },
+      "worker_peak_rss_bytes": 21872640,
+      "parent_peak_rss_bytes": 420331520,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 25306,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 9952349.095324004,
+          "median": 9768498.560714837,
+          "p95": 12583721.705128206,
+          "max": 13773496.130232558
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 4875528.34,
+          "median": 4597844.0,
+          "p95": 7587000,
+          "max": 9423708
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 33721049.19,
+          "median": 33659729.0,
+          "p95": 45363542,
+          "max": 49514542
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 61184459.07,
+          "median": 56219020.5,
+          "p95": 88890291,
+          "max": 113594583
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 99968.04728370476,
+          "median": 96377.22617056855,
+          "p95": 121126.58846153846,
+          "max": 143726.911627907
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 93152.095,
+          "median": 91760.25,
+          "p95": 112541,
+          "max": 119333
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 169784.53,
+          "median": 162041.5,
+          "p95": 232292,
+          "max": 275250
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 556813.32,
+          "median": 316020.5,
+          "p95": 1821666,
+          "max": 5944333
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 10052317.14260771,
+          "median": 9854904.162799135,
+          "p95": 12689730.615384616,
+          "max": 13884853.646511627
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 4977884.805,
+          "median": 4696812.75,
+          "p95": 7723916,
+          "max": 9506083
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 33863427.54,
+          "median": 33804895.5,
+          "p95": 45504167,
+          "max": 49730750
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 61454372,
+          "median": 56503166.5,
+          "p95": 89158624,
+          "max": 113847792
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 9952349.095324004,
+          "median": 9768498.560714837,
+          "p95": 12583721.705128206,
+          "max": 13773496.130232558
+        },
+        "median": {
+          "count": 100,
+          "mean": 4875528.34,
+          "median": 4597844.0,
+          "p95": 7587000,
+          "max": 9423708
+        },
+        "p95": {
+          "count": 100,
+          "mean": 33721049.19,
+          "median": 33659729.0,
+          "p95": 45363542,
+          "max": 49514542
+        },
+        "max": {
+          "count": 100,
+          "mean": 61184459.07,
+          "median": 56219020.5,
+          "p95": 88890291,
+          "max": 113594583
+        }
+      }
+    },
+    {
+      "config_id": "B50",
+      "scenario": "N",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 3.967238681680028,
+        "median": 3.8804681040019204,
+        "p95": 5.08565070899931,
+        "max": 7.3515728330021375
+      },
+      "worker_peak_rss_bytes": 20873216,
+      "parent_peak_rss_bytes": 438566912,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8771,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 6479222.773627611,
+          "median": 6445375.976193901,
+          "p95": 8340498.9069767445,
+          "max": 9350621.137931034
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 4932531.045,
+          "median": 4915094.0,
+          "p95": 6495542,
+          "max": 7796792
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 18443456.17,
+          "median": 17989833.5,
+          "p95": 25221209,
+          "max": 28445500
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 25740413.32,
+          "median": 23154062.5,
+          "p95": 41080875,
+          "max": 84599792
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 136264.49758362843,
+          "median": 131660.44388989714,
+          "p95": 178045.10588235295,
+          "max": 265943.04950495047
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 124980.005,
+          "median": 124010.5,
+          "p95": 156667,
+          "max": 165792
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 263713.75,
+          "median": 249208.0,
+          "p95": 349291,
+          "max": 479125
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 604848.72,
+          "median": 338291.5,
+          "p95": 1289291,
+          "max": 8362000
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 6615487.2712112395,
+          "median": 6587819.131904488,
+          "p95": 8500568.42857143,
+          "max": 9520328
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 5068362.09,
+          "median": 5033604.5,
+          "p95": 6715000,
+          "max": 7967042
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 18713532.02,
+          "median": 18155270.5,
+          "p95": 25500834,
+          "max": 28736541
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 26088100.4,
+          "median": 23514187.5,
+          "p95": 41388666,
+          "max": 84998833
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 6479222.773627611,
+          "median": 6445375.976193901,
+          "p95": 8340498.9069767445,
+          "max": 9350621.137931034
+        },
+        "median": {
+          "count": 100,
+          "mean": 4932531.045,
+          "median": 4915094.0,
+          "p95": 6495542,
+          "max": 7796792
+        },
+        "p95": {
+          "count": 100,
+          "mean": 18443456.17,
+          "median": 17989833.5,
+          "p95": 25221209,
+          "max": 28445500
+        },
+        "max": {
+          "count": 100,
+          "mean": 25740413.32,
+          "median": 23154062.5,
+          "p95": 41080875,
+          "max": 84599792
+        }
+      }
+    },
+    {
+      "config_id": "B50",
+      "scenario": "F",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 3.906608052900192,
+        "median": 3.9020269790016755,
+        "p95": 4.984143374997075,
+        "max": 5.984747665999748
+      },
+      "worker_peak_rss_bytes": 20611072,
+      "parent_peak_rss_bytes": 438566912,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8166,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 5337901.520630771,
+          "median": 5240941.605022831,
+          "p95": 7198185.931034483,
+          "max": 8391444.819277108
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2036370.035,
+          "median": 2023375.0,
+          "p95": 2901708,
+          "max": 3756917.0
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 18513248.73,
+          "median": 17626687.5,
+          "p95": 24935000,
+          "max": 30228958
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 24779453.74,
+          "median": 22806208.5,
+          "p95": 36983292,
+          "max": 75827750
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 128496.92228315715,
+          "median": 122932.17260397831,
+          "p95": 176433.9775280899,
+          "max": 216825.3918918919
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 114458.52,
+          "median": 113281.25,
+          "p95": 143833,
+          "max": 182708
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 262488.34,
+          "median": 258646.0,
+          "p95": 346708,
+          "max": 522167
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 534853.73,
+          "median": 323854.5,
+          "p95": 1740834,
+          "max": 4305292
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 5466398.442913929,
+          "median": 5372557.960996956,
+          "p95": 7341225.724137931,
+          "max": 8603116.481927712
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2165555.49,
+          "median": 2115031.0,
+          "p95": 3054708,
+          "max": 4174270.5
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 18777268.33,
+          "median": 17957437.0,
+          "p95": 25455374,
+          "max": 30457917
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 25048218.68,
+          "median": 23014667.0,
+          "p95": 37330000,
+          "max": 76033042
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 5337901.520630771,
+          "median": 5240941.605022831,
+          "p95": 7198185.931034483,
+          "max": 8391444.819277108
+        },
+        "median": {
+          "count": 100,
+          "mean": 2036370.035,
+          "median": 2023375.0,
+          "p95": 2901708,
+          "max": 3756917.0
+        },
+        "p95": {
+          "count": 100,
+          "mean": 18513248.73,
+          "median": 17626687.5,
+          "p95": 24935000,
+          "max": 30228958
+        },
+        "max": {
+          "count": 100,
+          "mean": 24779453.74,
+          "median": 22806208.5,
+          "p95": 36983292,
+          "max": 75827750
+        }
+      }
+    },
+    {
+      "config_id": "B50",
+      "scenario": "R",
+      "instances": 100,
+      "independent_unit": "instance; scenarios are repeated contexts, not independent samples",
+      "all_complete": 100,
+      "slot_budget": 0,
+      "process_wall_s": {
+        "count": 100,
+        "mean": 3.9018651983399466,
+        "median": 3.862939020500562,
+        "p95": 5.069970833999832,
+        "max": 5.447862666998844
+      },
+      "worker_peak_rss_bytes": 20774912,
+      "parent_peak_rss_bytes": 439091200,
+      "empty_candidates_total": 0,
+      "nonempty_candidates_total": 8477,
+      "equal_instance_distributions": {
+        "decision_ns_mean": {
+          "count": 100,
+          "mean": 5278023.646195952,
+          "median": 5332040.472377314,
+          "p95": 6946925.929411764,
+          "max": 8258781.876712329
+        },
+        "decision_ns_median": {
+          "count": 100,
+          "mean": 2046123.735,
+          "median": 1907239.5,
+          "p95": 3104708,
+          "max": 3427083
+        },
+        "decision_ns_p95": {
+          "count": 100,
+          "mean": 18335270.44,
+          "median": 17954729.0,
+          "p95": 25637667,
+          "max": 28786875
+        },
+        "decision_ns_max": {
+          "count": 100,
+          "mean": 24550681.26,
+          "median": 22942563.0,
+          "p95": 36547208,
+          "max": 68405584
+        },
+        "selector_ns_mean": {
+          "count": 100,
+          "mean": 125227.77216908844,
+          "median": 121659.40986842106,
+          "p95": 169174.12328767125,
+          "max": 196760.33333333334
+        },
+        "selector_ns_median": {
+          "count": 100,
+          "mean": 112121.045,
+          "median": 109573.0,
+          "p95": 145625,
+          "max": 167042
+        },
+        "selector_ns_p95": {
+          "count": 100,
+          "mean": 257296.65,
+          "median": 244938.0,
+          "p95": 340625,
+          "max": 424458
+        },
+        "selector_ns_max": {
+          "count": 100,
+          "mean": 434602.51,
+          "median": 311812.0,
+          "p95": 894083,
+          "max": 2681208
+        },
+        "decision_plus_selector_ns_mean": {
+          "count": 100,
+          "mean": 5403251.418365041,
+          "median": 5465291.591202017,
+          "p95": 7074171.576470588,
+          "max": 8414699.657534247
+        },
+        "decision_plus_selector_ns_median": {
+          "count": 100,
+          "mean": 2163780.39,
+          "median": 2030375.25,
+          "p95": 3292791,
+          "max": 3564000
+        },
+        "decision_plus_selector_ns_p95": {
+          "count": 100,
+          "mean": 18578310.01,
+          "median": 18169375.0,
+          "p95": 25960334,
+          "max": 29101250
+        },
+        "decision_plus_selector_ns_max": {
+          "count": 100,
+          "mean": 24837631.34,
+          "median": 23242313.5,
+          "p95": 36870625,
+          "max": 68881418
+        }
+      },
+      "nonempty_equal_instance": {
+        "mean": {
+          "count": 100,
+          "mean": 5278023.646195952,
+          "median": 5332040.472377314,
+          "p95": 6946925.929411764,
+          "max": 8258781.876712329
+        },
+        "median": {
+          "count": 100,
+          "mean": 2046123.735,
+          "median": 1907239.5,
+          "p95": 3104708,
+          "max": 3427083
+        },
+        "p95": {
+          "count": 100,
+          "mean": 18335270.44,
+          "median": 17954729.0,
+          "p95": 25637667,
+          "max": 28786875
+        },
+        "max": {
+          "count": 100,
+          "mean": 24550681.26,
+          "median": 22942563.0,
+          "p95": 36547208,
+          "max": 68405584
+        }
+      }
+    }
+  ]
+}

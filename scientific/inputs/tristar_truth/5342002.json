@@ -1,0 +1,78 @@
+{
+  "instance": {
+    "K": 2,
+    "applications": [
+      {
+        "access_satellite_zero_based": 0,
+        "data_sizes_MB": [
+          15,
+          35,
+          11
+        ]
+      },
+      {
+        "access_satellite_zero_based": 1,
+        "data_sizes_MB": [
+          26,
+          27,
+          20
+        ]
+      },
+      {
+        "access_satellite_zero_based": 2,
+        "data_sizes_MB": [
+          30,
+          31,
+          16
+        ]
+      },
+      {
+        "access_satellite_zero_based": 0,
+        "data_sizes_MB": [
+          19,
+          24,
+          24
+        ]
+      }
+    ],
+    "buffer_capacity_MB": [
+      40,
+      40,
+      40
+    ],
+    "config_id": "TRADEOFF_3_4_013",
+    "derived_seeds": {
+      "access": 11534571476034600411,
+      "data": 2508765883662331740,
+      "query": 4405362248835024256
+    },
+    "edges_zero_based": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "m": 3,
+    "n": 4,
+    "namespace": "TRADEOFF_MULTI_013_v1",
+    "schema": "D035_TRISTAR_INSTANCE_V1",
+    "seed": 5342002,
+    "seed_label": 5342002,
+    "split": "formal",
+    "unreliable_edge_zero_based": [
+      0,
+      1
+    ]
+  },
+  "limits": {
+    "parent_rss_bytes": 6442450944,
+    "worker_rss_bytes": 4294967296,
+    "worker_wall_s": 1800
+  },
+  "phase": "truth",
+  "split": "formal"
+}

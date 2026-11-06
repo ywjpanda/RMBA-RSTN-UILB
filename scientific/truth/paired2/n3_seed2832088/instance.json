@@ -1,0 +1,35 @@
+{
+  "n": 3,
+  "seed": 2832088,
+  "m": 2,
+  "buffer_capacity_MB": [
+    40,
+    40
+  ],
+  "applications": [
+    {
+      "data_sizes_MB": [
+        35,
+        26,
+        27
+      ],
+      "access_satellite_zero_based": 0
+    },
+    {
+      "data_sizes_MB": [
+        11,
+        30,
+        19
+      ],
+      "access_satellite_zero_based": 1
+    },
+    {
+      "data_sizes_MB": [
+        18,
+        21,
+        22
+      ],
+      "access_satellite_zero_based": 0
+    }
+  ]
+}
